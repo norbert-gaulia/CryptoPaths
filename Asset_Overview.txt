@@ -1,0 +1,1053 @@
+Asset: ETH
+Connections: 
+----------------------------------
+Asset: BTC
+Connections: 
+----------------------------------
+Asset: LTC
+Connections: 
+----------------------------------
+Asset: BNB
+Connections: 
+----------------------------------
+Asset: NEO
+Connections: 
+----------------------------------
+Asset: QTUM
+Connections: 
+----------------------------------
+Asset: EOS
+Connections: 
+----------------------------------
+Asset: SNT
+Connections: 
+----------------------------------
+Asset: BNT
+Connections: 
+----------------------------------
+Asset: BCC
+Connections: 
+----------------------------------
+Asset: GAS
+Connections: 
+----------------------------------
+Asset: USDT
+Connections: 
+----------------------------------
+Asset: HSR
+Connections: 
+----------------------------------
+Asset: OAX
+Connections: 
+----------------------------------
+Asset: DNT
+Connections: 
+----------------------------------
+Asset: MCO
+Connections: 
+----------------------------------
+Asset: ICN
+Connections: 
+----------------------------------
+Asset: WTC
+Connections: 
+----------------------------------
+Asset: LRC
+Connections: 
+----------------------------------
+Asset: YOYO
+Connections: 
+----------------------------------
+Asset: OMG
+Connections: 
+----------------------------------
+Asset: ZRX
+Connections: 
+----------------------------------
+Asset: STRAT
+Connections: 
+----------------------------------
+Asset: SNGLS
+Connections: 
+----------------------------------
+Asset: BQX
+Connections: 
+----------------------------------
+Asset: KNC
+Connections: 
+----------------------------------
+Asset: FUN
+Connections: 
+----------------------------------
+Asset: SNM
+Connections: 
+----------------------------------
+Asset: IOTA
+Connections: 
+----------------------------------
+Asset: LINK
+Connections: 
+----------------------------------
+Asset: XVG
+Connections: 
+----------------------------------
+Asset: SALT
+Connections: 
+----------------------------------
+Asset: MDA
+Connections: 
+----------------------------------
+Asset: MTL
+Connections: 
+----------------------------------
+Asset: SUB
+Connections: 
+----------------------------------
+Asset: ETC
+Connections: 
+----------------------------------
+Asset: MTH
+Connections: 
+----------------------------------
+Asset: ENG
+Connections: 
+----------------------------------
+Asset: ZEC
+Connections: 
+----------------------------------
+Asset: AST
+Connections: 
+----------------------------------
+Asset: DASH
+Connections: 
+----------------------------------
+Asset: BTG
+Connections: 
+----------------------------------
+Asset: EVX
+Connections: 
+----------------------------------
+Asset: REQ
+Connections: 
+----------------------------------
+Asset: VIB
+Connections: 
+----------------------------------
+Asset: TRX
+Connections: 
+----------------------------------
+Asset: POWR
+Connections: 
+----------------------------------
+Asset: ARK
+Connections: 
+----------------------------------
+Asset: XRP
+Connections: 
+----------------------------------
+Asset: MOD
+Connections: 
+----------------------------------
+Asset: ENJ
+Connections: 
+----------------------------------
+Asset: STORJ
+Connections: 
+----------------------------------
+Asset: VEN
+Connections: 
+----------------------------------
+Asset: KMD
+Connections: 
+----------------------------------
+Asset: NULS
+Connections: 
+----------------------------------
+Asset: RCN
+Connections: 
+----------------------------------
+Asset: RDN
+Connections: 
+----------------------------------
+Asset: XMR
+Connections: 
+----------------------------------
+Asset: DLT
+Connections: 
+----------------------------------
+Asset: AMB
+Connections: 
+----------------------------------
+Asset: BAT
+Connections: 
+----------------------------------
+Asset: BCPT
+Connections: 
+----------------------------------
+Asset: ARN
+Connections: 
+----------------------------------
+Asset: GVT
+Connections: 
+----------------------------------
+Asset: CDT
+Connections: 
+----------------------------------
+Asset: GXS
+Connections: 
+----------------------------------
+Asset: POE
+Connections: 
+----------------------------------
+Asset: QSP
+Connections: 
+----------------------------------
+Asset: BTS
+Connections: 
+----------------------------------
+Asset: XZC
+Connections: 
+----------------------------------
+Asset: LSK
+Connections: 
+----------------------------------
+Asset: TNT
+Connections: 
+----------------------------------
+Asset: FUEL
+Connections: 
+----------------------------------
+Asset: MANA
+Connections: 
+----------------------------------
+Asset: BCD
+Connections: 
+----------------------------------
+Asset: DGD
+Connections: 
+----------------------------------
+Asset: ADX
+Connections: 
+----------------------------------
+Asset: ADA
+Connections: 
+----------------------------------
+Asset: PPT
+Connections: 
+----------------------------------
+Asset: CMT
+Connections: 
+----------------------------------
+Asset: XLM
+Connections: 
+----------------------------------
+Asset: CND
+Connections: 
+----------------------------------
+Asset: LEND
+Connections: 
+----------------------------------
+Asset: WABI
+Connections: 
+----------------------------------
+Asset: TNB
+Connections: 
+----------------------------------
+Asset: WAVES
+Connections: 
+----------------------------------
+Asset: GTO
+Connections: 
+----------------------------------
+Asset: ICX
+Connections: 
+----------------------------------
+Asset: OST
+Connections: 
+----------------------------------
+Asset: ELF
+Connections: 
+----------------------------------
+Asset: AION
+Connections: 
+----------------------------------
+Asset: NEBL
+Connections: 
+----------------------------------
+Asset: BRD
+Connections: 
+----------------------------------
+Asset: EDO
+Connections: 
+----------------------------------
+Asset: WINGS
+Connections: 
+----------------------------------
+Asset: NAV
+Connections: 
+----------------------------------
+Asset: LUN
+Connections: 
+----------------------------------
+Asset: TRIG
+Connections: 
+----------------------------------
+Asset: APPC
+Connections: 
+----------------------------------
+Asset: VIBE
+Connections: 
+----------------------------------
+Asset: RLC
+Connections: 
+----------------------------------
+Asset: INS
+Connections: 
+----------------------------------
+Asset: PIVX
+Connections: 
+----------------------------------
+Asset: IOST
+Connections: 
+----------------------------------
+Asset: CHAT
+Connections: 
+----------------------------------
+Asset: STEEM
+Connections: 
+----------------------------------
+Asset: NANO
+Connections: 
+----------------------------------
+Asset: VIA
+Connections: 
+----------------------------------
+Asset: BLZ
+Connections: 
+----------------------------------
+Asset: AE
+Connections: 
+----------------------------------
+Asset: RPX
+Connections: 
+----------------------------------
+Asset: NCASH
+Connections: 
+----------------------------------
+Asset: POA
+Connections: 
+----------------------------------
+Asset: ZIL
+Connections: 
+----------------------------------
+Asset: ONT
+Connections: 
+----------------------------------
+Asset: STORM
+Connections: 
+----------------------------------
+Asset: XEM
+Connections: 
+----------------------------------
+Asset: WAN
+Connections: 
+----------------------------------
+Asset: WPR
+Connections: 
+----------------------------------
+Asset: QLC
+Connections: 
+----------------------------------
+Asset: SYS
+Connections: 
+----------------------------------
+Asset: GRS
+Connections: 
+----------------------------------
+Asset: CLOAK
+Connections: 
+----------------------------------
+Asset: GNT
+Connections: 
+----------------------------------
+Asset: LOOM
+Connections: 
+----------------------------------
+Asset: BCN
+Connections: 
+----------------------------------
+Asset: REP
+Connections: 
+----------------------------------
+Asset: TUSD
+Connections: 
+----------------------------------
+Asset: ZEN
+Connections: 
+----------------------------------
+Asset: SKY
+Connections: 
+----------------------------------
+Asset: CVC
+Connections: 
+----------------------------------
+Asset: THETA
+Connections: 
+----------------------------------
+Asset: IOTX
+Connections: 
+----------------------------------
+Asset: QKC
+Connections: 
+----------------------------------
+Asset: AGI
+Connections: 
+----------------------------------
+Asset: NXS
+Connections: 
+----------------------------------
+Asset: DATA
+Connections: 
+----------------------------------
+Asset: SC
+Connections: 
+----------------------------------
+Asset: NPXS
+Connections: 
+----------------------------------
+Asset: KEY
+Connections: 
+----------------------------------
+Asset: NAS
+Connections: 
+----------------------------------
+Asset: MFT
+Connections: 
+----------------------------------
+Asset: DENT
+Connections: 
+----------------------------------
+Asset: ARDR
+Connections: 
+----------------------------------
+Asset: HOT
+Connections: 
+----------------------------------
+Asset: VET
+Connections: 
+----------------------------------
+Asset: DOCK
+Connections: 
+----------------------------------
+Asset: POLY
+Connections: 
+----------------------------------
+Asset: PHX
+Connections: 
+----------------------------------
+Asset: HC
+Connections: 
+----------------------------------
+Asset: GO
+Connections: 
+----------------------------------
+Asset: PAX
+Connections: 
+----------------------------------
+Asset: RVN
+Connections: 
+----------------------------------
+Asset: DCR
+Connections: 
+----------------------------------
+Asset: USDC
+Connections: 
+----------------------------------
+Asset: MITH
+Connections: 
+----------------------------------
+Asset: BCHABC
+Connections: 
+----------------------------------
+Asset: BCHSV
+Connections: 
+----------------------------------
+Asset: REN
+Connections: 
+----------------------------------
+Asset: BTT
+Connections: 
+----------------------------------
+Asset: USDS
+Connections: 
+----------------------------------
+Asset: ONG
+Connections: 
+----------------------------------
+Asset: FET
+Connections: 
+----------------------------------
+Asset: CELR
+Connections: 
+----------------------------------
+Asset: MATIC
+Connections: 
+----------------------------------
+Asset: ATOM
+Connections: 
+----------------------------------
+Asset: PHB
+Connections: 
+----------------------------------
+Asset: TFUEL
+Connections: 
+----------------------------------
+Asset: ONE
+Connections: 
+----------------------------------
+Asset: FTM
+Connections: 
+----------------------------------
+Asset: BTCB
+Connections: 
+----------------------------------
+Asset: ALGO
+Connections: 
+----------------------------------
+Asset: USDSB
+Connections: 
+----------------------------------
+Asset: ERD
+Connections: 
+----------------------------------
+Asset: DOGE
+Connections: 
+----------------------------------
+Asset: DUSK
+Connections: 
+----------------------------------
+Asset: BGBP
+Connections: 
+----------------------------------
+Asset: ANKR
+Connections: 
+----------------------------------
+Asset: WIN
+Connections: 
+----------------------------------
+Asset: COS
+Connections: 
+----------------------------------
+Asset: TUSDB
+Connections: 
+----------------------------------
+Asset: COCOS
+Connections: 
+----------------------------------
+Asset: TOMO
+Connections: 
+----------------------------------
+Asset: PERL
+Connections: 
+----------------------------------
+Asset: CHZ
+Connections: 
+----------------------------------
+Asset: BAND
+Connections: 
+----------------------------------
+Asset: BUSD
+Connections: 
+----------------------------------
+Asset: BEAM
+Connections: 
+----------------------------------
+Asset: XTZ
+Connections: 
+----------------------------------
+Asset: HBAR
+Connections: 
+----------------------------------
+Asset: NKN
+Connections: 
+----------------------------------
+Asset: STX
+Connections: 
+----------------------------------
+Asset: KAVA
+Connections: 
+----------------------------------
+Asset: NGN
+Connections: 
+----------------------------------
+Asset: ARPA
+Connections: 
+----------------------------------
+Asset: CTXC
+Connections: 
+----------------------------------
+Asset: BCH
+Connections: 
+----------------------------------
+Asset: RUB
+Connections: 
+----------------------------------
+Asset: TROY
+Connections: 
+----------------------------------
+Asset: VITE
+Connections: 
+----------------------------------
+Asset: FTT
+Connections: 
+----------------------------------
+Asset: TRY
+Connections: 
+----------------------------------
+Asset: EUR
+Connections: 
+----------------------------------
+Asset: OGN
+Connections: 
+----------------------------------
+Asset: DREP
+Connections: 
+----------------------------------
+Asset: BULL
+Connections: 
+----------------------------------
+Asset: BEAR
+Connections: 
+----------------------------------
+Asset: ETHBULL
+Connections: 
+----------------------------------
+Asset: ETHBEAR
+Connections: 
+----------------------------------
+Asset: TCT
+Connections: 
+----------------------------------
+Asset: WRX
+Connections: 
+----------------------------------
+Asset: LTO
+Connections: 
+----------------------------------
+Asset: EOSBULL
+Connections: 
+----------------------------------
+Asset: EOSBEAR
+Connections: 
+----------------------------------
+Asset: XRPBULL
+Connections: 
+----------------------------------
+Asset: XRPBEAR
+Connections: 
+----------------------------------
+Asset: MBL
+Connections: 
+----------------------------------
+Asset: COTI
+Connections: 
+----------------------------------
+Asset: BNBBULL
+Connections: 
+----------------------------------
+Asset: BNBBEAR
+Connections: 
+----------------------------------
+Asset: STPT
+Connections: 
+----------------------------------
+Asset: ZAR
+Connections: 
+----------------------------------
+Asset: BKRW
+Connections: 
+----------------------------------
+Asset: SOL
+Connections: 
+----------------------------------
+Asset: IDRT
+Connections: 
+----------------------------------
+Asset: CTSI
+Connections: 
+----------------------------------
+Asset: HIVE
+Connections: 
+----------------------------------
+Asset: CHR
+Connections: 
+----------------------------------
+Asset: BTCUP
+Connections: 
+----------------------------------
+Asset: BTCDOWN
+Connections: 
+----------------------------------
+Asset: MDT
+Connections: 
+----------------------------------
+Asset: STMX
+Connections: 
+----------------------------------
+Asset: IQ
+Connections: 
+----------------------------------
+Asset: PNT
+Connections: 
+----------------------------------
+Asset: GBP
+Connections: 
+----------------------------------
+Asset: DGB
+Connections: 
+----------------------------------
+Asset: UAH
+Connections: 
+----------------------------------
+Asset: COMP
+Connections: 
+----------------------------------
+Asset: BIDR
+Connections: 
+----------------------------------
+Asset: SXP
+Connections: 
+----------------------------------
+Asset: SNX
+Connections: 
+----------------------------------
+Asset: ETHUP
+Connections: 
+----------------------------------
+Asset: ETHDOWN
+Connections: 
+----------------------------------
+Asset: ADAUP
+Connections: 
+----------------------------------
+Asset: ADADOWN
+Connections: 
+----------------------------------
+Asset: LINKUP
+Connections: 
+----------------------------------
+Asset: LINKDOWN
+Connections: 
+----------------------------------
+Asset: VTHO
+Connections: 
+----------------------------------
+Asset: IRIS
+Connections: 
+----------------------------------
+Asset: MKR
+Connections: 
+----------------------------------
+Asset: DAI
+Connections: 
+----------------------------------
+Asset: RUNE
+Connections: 
+----------------------------------
+Asset: AUD
+Connections: 
+----------------------------------
+Asset: FIO
+Connections: 
+----------------------------------
+Asset: BNBUP
+Connections: 
+----------------------------------
+Asset: BNBDOWN
+Connections: 
+----------------------------------
+Asset: XTZUP
+Connections: 
+----------------------------------
+Asset: XTZDOWN
+Connections: 
+----------------------------------
+Asset: AVA
+Connections: 
+----------------------------------
+Asset: BAL
+Connections: 
+----------------------------------
+Asset: YFI
+Connections: 
+----------------------------------
+Asset: JST
+Connections: 
+----------------------------------
+Asset: SRM
+Connections: 
+----------------------------------
+Asset: ANT
+Connections: 
+----------------------------------
+Asset: CRV
+Connections: 
+----------------------------------
+Asset: SAND
+Connections: 
+----------------------------------
+Asset: OCEAN
+Connections: 
+----------------------------------
+Asset: NMR
+Connections: 
+----------------------------------
+Asset: DOT
+Connections: 
+----------------------------------
+Asset: LUNA
+Connections: 
+----------------------------------
+Asset: IDEX
+Connections: 
+----------------------------------
+Asset: RSR
+Connections: 
+----------------------------------
+Asset: PAXG
+Connections: 
+----------------------------------
+Asset: WNXM
+Connections: 
+----------------------------------
+Asset: TRB
+Connections: 
+----------------------------------
+Asset: BZRX
+Connections: 
+----------------------------------
+Asset: WBTC
+Connections: 
+----------------------------------
+Asset: SUSHI
+Connections: 
+----------------------------------
+Asset: YFII
+Connections: 
+----------------------------------
+Asset: KSM
+Connections: 
+----------------------------------
+Asset: EGLD
+Connections: 
+----------------------------------
+Asset: DIA
+Connections: 
+----------------------------------
+Asset: UMA
+Connections: 
+----------------------------------
+Asset: EOSUP
+Connections: 
+----------------------------------
+Asset: EOSDOWN
+Connections: 
+----------------------------------
+Asset: TRXUP
+Connections: 
+----------------------------------
+Asset: TRXDOWN
+Connections: 
+----------------------------------
+Asset: XRPUP
+Connections: 
+----------------------------------
+Asset: XRPDOWN
+Connections: 
+----------------------------------
+Asset: DOTUP
+Connections: 
+----------------------------------
+Asset: DOTDOWN
+Connections: 
+----------------------------------
+Asset: BEL
+Connections: 
+----------------------------------
+Asset: WING
+Connections: 
+----------------------------------
+Asset: SWRV
+Connections: 
+----------------------------------
+Asset: LTCUP
+Connections: 
+----------------------------------
+Asset: LTCDOWN
+Connections: 
+----------------------------------
+Asset: CREAM
+Connections: 
+----------------------------------
+Asset: UNI
+Connections: 
+----------------------------------
+Asset: NBS
+Connections: 
+----------------------------------
+Asset: OXT
+Connections: 
+----------------------------------
+Asset: SUN
+Connections: 
+----------------------------------
+Asset: AVAX
+Connections: 
+----------------------------------
+Asset: HNT
+Connections: 
+----------------------------------
+Asset: BAKE
+Connections: 
+----------------------------------
+Asset: BURGER
+Connections: 
+----------------------------------
+Asset: FLM
+Connections: 
+----------------------------------
+Asset: SCRT
+Connections: 
+----------------------------------
+Asset: CAKE
+Connections: 
+----------------------------------
+Asset: SPARTA
+Connections: 
+----------------------------------
+Asset: UNIUP
+Connections: 
+----------------------------------
+Asset: UNIDOWN
+Connections: 
+----------------------------------
+Asset: ORN
+Connections: 
+----------------------------------
+Asset: UTK
+Connections: 
+----------------------------------
+Asset: XVS
+Connections: 
+----------------------------------
+Asset: ALPHA
+Connections: 
+----------------------------------
+Asset: VIDT
+Connections: 
+----------------------------------
+Asset: AAVE
+Connections: 
+----------------------------------
+Asset: BRL
+Connections: 
+----------------------------------
+Asset: NEAR
+Connections: 
+----------------------------------
+Asset: SXPUP
+Connections: 
+----------------------------------
+Asset: SXPDOWN
+Connections: 
+----------------------------------
+Asset: FIL
+Connections: 
+----------------------------------
+Asset: FILUP
+Connections: 
+----------------------------------
+Asset: FILDOWN
+Connections: 
+----------------------------------
+Asset: YFIUP
+Connections: 
+----------------------------------
+Asset: YFIDOWN
+Connections: 
+----------------------------------
+Asset: INJ
+Connections: 
+----------------------------------
+Asset: AERGO
+Connections: 
+----------------------------------
+Asset: EASY
+Connections: 
+----------------------------------
+Asset: AUDIO
+Connections: 
+----------------------------------
+Asset: CTK
+Connections: 
+----------------------------------
+Asset: BCHUP
+Connections: 
+----------------------------------
+Asset: BCHDOWN
+Connections: 
+----------------------------------
+Asset: BOT
+Connections: 
+----------------------------------
+Asset: AKRO
+Connections: 
+----------------------------------
+Asset: KP3R
+Connections: 
+----------------------------------
+Asset: AXS
+Connections: 
+----------------------------------
+Asset: HARD
+Connections: 
+----------------------------------
+Asset: RENBTC
+Connections: 
+----------------------------------
+Asset: SLP
+Connections: 
+----------------------------------
+Asset: CVP
+Connections: 
+----------------------------------
+Asset: STRAX
+Connections: 
+----------------------------------
+Asset: FOR
+Connections: 
+----------------------------------
+Asset: UNFI
+Connections: 
+----------------------------------
+Asset: FRONT
+Connections: 
+----------------------------------
+Asset: BCHA
+Connections: 
+----------------------------------
+Asset: ROSE
+Connections: 
+----------------------------------
+Asset: HEGIC
+Connections: 
+----------------------------------
+Asset: AAVEUP
+Connections: 
+----------------------------------
+Asset: AAVEDOWN
+Connections: 
+----------------------------------
+Asset: PROM
+Connections: 
+----------------------------------
