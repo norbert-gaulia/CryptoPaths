@@ -16,23 +16,31 @@ public class PathFinder {
                 GraphIO.readTradeData("24hr.json", g);
                 List<Stack<String>> pathList = new LinkedList<>();
                 List<Path> pL = new LinkedList<Path>();
-                g.DFSPath((String) baseAsset, (String) quoteAsset, pathList, pL);
+                try{
+                    g.DFSPath((String) baseAsset, (String) quoteAsset, pathList, pL);
+                }catch(Exception e){UserInterface.displayError(e.getMessage());}
                 float e = System.nanoTime();
                 UserInterface.displayMsg("Time taken: " + ((e - s)) + " nanoseconds.");
 
-                // write paths to file
+                //comparator to sort the path list
                 Comparator<Path> c = new Comparator<>() {
                     public int compare(Path a, Path b) {
                         return b.getOverallExchange().compareTo(a.getOverallExchange());
                     }
                 };
-                //sort the path
+                //sort the path in desc order
                 pL.sort(c);
-                for (Path path : pL) {
-                    for (String path2 : path.getAssetList()) {
-                        //UserInterface.displayMsg(path2);
-                    }
+
+                UserInterface.displayMsg("------------");
+
+                List<String> l = pL.get(0).getAssetList();
+                for (int i = 0; i < l.size(); i++) {
+                    if(i < l.size() - 1)
+                        UserInterface.displayMsg(l.get(i)+""+l.get(i+1));
                 }
+
+                UserInterface.displayMsg("------------");
+                
                 String directPrice = g.getPrice(baseAsset + "" + quoteAsset);
                 GraphIO.writePath(baseAsset + "" + quoteAsset, pathList,
                         "All_Paths_" + baseAsset + "" + quoteAsset + ".txt", directPrice, date.toString(),pL);

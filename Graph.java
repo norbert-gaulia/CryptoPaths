@@ -155,15 +155,12 @@ class Graph implements Serializable {
             List<String> assetList, 
             List<Stack<String>> pathList, List<String> priceList, HashMap<String, Double> zeroPrice, 
             String lastPrice,List<Path> pL) {
+                //current vertex is the goal
         if(currentVertex.equals(destination)){
+            //new path instance
             Path p = new Path(assetList, priceList);
+            //add path instance to the path list
             pL.add(p);
-            for (Path path : pL) {
-                for (String path2 : path.getAssetList()) {
-                    UserInterface.displayMsgS(path2 +" ");
-                }
-                UserInterface.displayMsg(" ");
-            }
             Stack<String> priceQueue = new Stack<>();
             Stack<String> assetQueue = new Stack<>();
             // insert the queue of assets to the list

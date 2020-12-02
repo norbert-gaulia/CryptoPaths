@@ -17,7 +17,6 @@ import com.binance.api.client.domain.market.TickerPrice;
 import com.binance.api.client.domain.general.SymbolStatus;
 import com.binance.api.client.domain.general.ExchangeInfo;
 
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Stack;

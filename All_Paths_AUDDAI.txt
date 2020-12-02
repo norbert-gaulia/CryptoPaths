@@ -1,4 +1,28 @@
 All the paths for the pair 'AUDDAI', Direct Price: NA
 
-Date: Mon Nov 30 14:04:18 AWST 2020
+Date: Tue Dec 01 20:19:29 AWST 2020
+
+Path 1: 
+{ AUD USDT DAI }
+{ 0.72927000 0.99500000 }
+
+Overall Exchange: 0.72562365
+
+-------------------------------------
+
+Path 2: 
+{ AUD BUSD DAI }
+{ 0.72891000 0.99460000 }
+
+Overall Exchange: 0.724973886
+
+-------------------------------------
+
+Path 3: 
+{ AUD BUSD USDT DAI }
+{ 0.72891000 0.99950000 0.99500000 }
+
+Overall Exchange: 0.724902817275
+
+-------------------------------------
 
