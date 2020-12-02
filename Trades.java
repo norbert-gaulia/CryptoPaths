@@ -8,7 +8,7 @@ import com.binance.api.client.domain.market.TickerStatistics;
  * Purpose:To hold the trade information from the last 24hrs for a particular
  * pair e.g. "ETHBTC"
  */
-public class Trade implements Serializable {
+public class Trades implements Serializable {
     
     private static final long serialVersionUID = 1L;
     // class fields
@@ -25,8 +25,8 @@ public class Trade implements Serializable {
     private final static BinanceApiRestClient client = factory.newRestClient();
 
     // constructor
-    public Trade(){}
-    public Trade(String symbol, String priceChange, String lastPrice,String prevClosePrice, String volume, int count) {
+    public Trades(){}
+    public Trades(String symbol, String priceChange, String lastPrice,String prevClosePrice, String volume, int count) {
         this.symbol = symbol;
         this.priceChange = priceChange;
         this.lastPrice = lastPrice;

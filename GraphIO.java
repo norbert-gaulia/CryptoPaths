@@ -19,14 +19,13 @@ import com.binance.api.client.domain.general.ExchangeInfo;
 
 import java.util.HashMap;
 import java.util.List;
-import java.util.Stack;
 
 public class GraphIO {
     private final static BinanceApiClientFactory factory = BinanceApiClientFactory.newInstance();
     private final static BinanceApiRestClient client = factory.newRestClient();
 
     public static void readAsset(String file, Graph graph) {
-        Trade trade = null;
+        Trades trade = null;
         try {
             ExchangeInfo exchangeInfo = client.getExchangeInfo();
             Assets bAsset = null, qAsset = null;
@@ -42,7 +41,7 @@ public class GraphIO {
                 // setting up graph vertices
                 graph.addVertex(baseAsset, bAsset);
                 graph.addVertex(quoteAsset, qAsset);
-                trade = new Trade();
+                trade = new Trades();
                 trade.setBase(baseAsset);
                 trade.setQuote(quoteAsset);
                 if (exchangeInfo.getSymbols().get(i).getStatus().equals(SymbolStatus.TRADING))
@@ -53,48 +52,6 @@ public class GraphIO {
             UserInterface.displayError(e.getMessage());
         }
     }
-
-    /*
-    //readAsset
-    // public static Trade readAsset(String file, Graph graph) {
-    //     Object obj;
-    //     Trade trade = null;
-    //     try {
-    //         JSONTokener jToken = new JSONTokener(new FileReader(file));
-
-    //         JSONObject jo = new JSONObject(jToken);
-
-    //         JSONArray symbols = jo.getJSONArray("symbols");
-
-    //         JSONObject symbol = (JSONObject) symbols.get(0);
-    //         Assets bAsset = null, qAsset = null;
-    //         String quoteAsset, baseAsset;
-    //         for (int i = 0; i < symbols.length(); i++) {
-    //             //read in each symbol
-    //             symbol = (JSONObject) symbols.get(i);
-    //             quoteAsset = symbol.getString("quoteAsset");
-    //             baseAsset = symbol.getString("baseAsset");
-    //             String lastPrice = "";
-    //             //setting up asset info
-    //             bAsset = new Assets(baseAsset, lastPrice, symbol.getString("symbol"));
-    //             qAsset = new Assets(quoteAsset, lastPrice, symbol.getString("symbol"));
-    //             //setting up graph vertices
-    //             graph.addVertex(baseAsset, bAsset);
-    //             graph.addVertex(quoteAsset, qAsset);
-    //             trade = new Trade();
-    //             trade.setBase(baseAsset);
-    //             trade.setQuote(quoteAsset);
-    //             if(symbol.getString("status").equals("TRADING"))
-    //                 graph.addEdge(baseAsset, quoteAsset, symbol.getString("symbol"),trade);
-    //         }
-    //     } catch (Exception e) {
-           
-    //         UserInterface.displayError(e.getMessage());
-    //     }
-    //     return trade;
-    // }
-    */
-
     // readTrade
     public static Graph readTradeData(String file, Graph graph) {
         List<TickerPrice> allPrices = client.getAllPrices();
@@ -112,7 +69,7 @@ public class GraphIO {
             //json object
             JSONObject trade = null;
             //trade data
-            Trade tradeInfo = null;
+            Trades tradeInfo = null;
             System.out.print("Downloading data...");
             
             for (int i = 0; i < trades.length(); i++) {
@@ -146,15 +103,15 @@ public class GraphIO {
         }
         return graph;
     }
-    public static void writePath(String tradePair, List<Stack<String>> assetPaths, String file, String directPrice, String date,
-            List<Path> pL){
+    public static void writePath(String tradePair, String file, String directPrice, String date,
+            List<Path> pathList){
         try {
             FileOutputStream outStream = new FileOutputStream(file);
             PrintWriter writer = new PrintWriter(outStream);
             int pathCount = 1;
             writer.println("All the paths for the pair '"+tradePair+"', Direct Price: " + directPrice + "\n");
             writer.println("Date: " + date + "\n");
-            for (Path path : pL) {
+            for (Path path : pathList) {
                 writer.println("Path " + pathCount + ": ");
                 writer.print("{");
                 for (String asset : path.getAssetList()) {
@@ -170,40 +127,7 @@ public class GraphIO {
                 writer.println("\nOverall Exchange: " + path.getOverallExchange() + "\n");
                 writer.println("-------------------------------------\n");
                 pathCount++;
-            }/*
-            //iterate through the list of paths
-            for (Stack<String> object : assetPaths) { 
-                //Asset path held in each even queue
-                if(i % 2 == 0){
-                    if (object instanceof Stack<?>) {
-                        Stack<String> q = object;
-                        writer.println("Path " + pathCount + ": ");
-                        writer.print("{");
-                        for (Object object2 : q) {
-                            writer.print(" " + object2);
-                        }
-                        writer.println(" }");
-                    }
-                } // Price path held in each odd queue
-                else{
-                    if (object instanceof Stack<?>) {
-                        bestPath = object;
-                        Stack<String> q = object;
-                        writer.print("{");
-                        overallExchange = 1;
-                        // compute overall exchange, while outputting the price
-                        for (Object price : q) {
-                            writer.print(" " + price);
-                            overallExchange *= Double.parseDouble((String)price);
-                        }
-                        writer.println(" }");
-                        writer.println("\nOverall Exchange: " + overallExchange + "\n");
-                        writer.println("-------------------------------------\n");
-                        pathCount++;
-                    }
-                }
-                i++;
-            }    */         
+            }        
             writer.close();
             UserInterface.displayScs("The path has been written to '" + file + "'.");
         } catch (IOException e) {

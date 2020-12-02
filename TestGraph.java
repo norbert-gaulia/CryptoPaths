@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class TestGraph {
     Graph g = new Graph();
-    Trade t = new Trade();
+    Trades t = new Trades();
     HashMap<String, Double> priceTree = new HashMap<>();
 
     //addVertex
@@ -49,7 +49,7 @@ public class TestGraph {
     @Test
     public void testupdateEdgeData() {
         g.addEdge("A", "B", "AB", t);
-        t = new Trade("AB", "10", "90", "80", "14", 100);
+        t = new Trades("AB", "10", "90", "80", "14", 100);
         g.updateEdgeData("AB", t);
         assertEquals(t, g.hasEdge("AB").getValue());
     }
@@ -66,7 +66,7 @@ public class TestGraph {
     @Test
     public void testGetTrade() {
         g.addEdge("A", "B", "AB", t);
-        t = new Trade("AB", "10", "90", "80", "14", 100);
+        t = new Trades("AB", "10", "90", "80", "14", 100);
         g.updateEdgeData("AB", t);
         assertEquals(t, g.getTrade("AB"));
     }
@@ -81,7 +81,7 @@ public class TestGraph {
     @Test
     public void testGetPriceValid() {
         g.addEdge("A", "B", "AB", t);
-        t = new Trade("AB", "10", "90", "80", "14", 100);
+        t = new Trades("AB", "10", "90", "80", "14", 100);
         g.updateEdgeData("AB", t);
         assertEquals(t.getLastPrice(priceTree), g.getPrice("AB"));
     }

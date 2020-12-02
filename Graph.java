@@ -26,7 +26,7 @@ class Graph implements Serializable {
     }
 
     //addEdge
-    public void addEdge(String source, String destination, String edgeLabel, Trade edgeValue){
+    public void addEdge(String source, String destination, String edgeLabel, Trades edgeValue){
         //find source & destination
         GraphVertex from = hasVertex(source), to = hasVertex(destination);
 
@@ -90,9 +90,9 @@ class Graph implements Serializable {
     }
 
     // get tradeinfo
-    public Trade getTrade(String label) {
+    public Trades getTrade(String label) {
         GraphEdge edge = hasEdge(label);
-        return (Trade) (edge.getValue());
+        return (Trades) (edge.getValue());
     }
 
     // get price
@@ -100,7 +100,7 @@ class Graph implements Serializable {
         GraphEdge edge = hasEdge(label);
         HashMap<String, Double> priceTree = new HashMap<>();
         if(edge != null)
-            return ((Trade) (edge.getValue())).getLastPrice(priceTree);
+            return ((Trades) (edge.getValue())).getLastPrice(priceTree);
         else
             return "NA";
     }
@@ -120,7 +120,7 @@ class Graph implements Serializable {
     }
     
     //Find the path b/w two vertices
-    public void DFSPath(String origin, String goal, List<Stack<String>> pathList, List<Path> pL) {
+    public void DFSPath(String origin, String goal, List<Path> pathList) {
         // list to hold price path
         List<String> priceList = new LinkedList<>();
         // list to hold asset path
@@ -141,7 +141,7 @@ class Graph implements Serializable {
             assetList.add((String) currentVertex.getLabel());
             currentVertex.setVisited();
             if (!currentVertex.equals(destination))
-                dfsPathRecursive(currentVertex, destination, assetList, pathList, priceList, zeroPrice, lastPrice,pL);
+                dfsPathRecursive(currentVertex, destination, assetList, pathList, priceList, zeroPrice, lastPrice);
         }
         // clear visited - for future searches
         for (GraphVertex vertex : this.vertices) {
@@ -153,27 +153,14 @@ class Graph implements Serializable {
     
     private void dfsPathRecursive(GraphVertex currentVertex,GraphVertex destination,
             List<String> assetList, 
-            List<Stack<String>> pathList, List<String> priceList, HashMap<String, Double> zeroPrice, 
-            String lastPrice,List<Path> pL) {
+            List<Path> pathList, List<String> priceList, HashMap<String, Double> zeroPrice, 
+            String lastPrice) {
                 //current vertex is the goal
         if(currentVertex.equals(destination)){
             //new path instance
-            Path p = new Path(assetList, priceList);
+            Path currentPath = new Path(assetList, priceList);
             //add path instance to the path list
-            pL.add(p);
-            Stack<String> priceQueue = new Stack<>();
-            Stack<String> assetQueue = new Stack<>();
-            // insert the queue of assets to the list
-            for (String object : assetList) {
-                assetQueue.add(object);
-            }
-            pathList.add(assetQueue);
-            // queue to temporarily hold the prices in current path
-            for (String object : priceList) {
-                priceQueue.add(object);
-            }
-            // insert the queue of prices to the list
-            pathList.add(priceQueue);
+            pathList.add(currentPath);
             // delete vertex from path
             assetList.remove(currentVertex.getLabel());
             // delete edge from path
@@ -192,12 +179,12 @@ class Graph implements Serializable {
                     //reetirve the edge
                     GraphEdge edge = hasEdge(currentVertex.getLabel() + "" + adjVertex.getLabel());
                     //retrieve the price
-                    lastPrice = ((Trade) edge.getValue()).getLastPrice(zeroPrice);
+                    lastPrice = ((Trades) edge.getValue()).getLastPrice(zeroPrice);
                     // insert edge price data price path
                     priceList.add(lastPrice);
                     // recursive call to access the links of each asset
                     dfsPathRecursive(adjVertex, destination,assetList, pathList, priceList,
-                            zeroPrice,lastPrice,pL);
+                            zeroPrice,lastPrice);
                     // delete vertex from path
                     assetList.remove(adjVertex.getLabel());
                     // delete edge from path
@@ -261,7 +248,7 @@ class Graph implements Serializable {
                     try {
                         edge = hasEdge(baseAsset + "" + quoteAsset);
                         HashMap<String, Double> t = new HashMap<>();
-                        price = Double.parseDouble(((Trade) edge.getValue()).getLastPrice(t));
+                        price = Double.parseDouble(((Trades) edge.getValue()).getLastPrice(t));
                     } catch (Exception e) {}
                     writer.println(" " + adjacentVertex + ", lastPrice: " + price);
                 }
