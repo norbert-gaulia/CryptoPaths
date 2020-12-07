@@ -1,135 +1,135 @@
 Asset: ETH
 Connections: 
- Asset: BTC, lastPrice: 0.031196
- Asset: USDT, lastPrice: 594.82
- Asset: TUSD, lastPrice: 596.01
- Asset: PAX, lastPrice: 595.94
- Asset: USDC, lastPrice: 595.37
- Asset: BUSD, lastPrice: 594.97
- Asset: RUB, lastPrice: 44752.8
- Asset: TRY, lastPrice: 4670.0
- Asset: EUR, lastPrice: 494.81
- Asset: ZAR, lastPrice: 9378.2
- Asset: BKRW, lastPrice: 656119.0
- Asset: GBP, lastPrice: 447.79
- Asset: BIDR, lastPrice: 8412547.0
- Asset: AUD, lastPrice: 811.99
- Asset: DAI, lastPrice: 595.0
- Asset: NGN, lastPrice: 293095.0
+ Asset: BTC, lastPrice: 0.030866
+ Asset: USDT, lastPrice: 592.09
+ Asset: TUSD, lastPrice: 592.17
+ Asset: PAX, lastPrice: 592.35
+ Asset: USDC, lastPrice: 592.15
+ Asset: BUSD, lastPrice: 592.39
+ Asset: RUB, lastPrice: 43742.0
+ Asset: TRY, lastPrice: 4639.75
+ Asset: EUR, lastPrice: 490.34
+ Asset: ZAR, lastPrice: 9274.4
+ Asset: BKRW, lastPrice: 646436.0
+ Asset: GBP, lastPrice: 445.88
+ Asset: BIDR, lastPrice: 8343157.0
+ Asset: AUD, lastPrice: 802.44
+ Asset: DAI, lastPrice: 588.83
+ Asset: NGN, lastPrice: 286245.0
  Asset: BRL, lastPrice: 0.0
 ----------------------------------
 Asset: BTC
 Connections: 
- Asset: USDT, lastPrice: 19065.17
- Asset: TUSD, lastPrice: 19106.68
- Asset: PAX, lastPrice: 19089.7
- Asset: USDC, lastPrice: 19075.07
- Asset: BUSD, lastPrice: 19070.15
- Asset: NGN, lastPrice: 9361296.0
- Asset: RUB, lastPrice: 1438000.0
- Asset: TRY, lastPrice: 149560.0
- Asset: EUR, lastPrice: 15850.82
- Asset: ZAR, lastPrice: 301937.0
- Asset: BKRW, lastPrice: 2.1014218E7
- Asset: IDRT, lastPrice: 2.69192877E8
- Asset: GBP, lastPrice: 14354.1
- Asset: UAH, lastPrice: 543882.0
- Asset: BIDR, lastPrice: 2.69112984E8
- Asset: AUD, lastPrice: 25988.08
- Asset: DAI, lastPrice: 19007.03
+ Asset: USDT, lastPrice: 19186.2
+ Asset: TUSD, lastPrice: 19179.28
+ Asset: PAX, lastPrice: 19195.0
+ Asset: USDC, lastPrice: 19194.82
+ Asset: BUSD, lastPrice: 19192.11
+ Asset: NGN, lastPrice: 9286478.0
+ Asset: RUB, lastPrice: 1413031.0
+ Asset: TRY, lastPrice: 150143.0
+ Asset: EUR, lastPrice: 15887.99
+ Asset: ZAR, lastPrice: 300731.0
+ Asset: BKRW, lastPrice: 2.0893611E7
+ Asset: IDRT, lastPrice: 2.70396524E8
+ Asset: GBP, lastPrice: 14433.13
+ Asset: UAH, lastPrice: 540000.0
+ Asset: BIDR, lastPrice: 2.70242606E8
+ Asset: AUD, lastPrice: 25901.99
+ Asset: DAI, lastPrice: 19075.44
  Asset: BRL, lastPrice: 0.0
 ----------------------------------
 Asset: LTC
 Connections: 
- Asset: BTC, lastPrice: 0.004655
- Asset: ETH, lastPrice: 0.14925
- Asset: USDT, lastPrice: 88.75
- Asset: BNB, lastPrice: 2.927
- Asset: TUSD, lastPrice: 88.76
- Asset: PAX, lastPrice: 88.67
- Asset: USDC, lastPrice: 88.91
- Asset: BUSD, lastPrice: 88.75
+ Asset: BTC, lastPrice: 0.004345
+ Asset: ETH, lastPrice: 0.14089
+ Asset: USDT, lastPrice: 83.35
+ Asset: BNB, lastPrice: 2.846
+ Asset: TUSD, lastPrice: 82.94
+ Asset: PAX, lastPrice: 83.18
+ Asset: USDC, lastPrice: 83.5
+ Asset: BUSD, lastPrice: 83.39
  Asset: EUR, lastPrice: 0.0
  Asset: NGN, lastPrice: 0.0
 ----------------------------------
 Asset: BNB
 Connections: 
- Asset: BTC, lastPrice: 0.00159
- Asset: ETH, lastPrice: 0.050954
- Asset: USDT, lastPrice: 30.3229
- Asset: PAX, lastPrice: 30.0393
- Asset: TUSD, lastPrice: 30.4955
- Asset: USDC, lastPrice: 30.3611
- Asset: BUSD, lastPrice: 30.335
- Asset: NGN, lastPrice: 14992.0
- Asset: RUB, lastPrice: 2276.81
- Asset: TRY, lastPrice: 238.05
- Asset: EUR, lastPrice: 25.24
- Asset: ZAR, lastPrice: 480.19
- Asset: BKRW, lastPrice: 33460.0
- Asset: IDRT, lastPrice: 428432.0
- Asset: GBP, lastPrice: 22.831
- Asset: BIDR, lastPrice: 428355.0
- Asset: AUD, lastPrice: 41.41
- Asset: DAI, lastPrice: 30.141
+ Asset: BTC, lastPrice: 0.0015292
+ Asset: ETH, lastPrice: 0.049557
+ Asset: USDT, lastPrice: 29.336
+ Asset: PAX, lastPrice: 29.088
+ Asset: TUSD, lastPrice: 29.156
+ Asset: USDC, lastPrice: 29.1814
+ Asset: BUSD, lastPrice: 29.3333
+ Asset: NGN, lastPrice: 14149.0
+ Asset: RUB, lastPrice: 2157.73
+ Asset: TRY, lastPrice: 229.38
+ Asset: EUR, lastPrice: 24.2943
+ Asset: ZAR, lastPrice: 461.67
+ Asset: BKRW, lastPrice: 32020.0
+ Asset: IDRT, lastPrice: 414525.0
+ Asset: GBP, lastPrice: 22.081
+ Asset: BIDR, lastPrice: 413755.0
+ Asset: AUD, lastPrice: 39.761
+ Asset: DAI, lastPrice: 29.2
  Asset: BRL, lastPrice: 0.0
 ----------------------------------
 Asset: NEO
 Connections: 
- Asset: BTC, lastPrice: 9.38E-4
- Asset: ETH, lastPrice: 0.030135
- Asset: USDT, lastPrice: 17.891
- Asset: BNB, lastPrice: 0.5919
- Asset: USDC, lastPrice: 17.855
- Asset: BUSD, lastPrice: 17.908
+ Asset: BTC, lastPrice: 9.13E-4
+ Asset: ETH, lastPrice: 0.029499
+ Asset: USDT, lastPrice: 17.492
+ Asset: BNB, lastPrice: 0.5949
+ Asset: USDC, lastPrice: 17.354
+ Asset: BUSD, lastPrice: 17.5
 ----------------------------------
 Asset: QTUM
 Connections: 
- Asset: ETH, lastPrice: 0.004647
- Asset: BTC, lastPrice: 1.455E-4
- Asset: USDT, lastPrice: 2.773
- Asset: BUSD, lastPrice: 2.762
+ Asset: ETH, lastPrice: 0.004423
+ Asset: BTC, lastPrice: 1.361E-4
+ Asset: USDT, lastPrice: 2.613
+ Asset: BUSD, lastPrice: 2.607
 ----------------------------------
 Asset: EOS
 Connections: 
- Asset: ETH, lastPrice: 0.005143
- Asset: BTC, lastPrice: 1.603E-4
- Asset: USDT, lastPrice: 3.0574
- Asset: BNB, lastPrice: 0.1009
- Asset: TUSD, lastPrice: 3.0585
- Asset: USDC, lastPrice: 3.0622
- Asset: BUSD, lastPrice: 3.06
+ Asset: ETH, lastPrice: 0.004986
+ Asset: BTC, lastPrice: 1.539E-4
+ Asset: USDT, lastPrice: 2.9538
+ Asset: BNB, lastPrice: 0.1005
+ Asset: TUSD, lastPrice: 2.9494
+ Asset: USDC, lastPrice: 2.9528
+ Asset: BUSD, lastPrice: 2.9488
 ----------------------------------
 Asset: SNT
 Connections: 
- Asset: ETH, lastPrice: 6.835E-5
- Asset: BTC, lastPrice: 2.13E-6
+ Asset: ETH, lastPrice: 6.159E-5
+ Asset: BTC, lastPrice: 1.9E-6
 ----------------------------------
 Asset: BNT
 Connections: 
- Asset: ETH, lastPrice: 0.001647
- Asset: BTC, lastPrice: 5.115E-5
- Asset: USDT, lastPrice: 0.9804
- Asset: BUSD, lastPrice: 0.9843
+ Asset: ETH, lastPrice: 0.001731
+ Asset: BTC, lastPrice: 5.349E-5
+ Asset: USDT, lastPrice: 1.0269
+ Asset: BUSD, lastPrice: 1.0257
 ----------------------------------
 Asset: BCC
 Connections: 
 ----------------------------------
 Asset: GAS
 Connections: 
- Asset: BTC, lastPrice: 9.0E-5
+ Asset: BTC, lastPrice: 8.82E-5
 ----------------------------------
 Asset: USDT
 Connections: 
- Asset: TRY, lastPrice: 7.847
- Asset: RUB, lastPrice: 75.407
- Asset: ZAR, lastPrice: 15.794
- Asset: IDRT, lastPrice: 14114.0
- Asset: UAH, lastPrice: 28.505
- Asset: BIDR, lastPrice: 14077.0
- Asset: BKRW, lastPrice: 1102.18
- Asset: DAI, lastPrice: 0.996
- Asset: NGN, lastPrice: 491.35
+ Asset: TRY, lastPrice: 7.827
+ Asset: RUB, lastPrice: 73.687
+ Asset: ZAR, lastPrice: 15.683
+ Asset: IDRT, lastPrice: 14117.0
+ Asset: UAH, lastPrice: 28.18
+ Asset: BIDR, lastPrice: 14103.0
+ Asset: BKRW, lastPrice: 1091.02
+ Asset: DAI, lastPrice: 0.9945
+ Asset: NGN, lastPrice: 483.81
  Asset: BRL, lastPrice: 0.0
 ----------------------------------
 Asset: HSR
@@ -137,11 +137,11 @@ Connections:
 ----------------------------------
 Asset: OAX
 Connections: 
- Asset: BTC, lastPrice: 3.63E-6
+ Asset: BTC, lastPrice: 3.88E-6
 ----------------------------------
 Asset: DNT
 Connections: 
- Asset: BTC, lastPrice: 2.75E-6
+ Asset: BTC, lastPrice: 2.86E-6
  Asset: BUSD, lastPrice: 0.0
  Asset: USDT, lastPrice: 0.0
 ----------------------------------
@@ -153,198 +153,198 @@ Connections:
 ----------------------------------
 Asset: WTC
 Connections: 
- Asset: BTC, lastPrice: 1.91E-5
- Asset: ETH, lastPrice: 6.16E-4
+ Asset: BTC, lastPrice: 1.85E-5
+ Asset: ETH, lastPrice: 5.98E-4
  Asset: BNB, lastPrice: 0.01203
- Asset: USDT, lastPrice: 0.3653
+ Asset: USDT, lastPrice: 0.3544
 ----------------------------------
 Asset: LRC
 Connections: 
- Asset: BTC, lastPrice: 1.01E-5
- Asset: ETH, lastPrice: 3.232E-4
- Asset: BUSD, lastPrice: 0.19264
- Asset: USDT, lastPrice: 0.19232
+ Asset: BTC, lastPrice: 9.56E-6
+ Asset: ETH, lastPrice: 3.1E-4
+ Asset: BUSD, lastPrice: 0.18368
+ Asset: USDT, lastPrice: 0.18337
 ----------------------------------
 Asset: YOYO
 Connections: 
- Asset: BTC, lastPrice: 5.0E-7
+ Asset: BTC, lastPrice: 5.4E-7
 ----------------------------------
 Asset: OMG
 Connections: 
- Asset: BTC, lastPrice: 1.949E-4
- Asset: ETH, lastPrice: 0.00625
- Asset: USDT, lastPrice: 3.7186
+ Asset: BTC, lastPrice: 1.869E-4
+ Asset: ETH, lastPrice: 0.006045
+ Asset: USDT, lastPrice: 3.584
 ----------------------------------
 Asset: ZRX
 Connections: 
- Asset: BTC, lastPrice: 2.179E-5
- Asset: ETH, lastPrice: 6.9989E-4
- Asset: BNB, lastPrice: 0.0137
- Asset: USDT, lastPrice: 0.4163
- Asset: BUSD, lastPrice: 0.4178
+ Asset: BTC, lastPrice: 2.109E-5
+ Asset: ETH, lastPrice: 6.8512E-4
+ Asset: BNB, lastPrice: 0.01381
+ Asset: USDT, lastPrice: 0.4039
+ Asset: BUSD, lastPrice: 0.4037
 ----------------------------------
 Asset: STRAT
 Connections: 
 ----------------------------------
 Asset: SNGLS
 Connections: 
- Asset: BTC, lastPrice: 3.4E-7
+ Asset: BTC, lastPrice: 3.1E-7
 ----------------------------------
 Asset: BQX
 Connections: 
- Asset: BTC, lastPrice: 8.36E-6
- Asset: ETH, lastPrice: 2.691E-4
+ Asset: BTC, lastPrice: 9.16E-6
+ Asset: ETH, lastPrice: 2.985E-4
 ----------------------------------
 Asset: KNC
 Connections: 
- Asset: BTC, lastPrice: 5.315E-5
- Asset: ETH, lastPrice: 0.0017058
- Asset: BUSD, lastPrice: 1.017
- Asset: USDT, lastPrice: 1.013
+ Asset: BTC, lastPrice: 4.988E-5
+ Asset: ETH, lastPrice: 0.0016138
+ Asset: BUSD, lastPrice: 0.955
+ Asset: USDT, lastPrice: 0.955
 ----------------------------------
 Asset: FUN
 Connections: 
- Asset: BTC, lastPrice: 2.2E-7
- Asset: ETH, lastPrice: 6.83E-6
- Asset: USDT, lastPrice: 0.00407
+ Asset: BTC, lastPrice: 2.1E-7
+ Asset: ETH, lastPrice: 6.86E-6
+ Asset: USDT, lastPrice: 0.004031
 ----------------------------------
 Asset: SNM
 Connections: 
- Asset: BTC, lastPrice: 5.2E-7
+ Asset: BTC, lastPrice: 4.4E-7
 ----------------------------------
 Asset: IOTA
 Connections: 
- Asset: BTC, lastPrice: 1.773E-5
- Asset: ETH, lastPrice: 5.6895E-4
- Asset: BNB, lastPrice: 0.01114
- Asset: USDT, lastPrice: 0.3376
- Asset: BUSD, lastPrice: 0.3388
+ Asset: BTC, lastPrice: 1.657E-5
+ Asset: ETH, lastPrice: 5.3621E-4
+ Asset: BNB, lastPrice: 0.01078
+ Asset: USDT, lastPrice: 0.3179
+ Asset: BUSD, lastPrice: 0.3183
 ----------------------------------
 Asset: LINK
 Connections: 
- Asset: BTC, lastPrice: 7.1248E-4
- Asset: ETH, lastPrice: 0.022822
- Asset: USDT, lastPrice: 13.5868
- Asset: TUSD, lastPrice: 13.5639
- Asset: USDC, lastPrice: 13.5899
- Asset: BUSD, lastPrice: 13.5981
- Asset: AUD, lastPrice: 18.59
- Asset: TRY, lastPrice: 106.1
- Asset: BKRW, lastPrice: 14808.0
+ Asset: BTC, lastPrice: 6.8313E-4
+ Asset: ETH, lastPrice: 0.022174
+ Asset: USDT, lastPrice: 13.1071
+ Asset: TUSD, lastPrice: 13.0897
+ Asset: USDC, lastPrice: 13.134
+ Asset: BUSD, lastPrice: 13.1131
+ Asset: AUD, lastPrice: 17.612
+ Asset: TRY, lastPrice: 102.084
+ Asset: BKRW, lastPrice: 14179.18
  Asset: EUR, lastPrice: 0.0
 ----------------------------------
 Asset: XVG
 Connections: 
- Asset: BTC, lastPrice: 3.9E-7
- Asset: ETH, lastPrice: 1.233E-5
+ Asset: BTC, lastPrice: 3.5E-7
+ Asset: ETH, lastPrice: 1.158E-5
 ----------------------------------
 Asset: SALT
 Connections: 
 ----------------------------------
 Asset: MDA
 Connections: 
- Asset: BTC, lastPrice: 2.663E-5
+ Asset: BTC, lastPrice: 2.709E-5
 ----------------------------------
 Asset: MTL
 Connections: 
- Asset: BTC, lastPrice: 1.886E-5
- Asset: ETH, lastPrice: 6.05E-4
- Asset: USDT, lastPrice: 0.3594
+ Asset: BTC, lastPrice: 1.939E-5
+ Asset: ETH, lastPrice: 6.27E-4
+ Asset: USDT, lastPrice: 0.3713
 ----------------------------------
 Asset: SUB
 Connections: 
 ----------------------------------
 Asset: ETC
 Connections: 
- Asset: ETH, lastPrice: 0.010617
- Asset: BTC, lastPrice: 3.32E-4
- Asset: USDT, lastPrice: 6.3278
- Asset: BNB, lastPrice: 0.2084
- Asset: BUSD, lastPrice: 6.3329
+ Asset: ETH, lastPrice: 0.010441
+ Asset: BTC, lastPrice: 3.211E-4
+ Asset: USDT, lastPrice: 6.1538
+ Asset: BNB, lastPrice: 0.21
+ Asset: BUSD, lastPrice: 6.1553
 ----------------------------------
 Asset: MTH
 Connections: 
- Asset: BTC, lastPrice: 4.3E-7
+ Asset: BTC, lastPrice: 3.9E-7
 ----------------------------------
 Asset: ENG
 Connections: 
 ----------------------------------
 Asset: ZEC
 Connections: 
- Asset: BTC, lastPrice: 0.00398
- Asset: ETH, lastPrice: 0.1275
- Asset: BNB, lastPrice: 2.506
- Asset: USDT, lastPrice: 75.95
- Asset: USDC, lastPrice: 76.0
- Asset: BUSD, lastPrice: 76.2
+ Asset: BTC, lastPrice: 0.003901
+ Asset: ETH, lastPrice: 0.12624
+ Asset: BNB, lastPrice: 2.553
+ Asset: USDT, lastPrice: 74.8
+ Asset: USDC, lastPrice: 73.83
+ Asset: BUSD, lastPrice: 74.9
 ----------------------------------
 Asset: AST
 Connections: 
- Asset: BTC, lastPrice: 4.79E-6
+ Asset: BTC, lastPrice: 4.75E-6
 ----------------------------------
 Asset: DASH
 Connections: 
- Asset: BTC, lastPrice: 0.005551
- Asset: ETH, lastPrice: 0.17827
- Asset: BNB, lastPrice: 3.495
- Asset: USDT, lastPrice: 105.82
- Asset: BUSD, lastPrice: 106.16
+ Asset: BTC, lastPrice: 0.00532
+ Asset: ETH, lastPrice: 0.17268
+ Asset: BNB, lastPrice: 3.494
+ Asset: USDT, lastPrice: 102.02
+ Asset: BUSD, lastPrice: 102.18
 ----------------------------------
 Asset: BTG
 Connections: 
- Asset: BTC, lastPrice: 4.75E-4
+ Asset: BTC, lastPrice: 4.76E-4
 ----------------------------------
 Asset: EVX
 Connections: 
- Asset: BTC, lastPrice: 1.452E-5
+ Asset: BTC, lastPrice: 1.535E-5
 ----------------------------------
 Asset: REQ
 Connections: 
- Asset: BTC, lastPrice: 1.32E-6
+ Asset: BTC, lastPrice: 1.39E-6
 ----------------------------------
 Asset: VIB
 Connections: 
  Asset: BTC, lastPrice: 8.5E-7
- Asset: ETH, lastPrice: 2.741E-5
+ Asset: ETH, lastPrice: 2.749E-5
 ----------------------------------
 Asset: TRX
 Connections: 
- Asset: BTC, lastPrice: 1.63E-6
- Asset: ETH, lastPrice: 5.218E-5
- Asset: BNB, lastPrice: 0.0010237
- Asset: USDT, lastPrice: 0.03105
- Asset: TUSD, lastPrice: 0.03103
- Asset: XRP, lastPrice: 0.04978
- Asset: PAX, lastPrice: 0.03105
- Asset: USDC, lastPrice: 0.03101
- Asset: BUSD, lastPrice: 0.03109
- Asset: NGN, lastPrice: 15.25
+ Asset: BTC, lastPrice: 1.58E-6
+ Asset: ETH, lastPrice: 5.115E-5
+ Asset: BNB, lastPrice: 0.0010326
+ Asset: USDT, lastPrice: 0.0303
+ Asset: TUSD, lastPrice: 0.0303
+ Asset: XRP, lastPrice: 0.04974
+ Asset: PAX, lastPrice: 0.03028
+ Asset: USDC, lastPrice: 0.03031
+ Asset: BUSD, lastPrice: 0.03033
+ Asset: NGN, lastPrice: 14.73
 ----------------------------------
 Asset: POWR
 Connections: 
- Asset: BTC, lastPrice: 5.5E-6
- Asset: ETH, lastPrice: 1.7629E-4
+ Asset: BTC, lastPrice: 5.45E-6
+ Asset: ETH, lastPrice: 1.7583E-4
 ----------------------------------
 Asset: ARK
 Connections: 
- Asset: BTC, lastPrice: 2.23E-5
+ Asset: BTC, lastPrice: 2.162E-5
 ----------------------------------
 Asset: XRP
 Connections: 
- Asset: BTC, lastPrice: 3.277E-5
- Asset: ETH, lastPrice: 0.00105028
- Asset: USDT, lastPrice: 0.62487
- Asset: BNB, lastPrice: 0.0206
- Asset: PAX, lastPrice: 0.62781
- Asset: TUSD, lastPrice: 0.62402
- Asset: USDC, lastPrice: 0.62357
- Asset: BUSD, lastPrice: 0.62485
- Asset: RUB, lastPrice: 46.76
- Asset: TRY, lastPrice: 4.885
- Asset: EUR, lastPrice: 0.5196
- Asset: GBP, lastPrice: 0.46968
- Asset: BKRW, lastPrice: 688.8
- Asset: AUD, lastPrice: 0.85244
+ Asset: BTC, lastPrice: 3.176E-5
+ Asset: ETH, lastPrice: 0.00102963
+ Asset: USDT, lastPrice: 0.60943
+ Asset: BNB, lastPrice: 0.02075
+ Asset: PAX, lastPrice: 0.60445
+ Asset: TUSD, lastPrice: 0.60881
+ Asset: USDC, lastPrice: 0.60995
+ Asset: BUSD, lastPrice: 0.60977
+ Asset: RUB, lastPrice: 44.956
+ Asset: TRY, lastPrice: 4.772
+ Asset: EUR, lastPrice: 0.50471
+ Asset: GBP, lastPrice: 0.45871
+ Asset: BKRW, lastPrice: 663.3
+ Asset: AUD, lastPrice: 0.8194
  Asset: BRL, lastPrice: 0.0
  Asset: NGN, lastPrice: 0.0
 ----------------------------------
@@ -353,52 +353,52 @@ Connections:
 ----------------------------------
 Asset: ENJ
 Connections: 
- Asset: BTC, lastPrice: 7.75E-6
- Asset: ETH, lastPrice: 2.4843E-4
- Asset: BNB, lastPrice: 0.004873
- Asset: USDT, lastPrice: 0.14769
- Asset: BUSD, lastPrice: 0.14802
+ Asset: BTC, lastPrice: 7.9E-6
+ Asset: ETH, lastPrice: 2.5676E-4
+ Asset: BNB, lastPrice: 0.005169
+ Asset: USDT, lastPrice: 0.15153
+ Asset: BUSD, lastPrice: 0.15178
 ----------------------------------
 Asset: STORJ
 Connections: 
- Asset: BTC, lastPrice: 1.872E-5
- Asset: ETH, lastPrice: 6.0E-4
- Asset: BUSD, lastPrice: 0.353
- Asset: USDT, lastPrice: 0.3569
+ Asset: BTC, lastPrice: 1.836E-5
+ Asset: ETH, lastPrice: 5.947E-4
+ Asset: BUSD, lastPrice: 0.3481
+ Asset: USDT, lastPrice: 0.3511
 ----------------------------------
 Asset: VEN
 Connections: 
 ----------------------------------
 Asset: KMD
 Connections: 
- Asset: BTC, lastPrice: 3.08E-5
- Asset: ETH, lastPrice: 9.87E-4
- Asset: USDT, lastPrice: 0.5874
+ Asset: BTC, lastPrice: 3.0E-5
+ Asset: ETH, lastPrice: 9.84E-4
+ Asset: USDT, lastPrice: 0.5765
 ----------------------------------
 Asset: NULS
 Connections: 
- Asset: BTC, lastPrice: 1.345E-5
- Asset: USDT, lastPrice: 0.2572
+ Asset: BTC, lastPrice: 1.335E-5
+ Asset: USDT, lastPrice: 0.2561
 ----------------------------------
 Asset: RCN
 Connections: 
- Asset: BTC, lastPrice: 2.16E-6
+ Asset: BTC, lastPrice: 2.26E-6
 ----------------------------------
 Asset: RDN
 Connections: 
- Asset: BTC, lastPrice: 9.77E-6
+ Asset: BTC, lastPrice: 1.0E-5
 ----------------------------------
 Asset: XMR
 Connections: 
- Asset: BTC, lastPrice: 0.006739
- Asset: ETH, lastPrice: 0.2163
- Asset: BNB, lastPrice: 4.243
- Asset: USDT, lastPrice: 128.5
- Asset: BUSD, lastPrice: 128.68
+ Asset: BTC, lastPrice: 0.007263
+ Asset: ETH, lastPrice: 0.23584
+ Asset: BNB, lastPrice: 4.761
+ Asset: USDT, lastPrice: 139.29
+ Asset: BUSD, lastPrice: 139.28
 ----------------------------------
 Asset: DLT
 Connections: 
- Asset: BTC, lastPrice: 1.69E-6
+ Asset: BTC, lastPrice: 1.76E-6
 ----------------------------------
 Asset: AMB
 Connections: 
@@ -406,59 +406,59 @@ Connections:
 ----------------------------------
 Asset: BAT
 Connections: 
- Asset: BTC, lastPrice: 1.254E-5
- Asset: ETH, lastPrice: 4.0054E-4
- Asset: BNB, lastPrice: 0.00788
- Asset: USDT, lastPrice: 0.239
- Asset: USDC, lastPrice: 0.2385
- Asset: BUSD, lastPrice: 0.2387
+ Asset: BTC, lastPrice: 1.23E-5
+ Asset: ETH, lastPrice: 3.98E-4
+ Asset: BNB, lastPrice: 0.00804
+ Asset: USDT, lastPrice: 0.2359
+ Asset: USDC, lastPrice: 0.2365
+ Asset: BUSD, lastPrice: 0.2366
 ----------------------------------
 Asset: BCPT
 Connections: 
- Asset: BTC, lastPrice: 1.06E-6
+ Asset: BTC, lastPrice: 1.04E-6
 ----------------------------------
 Asset: ARN
 Connections: 
 ----------------------------------
 Asset: GVT
 Connections: 
- Asset: BTC, lastPrice: 6.92E-5
+ Asset: BTC, lastPrice: 6.91E-5
 ----------------------------------
 Asset: CDT
 Connections: 
- Asset: BTC, lastPrice: 3.3E-7
- Asset: ETH, lastPrice: 1.06E-5
+ Asset: BTC, lastPrice: 3.4E-7
+ Asset: ETH, lastPrice: 1.078E-5
 ----------------------------------
 Asset: GXS
 Connections: 
- Asset: BTC, lastPrice: 2.074E-5
- Asset: ETH, lastPrice: 6.65E-4
- Asset: USDT, lastPrice: 0.3975
+ Asset: BTC, lastPrice: 2.088E-5
+ Asset: ETH, lastPrice: 6.76E-4
+ Asset: USDT, lastPrice: 0.3996
 ----------------------------------
 Asset: POE
 Connections: 
 ----------------------------------
 Asset: QSP
 Connections: 
- Asset: BTC, lastPrice: 1.49E-6
- Asset: ETH, lastPrice: 4.8E-5
+ Asset: BTC, lastPrice: 1.39E-6
+ Asset: ETH, lastPrice: 4.5E-5
 ----------------------------------
 Asset: BTS
 Connections: 
- Asset: BTC, lastPrice: 1.22E-6
- Asset: USDT, lastPrice: 0.02311
+ Asset: BTC, lastPrice: 1.19E-6
+ Asset: USDT, lastPrice: 0.02268
 ----------------------------------
 Asset: XZC
 Connections: 
- Asset: BTC, lastPrice: 2.197E-4
- Asset: ETH, lastPrice: 0.00705
- Asset: USDT, lastPrice: 4.207
+ Asset: BTC, lastPrice: 2.013E-4
+ Asset: ETH, lastPrice: 0.006522
+ Asset: USDT, lastPrice: 3.854
 ----------------------------------
 Asset: LSK
 Connections: 
- Asset: BTC, lastPrice: 7.18E-5
- Asset: ETH, lastPrice: 0.002298
- Asset: USDT, lastPrice: 1.3676
+ Asset: BTC, lastPrice: 7.04E-5
+ Asset: ETH, lastPrice: 0.002283
+ Asset: USDT, lastPrice: 1.3488
 ----------------------------------
 Asset: TNT
 Connections: 
@@ -468,116 +468,115 @@ Connections:
 ----------------------------------
 Asset: MANA
 Connections: 
- Asset: BTC, lastPrice: 4.67E-6
- Asset: ETH, lastPrice: 1.4923E-4
- Asset: BUSD, lastPrice: 0.08913
- Asset: USDT, lastPrice: 0.089
+ Asset: BTC, lastPrice: 4.62E-6
+ Asset: ETH, lastPrice: 1.4934E-4
+ Asset: BUSD, lastPrice: 0.08832
+ Asset: USDT, lastPrice: 0.08865
 ----------------------------------
 Asset: BCD
 Connections: 
- Asset: BTC, lastPrice: 2.873E-5
+ Asset: BTC, lastPrice: 2.884E-5
 ----------------------------------
 Asset: DGD
 Connections: 
 ----------------------------------
 Asset: ADX
 Connections: 
- Asset: BTC, lastPrice: 1.611E-5
- Asset: ETH, lastPrice: 5.198E-4
+ Asset: BTC, lastPrice: 1.559E-5
+ Asset: ETH, lastPrice: 5.038E-4
 ----------------------------------
 Asset: ADA
 Connections: 
- Asset: BTC, lastPrice: 8.32E-6
- Asset: ETH, lastPrice: 2.6623E-4
- Asset: USDT, lastPrice: 0.15854
- Asset: BNB, lastPrice: 0.005228
- Asset: TUSD, lastPrice: 0.15667
- Asset: USDC, lastPrice: 0.15782
- Asset: BUSD, lastPrice: 0.15853
- Asset: BKRW, lastPrice: 174.33
+ Asset: BTC, lastPrice: 8.04E-6
+ Asset: ETH, lastPrice: 2.6049E-4
+ Asset: USDT, lastPrice: 0.15428
+ Asset: BNB, lastPrice: 0.005264
+ Asset: TUSD, lastPrice: 0.153
+ Asset: USDC, lastPrice: 0.15425
+ Asset: BUSD, lastPrice: 0.15434
+ Asset: BKRW, lastPrice: 167.85
  Asset: EUR, lastPrice: 0.0
 ----------------------------------
 Asset: PPT
 Connections: 
- Asset: BTC, lastPrice: 1.557E-5
+ Asset: BTC, lastPrice: 1.372E-5
 ----------------------------------
 Asset: CMT
 Connections: 
  Asset: BTC, lastPrice: 4.6E-7
- Asset: ETH, lastPrice: 1.466E-5
+ Asset: ETH, lastPrice: 1.462E-5
 ----------------------------------
 Asset: XLM
 Connections: 
- Asset: BTC, lastPrice: 9.75E-6
- Asset: ETH, lastPrice: 3.125E-4
- Asset: BNB, lastPrice: 0.006124
- Asset: USDT, lastPrice: 0.1858
- Asset: BUSD, lastPrice: 0.186
+ Asset: BTC, lastPrice: 8.77E-6
+ Asset: ETH, lastPrice: 2.843E-4
+ Asset: BNB, lastPrice: 0.005743
+ Asset: USDT, lastPrice: 0.16837
+ Asset: BUSD, lastPrice: 0.16836
 ----------------------------------
 Asset: CND
 Connections: 
- Asset: BTC, lastPrice: 4.5E-7
+ Asset: BTC, lastPrice: 4.6E-7
 ----------------------------------
 Asset: LEND
 Connections: 
 ----------------------------------
 Asset: WABI
 Connections: 
- Asset: BTC, lastPrice: 4.46E-6
- Asset: BNB, lastPrice: 0.002806
+ Asset: BTC, lastPrice: 4.2E-6
+ Asset: BNB, lastPrice: 0.002744
 ----------------------------------
 Asset: TNB
 Connections: 
- Asset: BTC, lastPrice: 1.2E-7
+ Asset: BTC, lastPrice: 1.1E-7
 ----------------------------------
 Asset: WAVES
 Connections: 
- Asset: BTC, lastPrice: 3.646E-4
- Asset: ETH, lastPrice: 0.011691
- Asset: BNB, lastPrice: 0.23026
- Asset: USDT, lastPrice: 6.9626
- Asset: BUSD, lastPrice: 6.927
+ Asset: BTC, lastPrice: 4.702E-4
+ Asset: ETH, lastPrice: 0.015279
+ Asset: BNB, lastPrice: 0.30659
+ Asset: USDT, lastPrice: 9.0196
+ Asset: BUSD, lastPrice: 9.0169
 ----------------------------------
 Asset: GTO
 Connections: 
- Asset: BTC, lastPrice: 3.7E-7
- Asset: USDT, lastPrice: 0.00698
+ Asset: BTC, lastPrice: 3.5E-7
+ Asset: USDT, lastPrice: 0.00674
 ----------------------------------
 Asset: ICX
 Connections: 
- Asset: BTC, lastPrice: 2.218E-5
- Asset: ETH, lastPrice: 7.11E-4
- Asset: BNB, lastPrice: 0.01401
- Asset: USDT, lastPrice: 0.4232
- Asset: BUSD, lastPrice: 0.4219
+ Asset: BTC, lastPrice: 2.184E-5
+ Asset: ETH, lastPrice: 7.09E-4
+ Asset: BNB, lastPrice: 0.01425
+ Asset: USDT, lastPrice: 0.4198
+ Asset: BUSD, lastPrice: 0.4194
 ----------------------------------
 Asset: OST
 Connections: 
- Asset: BTC, lastPrice: 7.0E-7
- Asset: ETH, lastPrice: 2.252E-5
+ Asset: BTC, lastPrice: 6.5E-7
+ Asset: ETH, lastPrice: 2.089E-5
 ----------------------------------
 Asset: ELF
 Connections: 
- Asset: BTC, lastPrice: 6.16E-6
- Asset: ETH, lastPrice: 1.9706E-4
+ Asset: BTC, lastPrice: 7.24E-6
+ Asset: ETH, lastPrice: 2.3439E-4
 ----------------------------------
 Asset: AION
 Connections: 
- Asset: BTC, lastPrice: 3.84E-6
- Asset: ETH, lastPrice: 1.23E-4
- Asset: BNB, lastPrice: 0.00242
- Asset: USDT, lastPrice: 0.0731
+ Asset: BTC, lastPrice: 4.35E-6
+ Asset: ETH, lastPrice: 1.4E-4
+ Asset: BNB, lastPrice: 0.002819
+ Asset: USDT, lastPrice: 0.0831
 ----------------------------------
 Asset: NEBL
 Connections: 
- Asset: BTC, lastPrice: 2.3E-5
- Asset: ETH, lastPrice: 7.34E-4
+ Asset: BTC, lastPrice: 2.296E-5
+ Asset: ETH, lastPrice: 7.48E-4
 ----------------------------------
 Asset: BRD
 Connections: 
- Asset: BTC, lastPrice: 3.79E-6
- Asset: ETH, lastPrice: 1.222E-4
- Asset: BNB, lastPrice: 0.00236
+ Asset: BTC, lastPrice: 3.96E-6
+ Asset: ETH, lastPrice: 1.283E-4
 ----------------------------------
 Asset: EDO
 Connections: 
@@ -587,7 +586,7 @@ Connections:
 ----------------------------------
 Asset: NAV
 Connections: 
- Asset: BTC, lastPrice: 6.32E-6
+ Asset: BTC, lastPrice: 6.29E-6
 ----------------------------------
 Asset: LUN
 Connections: 
@@ -597,290 +596,288 @@ Connections:
 ----------------------------------
 Asset: APPC
 Connections: 
- Asset: BTC, lastPrice: 1.57E-6
+ Asset: BTC, lastPrice: 1.45E-6
 ----------------------------------
 Asset: VIBE
 Connections: 
- Asset: BTC, lastPrice: 8.9E-7
+ Asset: BTC, lastPrice: 8.6E-7
 ----------------------------------
 Asset: RLC
 Connections: 
- Asset: BTC, lastPrice: 5.113E-5
- Asset: ETH, lastPrice: 0.001641
- Asset: BNB, lastPrice: 0.03226
- Asset: USDT, lastPrice: 0.9762
+ Asset: BTC, lastPrice: 5.082E-5
+ Asset: ETH, lastPrice: 0.001645
+ Asset: USDT, lastPrice: 0.9742
 ----------------------------------
 Asset: INS
 Connections: 
 ----------------------------------
 Asset: PIVX
 Connections: 
- Asset: BTC, lastPrice: 2.026E-5
- Asset: ETH, lastPrice: 6.47E-4
+ Asset: BTC, lastPrice: 2.058E-5
+ Asset: ETH, lastPrice: 6.67E-4
 ----------------------------------
 Asset: IOST
 Connections: 
- Asset: BTC, lastPrice: 3.2E-7
- Asset: ETH, lastPrice: 1.047E-5
- Asset: BNB, lastPrice: 2.041E-4
- Asset: USDT, lastPrice: 0.006237
+ Asset: BTC, lastPrice: 3.1E-7
+ Asset: ETH, lastPrice: 1.006E-5
+ Asset: BNB, lastPrice: 2.03E-4
+ Asset: USDT, lastPrice: 0.005946
 ----------------------------------
 Asset: CHAT
 Connections: 
 ----------------------------------
 Asset: STEEM
 Connections: 
- Asset: BTC, lastPrice: 1.049E-5
- Asset: ETH, lastPrice: 3.37E-4
- Asset: BNB, lastPrice: 0.00661
+ Asset: BTC, lastPrice: 9.47E-6
+ Asset: ETH, lastPrice: 3.06E-4
+ Asset: BNB, lastPrice: 0.00616
 ----------------------------------
 Asset: NANO
 Connections: 
- Asset: BTC, lastPrice: 6.07E-5
- Asset: ETH, lastPrice: 0.001955
- Asset: USDT, lastPrice: 1.1547
- Asset: BUSD, lastPrice: 1.1576
+ Asset: BTC, lastPrice: 5.49E-5
+ Asset: ETH, lastPrice: 0.001773
+ Asset: USDT, lastPrice: 1.0541
+ Asset: BUSD, lastPrice: 1.046
 ----------------------------------
 Asset: VIA
 Connections: 
- Asset: BTC, lastPrice: 1.132E-5
+ Asset: BTC, lastPrice: 1.102E-5
 ----------------------------------
 Asset: BLZ
 Connections: 
- Asset: BTC, lastPrice: 4.25E-6
- Asset: ETH, lastPrice: 1.3604E-4
- Asset: BNB, lastPrice: 0.002669
- Asset: USDT, lastPrice: 0.08108
+ Asset: BTC, lastPrice: 3.85E-6
+ Asset: ETH, lastPrice: 1.2477E-4
+ Asset: BNB, lastPrice: 0.002522
+ Asset: USDT, lastPrice: 0.0739
 ----------------------------------
 Asset: AE
 Connections: 
- Asset: BTC, lastPrice: 6.51E-6
+ Asset: BTC, lastPrice: 7.78E-6
 ----------------------------------
 Asset: RPX
 Connections: 
 ----------------------------------
 Asset: NCASH
 Connections: 
- Asset: ETH, lastPrice: 8.5E-7
+ Asset: ETH, lastPrice: 9.0E-7
 ----------------------------------
 Asset: POA
 Connections: 
- Asset: BTC, lastPrice: 1.1E-6
+ Asset: BTC, lastPrice: 1.02E-6
 ----------------------------------
 Asset: ZIL
 Connections: 
- Asset: BTC, lastPrice: 1.55E-6
- Asset: ETH, lastPrice: 4.981E-5
- Asset: BNB, lastPrice: 9.824E-4
- Asset: USDT, lastPrice: 0.02969
- Asset: BUSD, lastPrice: 0.02979
+ Asset: BTC, lastPrice: 1.86E-6
+ Asset: ETH, lastPrice: 6.021E-5
+ Asset: BNB, lastPrice: 0.0012029
+ Asset: USDT, lastPrice: 0.03564
+ Asset: BUSD, lastPrice: 0.03553
+ Asset: BIDR, lastPrice: 0.0
 ----------------------------------
 Asset: ONT
 Connections: 
- Asset: BTC, lastPrice: 3.0E-5
- Asset: ETH, lastPrice: 9.64E-4
- Asset: BNB, lastPrice: 0.01893
- Asset: USDT, lastPrice: 0.5732
- Asset: BUSD, lastPrice: 0.5728
+ Asset: BTC, lastPrice: 2.84E-5
+ Asset: ETH, lastPrice: 9.19E-4
+ Asset: BNB, lastPrice: 0.0186
+ Asset: USDT, lastPrice: 0.5448
+ Asset: BUSD, lastPrice: 0.5441
 ----------------------------------
 Asset: STORM
 Connections: 
 ----------------------------------
 Asset: XEM
 Connections: 
- Asset: BTC, lastPrice: 9.97E-6
- Asset: ETH, lastPrice: 3.2036E-4
+ Asset: BTC, lastPrice: 1.231E-5
+ Asset: ETH, lastPrice: 3.9855E-4
  Asset: USDT, lastPrice: 0.0
 ----------------------------------
 Asset: WAN
 Connections: 
- Asset: BTC, lastPrice: 1.829E-5
- Asset: ETH, lastPrice: 5.88E-4
- Asset: BNB, lastPrice: 0.01149
- Asset: USDT, lastPrice: 0.3489
+ Asset: BTC, lastPrice: 1.801E-5
+ Asset: ETH, lastPrice: 5.86E-4
+ Asset: BNB, lastPrice: 0.01178
+ Asset: USDT, lastPrice: 0.3459
 ----------------------------------
 Asset: WPR
 Connections: 
- Asset: BTC, lastPrice: 4.4E-7
+ Asset: BTC, lastPrice: 4.6E-7
 ----------------------------------
 Asset: QLC
 Connections: 
- Asset: BTC, lastPrice: 9.0E-7
- Asset: ETH, lastPrice: 2.887E-5
+ Asset: BTC, lastPrice: 8.5E-7
+ Asset: ETH, lastPrice: 2.74E-5
 ----------------------------------
 Asset: SYS
 Connections: 
- Asset: BTC, lastPrice: 4.95E-6
+ Asset: BTC, lastPrice: 3.61E-6
  Asset: BUSD, lastPrice: 0.0
 ----------------------------------
 Asset: GRS
 Connections: 
- Asset: BTC, lastPrice: 1.184E-5
+ Asset: BTC, lastPrice: 1.183E-5
 ----------------------------------
 Asset: CLOAK
 Connections: 
 ----------------------------------
 Asset: GNT
 Connections: 
- Asset: BTC, lastPrice: 6.29E-6
- Asset: ETH, lastPrice: 2.0346E-4
 ----------------------------------
 Asset: LOOM
 Connections: 
- Asset: BTC, lastPrice: 1.51E-6
- Asset: ETH, lastPrice: 4.832E-5
+ Asset: BTC, lastPrice: 1.56E-6
+ Asset: ETH, lastPrice: 5.033E-5
 ----------------------------------
 Asset: BCN
 Connections: 
 ----------------------------------
 Asset: REP
 Connections: 
- Asset: BTC, lastPrice: 7.93E-4
- Asset: ETH, lastPrice: 0.02534
- Asset: USDT, lastPrice: 15.168
+ Asset: BTC, lastPrice: 8.6E-4
+ Asset: ETH, lastPrice: 0.0279
+ Asset: USDT, lastPrice: 16.469
 ----------------------------------
 Asset: TUSD
 Connections: 
- Asset: USDT, lastPrice: 0.9998
+ Asset: USDT, lastPrice: 0.9996
 ----------------------------------
 Asset: ZEN
 Connections: 
- Asset: BTC, lastPrice: 7.428E-4
- Asset: ETH, lastPrice: 0.02377
- Asset: BNB, lastPrice: 0.4664
- Asset: USDT, lastPrice: 14.201
+ Asset: BTC, lastPrice: 6.204E-4
+ Asset: ETH, lastPrice: 0.02008
+ Asset: BNB, lastPrice: 0.4055
+ Asset: USDT, lastPrice: 11.885
 ----------------------------------
 Asset: SKY
 Connections: 
- Asset: BTC, lastPrice: 2.828E-5
+ Asset: BTC, lastPrice: 2.309E-5
 ----------------------------------
 Asset: CVC
 Connections: 
- Asset: BTC, lastPrice: 5.13E-6
- Asset: ETH, lastPrice: 1.6489E-4
- Asset: USDT, lastPrice: 0.09772
+ Asset: BTC, lastPrice: 5.32E-6
+ Asset: ETH, lastPrice: 1.7265E-4
+ Asset: USDT, lastPrice: 0.10182
 ----------------------------------
 Asset: THETA
 Connections: 
- Asset: BTC, lastPrice: 3.335E-5
- Asset: ETH, lastPrice: 0.00106462
- Asset: BNB, lastPrice: 0.02101
- Asset: USDT, lastPrice: 0.63626
+ Asset: BTC, lastPrice: 3.548E-5
+ Asset: ETH, lastPrice: 0.0011525
+ Asset: BNB, lastPrice: 0.023326
+ Asset: USDT, lastPrice: 0.68078
 ----------------------------------
 Asset: IOTX
 Connections: 
- Asset: BTC, lastPrice: 4.2E-7
- Asset: ETH, lastPrice: 1.341E-5
- Asset: USDT, lastPrice: 0.007932
+ Asset: BTC, lastPrice: 3.7E-7
+ Asset: ETH, lastPrice: 1.21E-5
+ Asset: USDT, lastPrice: 0.007165
 ----------------------------------
 Asset: QKC
 Connections: 
- Asset: BTC, lastPrice: 3.0E-7
- Asset: ETH, lastPrice: 9.31E-6
+ Asset: BTC, lastPrice: 2.9E-7
+ Asset: ETH, lastPrice: 9.37E-6
 ----------------------------------
 Asset: AGI
 Connections: 
- Asset: BTC, lastPrice: 2.78E-6
+ Asset: BTC, lastPrice: 2.7E-6
 ----------------------------------
 Asset: NXS
 Connections: 
- Asset: BTC, lastPrice: 1.082E-5
+ Asset: BTC, lastPrice: 1.331E-5
 ----------------------------------
 Asset: DATA
 Connections: 
- Asset: BTC, lastPrice: 2.17E-6
- Asset: ETH, lastPrice: 7.029E-5
- Asset: BUSD, lastPrice: 0.04141
- Asset: USDT, lastPrice: 0.04182
+ Asset: BTC, lastPrice: 2.14E-6
+ Asset: ETH, lastPrice: 6.897E-5
+ Asset: BUSD, lastPrice: 0.0407
+ Asset: USDT, lastPrice: 0.04081
 ----------------------------------
 Asset: SC
 Connections: 
  Asset: BTC, lastPrice: 1.8E-7
- Asset: ETH, lastPrice: 5.7E-6
- Asset: BNB, lastPrice: 1.114E-4
- Asset: USDT, lastPrice: 0.003378
+ Asset: ETH, lastPrice: 5.94E-6
+ Asset: BNB, lastPrice: 1.2E-4
+ Asset: USDT, lastPrice: 0.003497
 ----------------------------------
 Asset: NPXS
 Connections: 
  Asset: ETH, lastPrice: 3.4E-7
- Asset: USDT, lastPrice: 2.041E-4
+ Asset: USDT, lastPrice: 2.053E-4
 ----------------------------------
 Asset: KEY
 Connections: 
- Asset: ETH, lastPrice: 4.16E-6
- Asset: USDT, lastPrice: 0.002481
+ Asset: ETH, lastPrice: 4.29E-6
+ Asset: USDT, lastPrice: 0.00255
 ----------------------------------
 Asset: NAS
 Connections: 
  Asset: BTC, lastPrice: 1.65E-5
- Asset: ETH, lastPrice: 5.27E-4
+ Asset: ETH, lastPrice: 5.33E-4
 ----------------------------------
 Asset: MFT
 Connections: 
- Asset: ETH, lastPrice: 4.17E-6
- Asset: BNB, lastPrice: 8.2E-5
- Asset: USDT, lastPrice: 0.002488
+ Asset: ETH, lastPrice: 4.54E-6
+ Asset: BNB, lastPrice: 9.19E-5
+ Asset: USDT, lastPrice: 0.002691
 ----------------------------------
 Asset: DENT
 Connections: 
- Asset: ETH, lastPrice: 3.6E-7
- Asset: USDT, lastPrice: 2.157E-4
+ Asset: ETH, lastPrice: 4.2E-7
+ Asset: USDT, lastPrice: 2.487E-4
 ----------------------------------
 Asset: ARDR
 Connections: 
- Asset: BTC, lastPrice: 3.65E-6
- Asset: USDT, lastPrice: 0.06958
+ Asset: BTC, lastPrice: 3.59E-6
+ Asset: USDT, lastPrice: 0.06879
 ----------------------------------
 Asset: HOT
 Connections: 
- Asset: BTC, lastPrice: 4.0E-8
- Asset: ETH, lastPrice: 1.01E-6
- Asset: BNB, lastPrice: 1.967E-5
- Asset: USDT, lastPrice: 5.958E-4
+ Asset: BTC, lastPrice: 3.0E-8
+ Asset: ETH, lastPrice: 1.0E-6
+ Asset: BNB, lastPrice: 2.03E-5
+ Asset: USDT, lastPrice: 5.947E-4
 ----------------------------------
 Asset: VET
 Connections: 
- Asset: BTC, lastPrice: 8.0E-7
- Asset: ETH, lastPrice: 2.563E-5
- Asset: USDT, lastPrice: 0.015205
- Asset: BNB, lastPrice: 5.036E-4
- Asset: BUSD, lastPrice: 0.015264
+ Asset: BTC, lastPrice: 9.4E-7
+ Asset: ETH, lastPrice: 3.057E-5
+ Asset: USDT, lastPrice: 0.018081
+ Asset: BNB, lastPrice: 6.133E-4
+ Asset: BUSD, lastPrice: 0.018069
 ----------------------------------
 Asset: DOCK
 Connections: 
- Asset: BTC, lastPrice: 6.4E-7
- Asset: USDT, lastPrice: 0.012274
+ Asset: BTC, lastPrice: 7.0E-7
+ Asset: USDT, lastPrice: 0.01338
 ----------------------------------
 Asset: POLY
 Connections: 
- Asset: BTC, lastPrice: 3.59E-6
+ Asset: BTC, lastPrice: 3.66E-6
 ----------------------------------
 Asset: PHX
 Connections: 
 ----------------------------------
 Asset: HC
 Connections: 
- Asset: BTC, lastPrice: 4.89E-5
+ Asset: BTC, lastPrice: 4.78E-5
 ----------------------------------
 Asset: GO
 Connections: 
- Asset: BTC, lastPrice: 3.9E-7
+ Asset: BTC, lastPrice: 3.7E-7
 ----------------------------------
 Asset: PAX
 Connections: 
- Asset: USDT, lastPrice: 0.9998
+ Asset: USDT, lastPrice: 0.9997
 ----------------------------------
 Asset: RVN
 Connections: 
- Asset: BTC, lastPrice: 7.5E-7
- Asset: BNB, lastPrice: 4.72E-4
- Asset: USDT, lastPrice: 0.0143
- Asset: BUSD, lastPrice: 0.0144
+ Asset: BTC, lastPrice: 7.4E-7
+ Asset: BNB, lastPrice: 4.86E-4
+ Asset: USDT, lastPrice: 0.01436
+ Asset: BUSD, lastPrice: 0.01429
 ----------------------------------
 Asset: DCR
 Connections: 
- Asset: BTC, lastPrice: 0.001289
- Asset: USDT, lastPrice: 24.491
+ Asset: BTC, lastPrice: 0.001404
+ Asset: USDT, lastPrice: 26.968
 ----------------------------------
 Asset: USDC
 Connections: 
@@ -888,9 +885,9 @@ Connections:
 ----------------------------------
 Asset: MITH
 Connections: 
- Asset: BTC, lastPrice: 3.0E-7
- Asset: BNB, lastPrice: 1.89E-4
- Asset: USDT, lastPrice: 0.00573
+ Asset: BTC, lastPrice: 2.9E-7
+ Asset: BNB, lastPrice: 1.84E-4
+ Asset: USDT, lastPrice: 0.00541
 ----------------------------------
 Asset: BCHABC
 Connections: 
@@ -900,87 +897,87 @@ Connections:
 ----------------------------------
 Asset: REN
 Connections: 
- Asset: BTC, lastPrice: 1.666E-5
- Asset: USDT, lastPrice: 0.31814
+ Asset: BTC, lastPrice: 1.743E-5
+ Asset: USDT, lastPrice: 0.3345
 ----------------------------------
 Asset: BTT
 Connections: 
- Asset: BNB, lastPrice: 1.139E-5
- Asset: USDT, lastPrice: 3.46E-4
- Asset: TUSD, lastPrice: 3.457E-4
- Asset: USDC, lastPrice: 3.463E-4
- Asset: TRX, lastPrice: 0.01114
- Asset: BUSD, lastPrice: 3.456E-4
+ Asset: BNB, lastPrice: 1.132E-5
+ Asset: USDT, lastPrice: 3.324E-4
+ Asset: TUSD, lastPrice: 3.312E-4
+ Asset: USDC, lastPrice: 3.327E-4
+ Asset: TRX, lastPrice: 0.01097
+ Asset: BUSD, lastPrice: 3.325E-4
 ----------------------------------
 Asset: USDS
 Connections: 
 ----------------------------------
 Asset: ONG
 Connections: 
- Asset: BTC, lastPrice: 1.305E-5
- Asset: USDT, lastPrice: 0.2496
+ Asset: BTC, lastPrice: 1.203E-5
+ Asset: USDT, lastPrice: 0.2311
 ----------------------------------
 Asset: FET
 Connections: 
- Asset: BNB, lastPrice: 0.001653
- Asset: BTC, lastPrice: 2.65E-6
- Asset: USDT, lastPrice: 0.05041
+ Asset: BNB, lastPrice: 0.001804
+ Asset: BTC, lastPrice: 2.76E-6
+ Asset: USDT, lastPrice: 0.05293
 ----------------------------------
 Asset: CELR
 Connections: 
- Asset: BNB, lastPrice: 1.87E-4
+ Asset: BNB, lastPrice: 1.843E-4
  Asset: BTC, lastPrice: 2.9E-7
- Asset: USDT, lastPrice: 0.00569
+ Asset: USDT, lastPrice: 0.00544
 ----------------------------------
 Asset: MATIC
 Connections: 
- Asset: BNB, lastPrice: 6.369E-4
- Asset: BTC, lastPrice: 1.0E-6
- Asset: USDT, lastPrice: 0.01924
- Asset: BUSD, lastPrice: 0.01922
+ Asset: BNB, lastPrice: 6.561E-4
+ Asset: BTC, lastPrice: 1.01E-6
+ Asset: USDT, lastPrice: 0.01923
+ Asset: BUSD, lastPrice: 0.01927
 ----------------------------------
 Asset: ATOM
 Connections: 
- Asset: BNB, lastPrice: 0.1767
- Asset: BTC, lastPrice: 2.808E-4
- Asset: USDT, lastPrice: 5.354
- Asset: USDC, lastPrice: 5.366
- Asset: BUSD, lastPrice: 5.361
+ Asset: BNB, lastPrice: 0.1737
+ Asset: BTC, lastPrice: 2.658E-4
+ Asset: USDT, lastPrice: 5.1
+ Asset: USDC, lastPrice: 5.121
+ Asset: BUSD, lastPrice: 5.093
 ----------------------------------
 Asset: PHB
 Connections: 
- Asset: BTC, lastPrice: 1.6E-7
- Asset: TUSD, lastPrice: 0.00298
+ Asset: BTC, lastPrice: 1.5E-7
+ Asset: TUSD, lastPrice: 0.00291
 ----------------------------------
 Asset: TFUEL
 Connections: 
- Asset: BTC, lastPrice: 5.4E-7
- Asset: USDT, lastPrice: 0.010125
+ Asset: BTC, lastPrice: 6.8E-7
+ Asset: USDT, lastPrice: 0.012986
 ----------------------------------
 Asset: ONE
 Connections: 
- Asset: BNB, lastPrice: 1.788E-4
- Asset: BTC, lastPrice: 2.8E-7
- Asset: USDT, lastPrice: 0.00542
- Asset: BIDR, lastPrice: 76.27
+ Asset: BNB, lastPrice: 1.727E-4
+ Asset: BTC, lastPrice: 2.6E-7
+ Asset: USDT, lastPrice: 0.00507
+ Asset: BIDR, lastPrice: 70.98
  Asset: BUSD, lastPrice: 0.0
 ----------------------------------
 Asset: FTM
 Connections: 
- Asset: BNB, lastPrice: 6.9E-4
- Asset: BTC, lastPrice: 1.09E-6
- Asset: USDT, lastPrice: 0.02089
+ Asset: BNB, lastPrice: 7.41E-4
+ Asset: BTC, lastPrice: 1.14E-6
+ Asset: USDT, lastPrice: 0.02169
 ----------------------------------
 Asset: BTCB
 Connections: 
 ----------------------------------
 Asset: ALGO
 Connections: 
- Asset: BNB, lastPrice: 0.01029
- Asset: BTC, lastPrice: 1.638E-5
- Asset: USDT, lastPrice: 0.3118
- Asset: TUSD, lastPrice: 0.3129
- Asset: BUSD, lastPrice: 0.3129
+ Asset: BNB, lastPrice: 0.01122
+ Asset: BTC, lastPrice: 1.726E-5
+ Asset: USDT, lastPrice: 0.3306
+ Asset: TUSD, lastPrice: 0.3289
+ Asset: BUSD, lastPrice: 0.3313
 ----------------------------------
 Asset: USDSB
 Connections: 
@@ -991,181 +988,182 @@ Connections:
 Asset: DOGE
 Connections: 
  Asset: BTC, lastPrice: 1.8E-7
- Asset: USDT, lastPrice: 0.0033901
- Asset: BUSD, lastPrice: 0.003383
+ Asset: USDT, lastPrice: 0.0033359
+ Asset: BUSD, lastPrice: 0.003335
 ----------------------------------
 Asset: DUSK
 Connections: 
- Asset: BTC, lastPrice: 2.55E-6
- Asset: USDT, lastPrice: 0.0486
+ Asset: BTC, lastPrice: 2.64E-6
+ Asset: USDT, lastPrice: 0.0504
 ----------------------------------
 Asset: BGBP
 Connections: 
 ----------------------------------
 Asset: ANKR
 Connections: 
- Asset: BNB, lastPrice: 3.186E-4
- Asset: BTC, lastPrice: 5.0E-7
- Asset: USDT, lastPrice: 0.009629
+ Asset: BNB, lastPrice: 3.135E-4
+ Asset: BTC, lastPrice: 4.8E-7
+ Asset: USDT, lastPrice: 0.009213
 ----------------------------------
 Asset: WIN
 Connections: 
- Asset: BNB, lastPrice: 2.59E-6
- Asset: USDT, lastPrice: 7.832E-5
- Asset: USDC, lastPrice: 7.86E-5
- Asset: TRX, lastPrice: 0.00252
+ Asset: BNB, lastPrice: 3.08E-6
+ Asset: USDT, lastPrice: 9.012E-5
+ Asset: USDC, lastPrice: 9.02E-5
+ Asset: TRX, lastPrice: 0.00297
 ----------------------------------
 Asset: COS
 Connections: 
- Asset: BNB, lastPrice: 2.02E-4
- Asset: BTC, lastPrice: 3.2E-7
- Asset: USDT, lastPrice: 0.00611
+ Asset: BNB, lastPrice: 2.15E-4
+ Asset: BTC, lastPrice: 3.3E-7
+ Asset: USDT, lastPrice: 0.00629
 ----------------------------------
 Asset: TUSDB
 Connections: 
 ----------------------------------
 Asset: COCOS
 Connections: 
- Asset: BNB, lastPrice: 9.5E-6
- Asset: USDT, lastPrice: 2.88E-4
+ Asset: BNB, lastPrice: 1.02E-5
+ Asset: USDT, lastPrice: 3.0E-4
 ----------------------------------
 Asset: TOMO
 Connections: 
- Asset: BNB, lastPrice: 0.02356
- Asset: BTC, lastPrice: 3.77E-5
- Asset: USDT, lastPrice: 0.7194
- Asset: BUSD, lastPrice: 0.7155
+ Asset: BNB, lastPrice: 0.02544
+ Asset: BTC, lastPrice: 3.905E-5
+ Asset: USDT, lastPrice: 0.7468
+ Asset: BUSD, lastPrice: 0.7476
 ----------------------------------
 Asset: PERL
 Connections: 
- Asset: BNB, lastPrice: 7.19E-4
- Asset: BTC, lastPrice: 1.15E-6
- Asset: USDT, lastPrice: 0.02169
+ Asset: BNB, lastPrice: 6.92E-4
+ Asset: BTC, lastPrice: 1.07E-6
+ Asset: USDT, lastPrice: 0.02037
 ----------------------------------
 Asset: CHZ
 Connections: 
- Asset: BNB, lastPrice: 4.133E-4
- Asset: BTC, lastPrice: 6.5E-7
- Asset: USDT, lastPrice: 0.012379
+ Asset: BNB, lastPrice: 4.36E-4
+ Asset: BTC, lastPrice: 6.6E-7
+ Asset: USDT, lastPrice: 0.012756
 ----------------------------------
 Asset: BAND
 Connections: 
- Asset: BNB, lastPrice: 0.20769
- Asset: BTC, lastPrice: 3.3024E-4
- Asset: USDT, lastPrice: 6.2922
+ Asset: BNB, lastPrice: 0.2535
+ Asset: BTC, lastPrice: 3.883E-4
+ Asset: USDT, lastPrice: 7.4494
 ----------------------------------
 Asset: BUSD
 Connections: 
- Asset: USDT, lastPrice: 0.9997
- Asset: NGN, lastPrice: 491.04
- Asset: RUB, lastPrice: 75.033
- Asset: TRY, lastPrice: 7.831
- Asset: ZAR, lastPrice: 15.79
- Asset: IDRT, lastPrice: 14070.0
- Asset: BIDR, lastPrice: 14078.0
- Asset: BKRW, lastPrice: 1101.47
- Asset: DAI, lastPrice: 0.9956
+ Asset: USDT, lastPrice: 0.9996
+ Asset: NGN, lastPrice: 483.63
+ Asset: RUB, lastPrice: 73.699
+ Asset: TRY, lastPrice: 7.836
+ Asset: ZAR, lastPrice: 15.681
+ Asset: IDRT, lastPrice: 14146.0
+ Asset: BIDR, lastPrice: 14127.0
+ Asset: BKRW, lastPrice: 1089.65
+ Asset: DAI, lastPrice: 0.9943
  Asset: BRL, lastPrice: 0.0
 ----------------------------------
 Asset: BEAM
 Connections: 
- Asset: BTC, lastPrice: 1.41E-5
- Asset: USDT, lastPrice: 0.268
+ Asset: BTC, lastPrice: 1.37E-5
+ Asset: USDT, lastPrice: 0.2608
 ----------------------------------
 Asset: XTZ
 Connections: 
- Asset: BNB, lastPrice: 0.078
- Asset: BTC, lastPrice: 1.242E-4
- Asset: USDT, lastPrice: 2.3703
- Asset: BUSD, lastPrice: 2.3692
+ Asset: BNB, lastPrice: 0.07751
+ Asset: BTC, lastPrice: 1.182E-4
+ Asset: USDT, lastPrice: 2.2686
+ Asset: BUSD, lastPrice: 2.271
 ----------------------------------
 Asset: HBAR
 Connections: 
- Asset: BNB, lastPrice: 0.001177
- Asset: BTC, lastPrice: 1.87E-6
- Asset: USDT, lastPrice: 0.03555
- Asset: BUSD, lastPrice: 0.03573
+ Asset: BNB, lastPrice: 0.001347
+ Asset: BTC, lastPrice: 2.07E-6
+ Asset: USDT, lastPrice: 0.03968
+ Asset: BUSD, lastPrice: 0.03971
 ----------------------------------
 Asset: NKN
 Connections: 
- Asset: BNB, lastPrice: 7.18E-4
+ Asset: BNB, lastPrice: 7.46E-4
  Asset: BTC, lastPrice: 1.14E-6
- Asset: USDT, lastPrice: 0.02159
+ Asset: USDT, lastPrice: 0.02178
 ----------------------------------
 Asset: STX
 Connections: 
- Asset: BNB, lastPrice: 0.00804
- Asset: BTC, lastPrice: 1.286E-5
- Asset: USDT, lastPrice: 0.2455
+ Asset: BNB, lastPrice: 0.009
+ Asset: BTC, lastPrice: 1.379E-5
+ Asset: USDT, lastPrice: 0.2652
 ----------------------------------
 Asset: KAVA
 Connections: 
- Asset: BNB, lastPrice: 0.05612
- Asset: BTC, lastPrice: 8.97E-5
- Asset: USDT, lastPrice: 1.7099
+ Asset: BNB, lastPrice: 0.05736
+ Asset: BTC, lastPrice: 8.799E-5
+ Asset: USDT, lastPrice: 1.6872
 ----------------------------------
 Asset: NGN
 Connections: 
 ----------------------------------
 Asset: ARPA
 Connections: 
- Asset: BNB, lastPrice: 7.77E-4
- Asset: BTC, lastPrice: 1.23E-6
- Asset: USDT, lastPrice: 0.02357
+ Asset: BNB, lastPrice: 7.88E-4
+ Asset: BTC, lastPrice: 1.21E-6
+ Asset: USDT, lastPrice: 0.02301
 ----------------------------------
 Asset: CTXC
 Connections: 
- Asset: BTC, lastPrice: 4.27E-6
- Asset: USDT, lastPrice: 0.0818
+ Asset: BTC, lastPrice: 4.35E-6
+ Asset: USDT, lastPrice: 0.083
 ----------------------------------
 Asset: BCH
 Connections: 
- Asset: BNB, lastPrice: 9.683
- Asset: BTC, lastPrice: 0.015369
- Asset: USDT, lastPrice: 293.15
- Asset: USDC, lastPrice: 293.24
- Asset: TUSD, lastPrice: 291.95
- Asset: PAX, lastPrice: 292.98
- Asset: BUSD, lastPrice: 293.28
+ Asset: BNB, lastPrice: 9.698
+ Asset: BTC, lastPrice: 0.01484
+ Asset: USDT, lastPrice: 284.66
+ Asset: USDC, lastPrice: 284.96
+ Asset: TUSD, lastPrice: 284.31
+ Asset: PAX, lastPrice: 282.58
+ Asset: BUSD, lastPrice: 284.77
+ Asset: EUR, lastPrice: 0.0
 ----------------------------------
 Asset: RUB
 Connections: 
 ----------------------------------
 Asset: TROY
 Connections: 
- Asset: BNB, lastPrice: 9.65E-5
+ Asset: BNB, lastPrice: 9.87E-5
  Asset: BTC, lastPrice: 1.6E-7
- Asset: USDT, lastPrice: 0.002928
+ Asset: USDT, lastPrice: 0.0028947
 ----------------------------------
 Asset: VITE
 Connections: 
- Asset: BTC, lastPrice: 8.4E-7
- Asset: USDT, lastPrice: 0.01604
+ Asset: BTC, lastPrice: 8.1E-7
+ Asset: USDT, lastPrice: 0.01546
 ----------------------------------
 Asset: FTT
 Connections: 
- Asset: BNB, lastPrice: 0.1494
- Asset: BTC, lastPrice: 2.375E-4
- Asset: USDT, lastPrice: 4.529
+ Asset: BNB, lastPrice: 0.1523
+ Asset: BTC, lastPrice: 2.331E-4
+ Asset: USDT, lastPrice: 4.475
 ----------------------------------
 Asset: TRY
 Connections: 
 ----------------------------------
 Asset: EUR
 Connections: 
- Asset: BUSD, lastPrice: 1.2026
- Asset: USDT, lastPrice: 1.2023
+ Asset: BUSD, lastPrice: 1.2079
+ Asset: USDT, lastPrice: 1.2075
 ----------------------------------
 Asset: OGN
 Connections: 
- Asset: BNB, lastPrice: 0.00523
- Asset: BTC, lastPrice: 8.28E-6
- Asset: USDT, lastPrice: 0.158
+ Asset: BNB, lastPrice: 0.00531
+ Asset: BTC, lastPrice: 8.12E-6
+ Asset: USDT, lastPrice: 0.156
 ----------------------------------
 Asset: DREP
 Connections: 
  Asset: BTC, lastPrice: 1.7E-7
- Asset: USDT, lastPrice: 0.00318
+ Asset: USDT, lastPrice: 0.00315
 ----------------------------------
 Asset: BULL
 Connections: 
@@ -1181,20 +1179,20 @@ Connections:
 ----------------------------------
 Asset: TCT
 Connections: 
- Asset: BTC, lastPrice: 4.0E-7
- Asset: USDT, lastPrice: 0.007698
+ Asset: BTC, lastPrice: 3.9E-7
+ Asset: USDT, lastPrice: 0.00758
 ----------------------------------
 Asset: WRX
 Connections: 
- Asset: BNB, lastPrice: 0.002621
- Asset: BTC, lastPrice: 4.18E-6
- Asset: USDT, lastPrice: 0.07949
- Asset: BUSD, lastPrice: 0.07965
+ Asset: BNB, lastPrice: 0.002655
+ Asset: BTC, lastPrice: 4.08E-6
+ Asset: USDT, lastPrice: 0.07824
+ Asset: BUSD, lastPrice: 0.07852
 ----------------------------------
 Asset: LTO
 Connections: 
- Asset: BTC, lastPrice: 7.66E-6
- Asset: USDT, lastPrice: 0.14599
+ Asset: BTC, lastPrice: 6.48E-6
+ Asset: USDT, lastPrice: 0.12401
 ----------------------------------
 Asset: EOSBULL
 Connections: 
@@ -1210,15 +1208,15 @@ Connections:
 ----------------------------------
 Asset: MBL
 Connections: 
- Asset: BNB, lastPrice: 5.42E-5
- Asset: BTC, lastPrice: 8.0E-8
- Asset: USDT, lastPrice: 0.001648
+ Asset: BNB, lastPrice: 6.21E-5
+ Asset: BTC, lastPrice: 9.0E-8
+ Asset: USDT, lastPrice: 0.00182
 ----------------------------------
 Asset: COTI
 Connections: 
- Asset: BNB, lastPrice: 0.001521
- Asset: BTC, lastPrice: 2.42E-6
- Asset: USDT, lastPrice: 0.04604
+ Asset: BNB, lastPrice: 0.001493
+ Asset: BTC, lastPrice: 2.28E-6
+ Asset: USDT, lastPrice: 0.04378
 ----------------------------------
 Asset: BNBBULL
 Connections: 
@@ -1228,8 +1226,8 @@ Connections:
 ----------------------------------
 Asset: STPT
 Connections: 
- Asset: BTC, lastPrice: 9.0E-7
- Asset: USDT, lastPrice: 0.01711
+ Asset: BTC, lastPrice: 8.8E-7
+ Asset: USDT, lastPrice: 0.01687
 ----------------------------------
 Asset: ZAR
 Connections: 
@@ -1239,506 +1237,504 @@ Connections:
 ----------------------------------
 Asset: SOL
 Connections: 
- Asset: BNB, lastPrice: 0.0675
- Asset: BTC, lastPrice: 1.0765E-4
- Asset: USDT, lastPrice: 2.0506
- Asset: BUSD, lastPrice: 2.0526
+ Asset: BNB, lastPrice: 0.06229
+ Asset: BTC, lastPrice: 9.534E-5
+ Asset: USDT, lastPrice: 1.828
+ Asset: BUSD, lastPrice: 1.8275
 ----------------------------------
 Asset: IDRT
 Connections: 
 ----------------------------------
 Asset: CTSI
 Connections: 
- Asset: BTC, lastPrice: 2.2E-6
- Asset: USDT, lastPrice: 0.0418
- Asset: BNB, lastPrice: 0.001379
- Asset: BUSD, lastPrice: 0.04127
+ Asset: BTC, lastPrice: 2.15E-6
+ Asset: USDT, lastPrice: 0.04125
+ Asset: BNB, lastPrice: 0.0014
+ Asset: BUSD, lastPrice: 0.04104
 ----------------------------------
 Asset: HIVE
 Connections: 
- Asset: BNB, lastPrice: 0.00438
- Asset: BTC, lastPrice: 6.96E-6
- Asset: USDT, lastPrice: 0.1328
+ Asset: BTC, lastPrice: 7.06E-6
+ Asset: USDT, lastPrice: 0.136
 ----------------------------------
 Asset: CHR
 Connections: 
- Asset: BNB, lastPrice: 8.79E-4
- Asset: BTC, lastPrice: 1.41E-6
- Asset: USDT, lastPrice: 0.02677
+ Asset: BNB, lastPrice: 9.4E-4
+ Asset: BTC, lastPrice: 1.43E-6
+ Asset: USDT, lastPrice: 0.02764
 ----------------------------------
 Asset: BTCUP
 Connections: 
- Asset: USDT, lastPrice: 29.137
+ Asset: USDT, lastPrice: 29.25
 ----------------------------------
 Asset: BTCDOWN
 Connections: 
- Asset: USDT, lastPrice: 1.462
+ Asset: USDT, lastPrice: 1.447
 ----------------------------------
 Asset: MDT
 Connections: 
- Asset: BNB, lastPrice: 5.813E-4
- Asset: BTC, lastPrice: 9.2E-7
- Asset: USDT, lastPrice: 0.01758
+ Asset: BNB, lastPrice: 6.408E-4
+ Asset: BTC, lastPrice: 9.9E-7
+ Asset: USDT, lastPrice: 0.01879
 ----------------------------------
 Asset: STMX
 Connections: 
- Asset: BNB, lastPrice: 8.42E-5
+ Asset: BNB, lastPrice: 9.07E-5
  Asset: BTC, lastPrice: 1.3E-7
- Asset: ETH, lastPrice: 4.3E-6
- Asset: USDT, lastPrice: 0.002565
+ Asset: ETH, lastPrice: 4.48E-6
+ Asset: USDT, lastPrice: 0.002659
 ----------------------------------
 Asset: IQ
 Connections: 
- Asset: BNB, lastPrice: 8.52E-5
- Asset: BUSD, lastPrice: 0.002586
+ Asset: BNB, lastPrice: 9.23E-5
+ Asset: BUSD, lastPrice: 0.002712
 ----------------------------------
 Asset: PNT
 Connections: 
- Asset: BTC, lastPrice: 1.87E-5
- Asset: USDT, lastPrice: 0.3553
+ Asset: BTC, lastPrice: 2.558E-5
+ Asset: USDT, lastPrice: 0.4907
 ----------------------------------
 Asset: GBP
 Connections: 
  Asset: BUSD, lastPrice: 1.3284
- Asset: USDT, lastPrice: 1.3288
+ Asset: USDT, lastPrice: 1.3281
 ----------------------------------
 Asset: DGB
 Connections: 
- Asset: BNB, lastPrice: 7.72E-4
- Asset: BTC, lastPrice: 1.23E-6
- Asset: BUSD, lastPrice: 0.02361
- Asset: USDT, lastPrice: 0.02352
+ Asset: BNB, lastPrice: 7.28E-4
+ Asset: BTC, lastPrice: 1.11E-6
+ Asset: BUSD, lastPrice: 0.02133
+ Asset: USDT, lastPrice: 0.02138
 ----------------------------------
 Asset: UAH
 Connections: 
 ----------------------------------
 Asset: COMP
 Connections: 
- Asset: BTC, lastPrice: 0.005698
- Asset: BNB, lastPrice: 3.582
- Asset: BUSD, lastPrice: 108.62
- Asset: USDT, lastPrice: 108.62
+ Asset: BTC, lastPrice: 0.007771
+ Asset: BNB, lastPrice: 5.049
+ Asset: BUSD, lastPrice: 148.51
+ Asset: USDT, lastPrice: 149.28
 ----------------------------------
 Asset: BIDR
 Connections: 
 ----------------------------------
 Asset: SXP
 Connections: 
- Asset: BTC, lastPrice: 5.005E-5
- Asset: BNB, lastPrice: 0.03159
- Asset: BUSD, lastPrice: 0.9566
- Asset: USDT, lastPrice: 0.956
- Asset: AUD, lastPrice: 1.309
- Asset: EUR, lastPrice: 0.795
- Asset: BIDR, lastPrice: 13502.0
- Asset: TRY, lastPrice: 7.54
+ Asset: BTC, lastPrice: 4.738E-5
+ Asset: BNB, lastPrice: 0.03106
+ Asset: BUSD, lastPrice: 0.9103
+ Asset: USDT, lastPrice: 0.909
+ Asset: AUD, lastPrice: 1.229
+ Asset: EUR, lastPrice: 0.752
+ Asset: BIDR, lastPrice: 12830.0
+ Asset: TRY, lastPrice: 7.14
  Asset: GBP, lastPrice: 0.0
 ----------------------------------
 Asset: SNX
 Connections: 
- Asset: BTC, lastPrice: 2.744E-4
- Asset: BNB, lastPrice: 0.1727
- Asset: BUSD, lastPrice: 5.238
- Asset: USDT, lastPrice: 5.234
+ Asset: BTC, lastPrice: 2.688E-4
+ Asset: BNB, lastPrice: 0.1759
+ Asset: BUSD, lastPrice: 5.169
+ Asset: USDT, lastPrice: 5.154
 ----------------------------------
 Asset: ETHUP
 Connections: 
- Asset: USDT, lastPrice: 38.307
+ Asset: USDT, lastPrice: 37.17
 ----------------------------------
 Asset: ETHDOWN
 Connections: 
- Asset: USDT, lastPrice: 0.35
+ Asset: USDT, lastPrice: 0.354
 ----------------------------------
 Asset: ADAUP
 Connections: 
- Asset: USDT, lastPrice: 5.978
+ Asset: USDT, lastPrice: 5.602
 ----------------------------------
 Asset: ADADOWN
 Connections: 
- Asset: USDT, lastPrice: 1.241
+ Asset: USDT, lastPrice: 1.267
 ----------------------------------
 Asset: LINKUP
 Connections: 
- Asset: USDT, lastPrice: 11.6
+ Asset: USDT, lastPrice: 10.52
 ----------------------------------
 Asset: LINKDOWN
 Connections: 
- Asset: USDT, lastPrice: 0.0922
+ Asset: USDT, lastPrice: 0.1014
 ----------------------------------
 Asset: VTHO
 Connections: 
- Asset: BNB, lastPrice: 2.649E-5
- Asset: USDT, lastPrice: 8.1E-4
+ Asset: BNB, lastPrice: 2.814E-5
+ Asset: USDT, lastPrice: 8.25E-4
 ----------------------------------
 Asset: IRIS
 Connections: 
- Asset: BNB, lastPrice: 0.002016
- Asset: BTC, lastPrice: 3.23E-6
- Asset: BUSD, lastPrice: 0.06093
- Asset: USDT, lastPrice: 0.06189
+ Asset: BNB, lastPrice: 0.001981
+ Asset: BTC, lastPrice: 3.0E-6
+ Asset: USDT, lastPrice: 0.05765
 ----------------------------------
 Asset: MKR
 Connections: 
- Asset: BNB, lastPrice: 18.122
- Asset: BTC, lastPrice: 0.028785
- Asset: USDT, lastPrice: 549.62
- Asset: BUSD, lastPrice: 550.0
+ Asset: BNB, lastPrice: 17.681
+ Asset: BTC, lastPrice: 0.026957
+ Asset: USDT, lastPrice: 517.48
+ Asset: BUSD, lastPrice: 515.51
 ----------------------------------
 Asset: DAI
 Connections: 
 ----------------------------------
 Asset: RUNE
 Connections: 
- Asset: BNB, lastPrice: 0.03111
- Asset: BTC, lastPrice: 4.941E-5
- Asset: BUSD, lastPrice: 0.9484
- Asset: USDT, lastPrice: 0.9425
+ Asset: BNB, lastPrice: 0.0328
+ Asset: BTC, lastPrice: 5.033E-5
+ Asset: BUSD, lastPrice: 0.961
+ Asset: USDT, lastPrice: 0.9641
 ----------------------------------
 Asset: AUD
 Connections: 
- Asset: BUSD, lastPrice: 0.73436
- Asset: USDT, lastPrice: 0.73398
+ Asset: BUSD, lastPrice: 0.74038
+ Asset: USDT, lastPrice: 0.74
 ----------------------------------
 Asset: FIO
 Connections: 
- Asset: BNB, lastPrice: 0.00255
+ Asset: BNB, lastPrice: 0.00266
  Asset: BTC, lastPrice: 4.06E-6
- Asset: BUSD, lastPrice: 0.0774
- Asset: USDT, lastPrice: 0.0774
+ Asset: BUSD, lastPrice: 0.078
+ Asset: USDT, lastPrice: 0.0779
 ----------------------------------
 Asset: BNBUP
 Connections: 
- Asset: USDT, lastPrice: 18.63
+ Asset: USDT, lastPrice: 16.607
 ----------------------------------
 Asset: BNBDOWN
 Connections: 
- Asset: USDT, lastPrice: 1.153
+ Asset: USDT, lastPrice: 1.251
 ----------------------------------
 Asset: XTZUP
 Connections: 
- Asset: USDT, lastPrice: 2.63
+ Asset: USDT, lastPrice: 2.289
 ----------------------------------
 Asset: XTZDOWN
 Connections: 
- Asset: USDT, lastPrice: 3.053
+ Asset: USDT, lastPrice: 3.468
 ----------------------------------
 Asset: AVA
 Connections: 
- Asset: BNB, lastPrice: 0.0271
- Asset: BTC, lastPrice: 4.31E-5
- Asset: BUSD, lastPrice: 0.8193
+ Asset: BNB, lastPrice: 0.02594
+ Asset: BTC, lastPrice: 3.99E-5
+ Asset: BUSD, lastPrice: 0.7644
  Asset: USDT, lastPrice: 0.0
 ----------------------------------
 Asset: BAL
 Connections: 
- Asset: BNB, lastPrice: 0.4541
- Asset: BTC, lastPrice: 7.197E-4
- Asset: BUSD, lastPrice: 13.74
- Asset: USDT, lastPrice: 13.713
+ Asset: BNB, lastPrice: 0.4595
+ Asset: BTC, lastPrice: 7.055E-4
+ Asset: BUSD, lastPrice: 13.456
+ Asset: USDT, lastPrice: 13.436
 ----------------------------------
 Asset: YFI
 Connections: 
- Asset: BNB, lastPrice: 916.73
- Asset: BTC, lastPrice: 1.45273
- Asset: BUSD, lastPrice: 27703.58
- Asset: USDT, lastPrice: 27699.97
+ Asset: BNB, lastPrice: 976.19
+ Asset: BTC, lastPrice: 1.48915
+ Asset: BUSD, lastPrice: 28537.18
+ Asset: USDT, lastPrice: 28576.51
+ Asset: EUR, lastPrice: 0.0
 ----------------------------------
 Asset: JST
 Connections: 
- Asset: BNB, lastPrice: 9.12E-4
- Asset: BTC, lastPrice: 1.46E-6
- Asset: BUSD, lastPrice: 0.02772
- Asset: USDT, lastPrice: 0.0277
+ Asset: BNB, lastPrice: 9.72E-4
+ Asset: BTC, lastPrice: 1.49E-6
+ Asset: BUSD, lastPrice: 0.02838
+ Asset: USDT, lastPrice: 0.02843
 ----------------------------------
 Asset: SRM
 Connections: 
- Asset: BNB, lastPrice: 0.03974
- Asset: BTC, lastPrice: 6.318E-5
- Asset: BUSD, lastPrice: 1.204
- Asset: USDT, lastPrice: 1.2036
- Asset: BIDR, lastPrice: 17042.0
+ Asset: BNB, lastPrice: 0.040377
+ Asset: BTC, lastPrice: 6.176E-5
+ Asset: BUSD, lastPrice: 1.1844
+ Asset: USDT, lastPrice: 1.1853
+ Asset: BIDR, lastPrice: 16589.0
 ----------------------------------
 Asset: ANT
 Connections: 
- Asset: BNB, lastPrice: 0.1103
- Asset: BTC, lastPrice: 1.753E-4
- Asset: BUSD, lastPrice: 3.3505
- Asset: USDT, lastPrice: 3.3445
+ Asset: BNB, lastPrice: 0.1158
+ Asset: BTC, lastPrice: 1.77E-4
+ Asset: BUSD, lastPrice: 3.399
+ Asset: USDT, lastPrice: 3.3958
 ----------------------------------
 Asset: CRV
 Connections: 
- Asset: BNB, lastPrice: 0.0249
- Asset: BTC, lastPrice: 3.97E-5
- Asset: BUSD, lastPrice: 0.753
- Asset: USDT, lastPrice: 0.755
+ Asset: BNB, lastPrice: 0.0243
+ Asset: BTC, lastPrice: 3.71E-5
+ Asset: BUSD, lastPrice: 0.708
+ Asset: USDT, lastPrice: 0.71
 ----------------------------------
 Asset: SAND
 Connections: 
- Asset: BNB, lastPrice: 0.0014867
- Asset: BTC, lastPrice: 2.36E-6
- Asset: USDT, lastPrice: 0.045112
- Asset: BUSD, lastPrice: 0.044614
+ Asset: BNB, lastPrice: 0.0015449
+ Asset: BTC, lastPrice: 2.38E-6
+ Asset: USDT, lastPrice: 0.045452
+ Asset: BUSD, lastPrice: 0.045417
 ----------------------------------
 Asset: OCEAN
 Connections: 
- Asset: BNB, lastPrice: 0.0153
- Asset: BTC, lastPrice: 2.424E-5
- Asset: BUSD, lastPrice: 0.4647
- Asset: USDT, lastPrice: 0.4622
+ Asset: BNB, lastPrice: 0.01467
+ Asset: BTC, lastPrice: 2.25E-5
+ Asset: BUSD, lastPrice: 0.4323
+ Asset: USDT, lastPrice: 0.4312
 ----------------------------------
 Asset: NMR
 Connections: 
- Asset: BNB, lastPrice: 1.0522
- Asset: BTC, lastPrice: 0.001666
- Asset: BUSD, lastPrice: 31.859
- Asset: USDT, lastPrice: 31.849
+ Asset: BNB, lastPrice: 1.044
+ Asset: BTC, lastPrice: 0.001597
+ Asset: BUSD, lastPrice: 30.614
+ Asset: USDT, lastPrice: 30.564
 ----------------------------------
 Asset: DOT
 Connections: 
- Asset: BNB, lastPrice: 0.17115
- Asset: BTC, lastPrice: 2.7162E-4
- Asset: BUSD, lastPrice: 5.197
- Asset: USDT, lastPrice: 5.1802
- Asset: BIDR, lastPrice: 73037.0
+ Asset: BNB, lastPrice: 0.17249
+ Asset: BTC, lastPrice: 2.6382E-4
+ Asset: BUSD, lastPrice: 5.0633
+ Asset: USDT, lastPrice: 5.0618
+ Asset: BIDR, lastPrice: 71623.0
  Asset: BKRW, lastPrice: 0.0
  Asset: EUR, lastPrice: 0.0
 ----------------------------------
 Asset: LUNA
 Connections: 
- Asset: BNB, lastPrice: 0.01279
- Asset: BTC, lastPrice: 2.033E-5
- Asset: BUSD, lastPrice: 0.3878
- Asset: USDT, lastPrice: 0.3876
+ Asset: BNB, lastPrice: 0.01731
+ Asset: BTC, lastPrice: 2.649E-5
+ Asset: BUSD, lastPrice: 0.5081
+ Asset: USDT, lastPrice: 0.5083
 ----------------------------------
 Asset: IDEX
 Connections: 
- Asset: BTC, lastPrice: 1.86E-6
- Asset: BUSD, lastPrice: 0.03569
+ Asset: BTC, lastPrice: 1.73E-6
+ Asset: BUSD, lastPrice: 0.0332
 ----------------------------------
 Asset: RSR
 Connections: 
- Asset: BNB, lastPrice: 6.71E-4
- Asset: BTC, lastPrice: 1.07E-6
- Asset: BUSD, lastPrice: 0.02041
- Asset: USDT, lastPrice: 0.02039
+ Asset: BNB, lastPrice: 6.88E-4
+ Asset: BTC, lastPrice: 1.05E-6
+ Asset: BUSD, lastPrice: 0.02017
+ Asset: USDT, lastPrice: 0.0202
 ----------------------------------
 Asset: PAXG
 Connections: 
- Asset: BNB, lastPrice: 60.415
- Asset: BTC, lastPrice: 0.09603
- Asset: USDT, lastPrice: 1831.38
+ Asset: BNB, lastPrice: 64.177
+ Asset: BTC, lastPrice: 0.09781
+ Asset: USDT, lastPrice: 1878.11
 ----------------------------------
 Asset: WNXM
 Connections: 
- Asset: BNB, lastPrice: 0.681
- Asset: BTC, lastPrice: 0.00108
- Asset: BUSD, lastPrice: 21.711
- Asset: USDT, lastPrice: 20.597
+ Asset: BNB, lastPrice: 0.779
+ Asset: BTC, lastPrice: 0.001193
+ Asset: USDT, lastPrice: 22.795
 ----------------------------------
 Asset: TRB
 Connections: 
- Asset: BNB, lastPrice: 0.833
- Asset: BTC, lastPrice: 0.001324
- Asset: BUSD, lastPrice: 25.098
- Asset: USDT, lastPrice: 25.208
+ Asset: BNB, lastPrice: 0.87
+ Asset: BTC, lastPrice: 0.001338
+ Asset: BUSD, lastPrice: 25.512
+ Asset: USDT, lastPrice: 25.676
 ----------------------------------
 Asset: BZRX
 Connections: 
- Asset: BNB, lastPrice: 0.00818
- Asset: BTC, lastPrice: 1.299E-5
- Asset: BUSD, lastPrice: 0.2478
- Asset: USDT, lastPrice: 0.2483
+ Asset: BNB, lastPrice: 0.00905
+ Asset: BTC, lastPrice: 1.393E-5
+ Asset: BUSD, lastPrice: 0.2657
+ Asset: USDT, lastPrice: 0.2665
 ----------------------------------
 Asset: WBTC
 Connections: 
- Asset: BTC, lastPrice: 1.0001
- Asset: ETH, lastPrice: 32.1038
+ Asset: BTC, lastPrice: 0.99989
+ Asset: ETH, lastPrice: 32.3379
 ----------------------------------
 Asset: SUSHI
 Connections: 
- Asset: BNB, lastPrice: 0.0745
- Asset: BTC, lastPrice: 1.183E-4
- Asset: BUSD, lastPrice: 2.252
- Asset: USDT, lastPrice: 2.25
+ Asset: BNB, lastPrice: 0.0825
+ Asset: BTC, lastPrice: 1.268E-4
+ Asset: BUSD, lastPrice: 2.434
+ Asset: USDT, lastPrice: 2.432
 ----------------------------------
 Asset: YFII
 Connections: 
- Asset: BNB, lastPrice: 65.39
- Asset: BTC, lastPrice: 0.10394
- Asset: BUSD, lastPrice: 1981.63
- Asset: USDT, lastPrice: 1983.49
+ Asset: BNB, lastPrice: 66.71
+ Asset: BTC, lastPrice: 0.10213
+ Asset: BUSD, lastPrice: 1948.44
+ Asset: USDT, lastPrice: 1958.65
 ----------------------------------
 Asset: KSM
 Connections: 
- Asset: BNB, lastPrice: 1.9073
- Asset: BTC, lastPrice: 0.003035
- Asset: BUSD, lastPrice: 58.53
- Asset: USDT, lastPrice: 57.8
+ Asset: BNB, lastPrice: 1.8193
+ Asset: BTC, lastPrice: 0.002787
+ Asset: BUSD, lastPrice: 53.394
+ Asset: USDT, lastPrice: 53.42
 ----------------------------------
 Asset: EGLD
 Connections: 
- Asset: BNB, lastPrice: 0.3261
- Asset: BTC, lastPrice: 5.19E-4
- Asset: BUSD, lastPrice: 9.918
- Asset: USDT, lastPrice: 9.883
+ Asset: BNB, lastPrice: 0.4486
+ Asset: BTC, lastPrice: 6.88E-4
+ Asset: BUSD, lastPrice: 13.176
+ Asset: USDT, lastPrice: 13.195
 ----------------------------------
 Asset: DIA
 Connections: 
- Asset: BNB, lastPrice: 0.0519
- Asset: BTC, lastPrice: 8.19E-5
- Asset: BUSD, lastPrice: 1.563
- Asset: USDT, lastPrice: 1.565
+ Asset: BNB, lastPrice: 0.0614
+ Asset: BTC, lastPrice: 9.39E-5
+ Asset: BUSD, lastPrice: 1.8
+ Asset: USDT, lastPrice: 1.801
 ----------------------------------
 Asset: UMA
 Connections: 
- Asset: BTC, lastPrice: 4.06E-4
- Asset: USDT, lastPrice: 7.745
+ Asset: BTC, lastPrice: 4.09E-4
+ Asset: USDT, lastPrice: 7.83
 ----------------------------------
 Asset: EOSUP
 Connections: 
- Asset: USDT, lastPrice: 7.382
+ Asset: USDT, lastPrice: 6.72
 ----------------------------------
 Asset: EOSDOWN
 Connections: 
- Asset: USDT, lastPrice: 5.027
+ Asset: USDT, lastPrice: 5.498
 ----------------------------------
 Asset: TRXUP
 Connections: 
- Asset: USDT, lastPrice: 4.442
+ Asset: USDT, lastPrice: 4.095
 ----------------------------------
 Asset: TRXDOWN
 Connections: 
- Asset: USDT, lastPrice: 4.932
+ Asset: USDT, lastPrice: 5.275
 ----------------------------------
 Asset: XRPUP
 Connections: 
- Asset: USDT, lastPrice: 33.272
+ Asset: USDT, lastPrice: 29.458
 ----------------------------------
 Asset: XRPDOWN
 Connections: 
- Asset: USDT, lastPrice: 0.222
+ Asset: USDT, lastPrice: 0.235
 ----------------------------------
 Asset: DOTUP
 Connections: 
- Asset: USDT, lastPrice: 9.138
+ Asset: USDT, lastPrice: 8.205
 ----------------------------------
 Asset: DOTDOWN
 Connections: 
- Asset: USDT, lastPrice: 2.308
+ Asset: USDT, lastPrice: 2.472
 ----------------------------------
 Asset: BEL
 Connections: 
- Asset: BNB, lastPrice: 0.03737
- Asset: BTC, lastPrice: 5.967E-5
- Asset: BUSD, lastPrice: 1.1351
- Asset: USDT, lastPrice: 1.136
+ Asset: BNB, lastPrice: 0.04138
+ Asset: BTC, lastPrice: 6.339E-5
+ Asset: BUSD, lastPrice: 1.2157
+ Asset: USDT, lastPrice: 1.2168
 ----------------------------------
 Asset: WING
 Connections: 
- Asset: BNB, lastPrice: 0.3739
- Asset: BTC, lastPrice: 5.95E-4
- Asset: BUSD, lastPrice: 11.221
- Asset: USDT, lastPrice: 11.328
+ Asset: BNB, lastPrice: 0.4179
+ Asset: BTC, lastPrice: 6.37E-4
+ Asset: BUSD, lastPrice: 12.231
+ Asset: USDT, lastPrice: 12.193
 ----------------------------------
 Asset: SWRV
 Connections: 
- Asset: BNB, lastPrice: 0.0231
- Asset: BUSD, lastPrice: 0.712
+ Asset: BNB, lastPrice: 0.027
+ Asset: BUSD, lastPrice: 0.785
 ----------------------------------
 Asset: LTCUP
 Connections: 
- Asset: USDT, lastPrice: 25.134
+ Asset: USDT, lastPrice: 19.593
 ----------------------------------
 Asset: LTCDOWN
 Connections: 
- Asset: USDT, lastPrice: 0.794
+ Asset: USDT, lastPrice: 0.861
 ----------------------------------
 Asset: CREAM
 Connections: 
- Asset: BNB, lastPrice: 2.1176
- Asset: BUSD, lastPrice: 64.321
+ Asset: BNB, lastPrice: 2.4325
+ Asset: BUSD, lastPrice: 71.059
 ----------------------------------
 Asset: UNI
 Connections: 
- Asset: BNB, lastPrice: 0.12238
- Asset: BTC, lastPrice: 1.9443E-4
- Asset: BUSD, lastPrice: 3.7153
- Asset: USDT, lastPrice: 3.7104
+ Asset: BNB, lastPrice: 0.12792
+ Asset: BTC, lastPrice: 1.9578E-4
+ Asset: BUSD, lastPrice: 3.7598
+ Asset: USDT, lastPrice: 3.759
 ----------------------------------
 Asset: NBS
 Connections: 
- Asset: BTC, lastPrice: 3.0E-7
- Asset: USDT, lastPrice: 0.00554
+ Asset: BTC, lastPrice: 2.9E-7
+ Asset: USDT, lastPrice: 0.00552
 ----------------------------------
 Asset: OXT
 Connections: 
- Asset: BTC, lastPrice: 1.519E-5
- Asset: USDT, lastPrice: 0.2899
+ Asset: BTC, lastPrice: 1.581E-5
+ Asset: USDT, lastPrice: 0.3024
 ----------------------------------
 Asset: SUN
 Connections: 
- Asset: BTC, lastPrice: 5.77E-4
- Asset: USDT, lastPrice: 10.998
+ Asset: BTC, lastPrice: 5.29E-4
+ Asset: USDT, lastPrice: 10.178
 ----------------------------------
 Asset: AVAX
 Connections: 
- Asset: BNB, lastPrice: 0.12247
- Asset: BTC, lastPrice: 1.9383E-4
- Asset: BUSD, lastPrice: 3.7118
- Asset: USDT, lastPrice: 3.6998
+ Asset: BNB, lastPrice: 0.11516
+ Asset: BTC, lastPrice: 1.7613E-4
+ Asset: BUSD, lastPrice: 3.382
+ Asset: USDT, lastPrice: 3.3878
  Asset: TRY, lastPrice: 0.0
 ----------------------------------
 Asset: HNT
 Connections: 
- Asset: BTC, lastPrice: 7.25E-5
- Asset: USDT, lastPrice: 1.383
+ Asset: BTC, lastPrice: 7.39E-5
+ Asset: USDT, lastPrice: 1.412
 ----------------------------------
 Asset: BAKE
 Connections: 
- Asset: BNB, lastPrice: 4.25E-4
+ Asset: BNB, lastPrice: 4.49E-4
 ----------------------------------
 Asset: BURGER
 Connections: 
- Asset: BNB, lastPrice: 0.01901
+ Asset: BNB, lastPrice: 0.01852
 ----------------------------------
 Asset: FLM
 Connections: 
- Asset: BNB, lastPrice: 0.00631
- Asset: BTC, lastPrice: 1.003E-5
- Asset: BUSD, lastPrice: 0.192
- Asset: USDT, lastPrice: 0.1919
+ Asset: BNB, lastPrice: 0.00667
+ Asset: BTC, lastPrice: 1.016E-5
+ Asset: BUSD, lastPrice: 0.194
+ Asset: USDT, lastPrice: 0.1952
 ----------------------------------
 Asset: SCRT
 Connections: 
- Asset: BTC, lastPrice: 2.13E-5
- Asset: ETH, lastPrice: 6.81E-4
+ Asset: BTC, lastPrice: 2.667E-5
+ Asset: ETH, lastPrice: 8.65E-4
 ----------------------------------
 Asset: CAKE
 Connections: 
- Asset: BNB, lastPrice: 0.01207
- Asset: BUSD, lastPrice: 0.3628
+ Asset: BNB, lastPrice: 0.01736
+ Asset: BUSD, lastPrice: 0.505
 ----------------------------------
 Asset: SPARTA
 Connections: 
- Asset: BNB, lastPrice: 0.001299
+ Asset: BNB, lastPrice: 0.001474
 ----------------------------------
 Asset: UNIUP
 Connections: 
- Asset: USDT, lastPrice: 3.892
+ Asset: USDT, lastPrice: 3.965
 ----------------------------------
 Asset: UNIDOWN
 Connections: 
- Asset: USDT, lastPrice: 2.593
+ Asset: USDT, lastPrice: 2.384
 ----------------------------------
 Asset: ORN
 Connections: 
- Asset: BTC, lastPrice: 1.551E-4
- Asset: USDT, lastPrice: 2.9689
+ Asset: BTC, lastPrice: 2.082E-4
+ Asset: USDT, lastPrice: 3.9979
 ----------------------------------
 Asset: UTK
 Connections: 
- Asset: BTC, lastPrice: 6.32E-6
- Asset: USDT, lastPrice: 0.1204
+ Asset: BTC, lastPrice: 6.13E-6
+ Asset: USDT, lastPrice: 0.118
 ----------------------------------
 Asset: XVS
 Connections: 
@@ -1944,4 +1940,15 @@ Connections:
  Asset: BTC, lastPrice: 0.0
  Asset: BUSD, lastPrice: 0.0
  Asset: USDT, lastPrice: 0.0
+----------------------------------
+Asset: SUSD
+Connections: 
+ Asset: BTC, lastPrice: 0.0
+ Asset: ETH, lastPrice: 0.0
+ Asset: USDT, lastPrice: 0.0
+----------------------------------
+Asset: COVER
+Connections: 
+ Asset: ETH, lastPrice: 0.0
+ Asset: BUSD, lastPrice: 0.0
 ----------------------------------

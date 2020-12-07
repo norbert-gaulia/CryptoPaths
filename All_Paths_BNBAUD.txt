@@ -1,36 +1,36 @@
-All the paths for the pair 'BNBAUD', Direct Price: 41.41000000
+All the paths for the pair 'BNBAUD', Direct Price: 39.76100000
 
-Date: Wed Dec 02 16:06:52 AWST 2020
+Date: Tue Dec 08 07:36:14 AWST 2020
 
 Path 1: 
 { BNB AUD }
-{ 41.41000000 }
+{ 39.76100000 }
 
-Overall Exchange: 41.41
+Overall Exchange: 39.761
 
 -------------------------------------
 
 Path 2: 
 { BNB ETH AUD }
-{ 0.05089600 811.99000000 }
+{ 0.04955000 802.44000000 }
 
-Overall Exchange: 41.32704304
+Overall Exchange: 39.760902
 
 -------------------------------------
 
 Path 3: 
-{ BNB BTC AUD }
-{ 0.00158960 25986.24000000 }
+{ BNB ETH BTC AUD }
+{ 0.04955000 0.03087400 25901.99000000 }
 
-Overall Exchange: 41.307727104
+Overall Exchange: 39.625037845333
 
 -------------------------------------
 
 Path 4: 
-{ BNB ETH BTC AUD }
-{ 0.05089600 0.03119000 25986.24000000 }
+{ BNB BTC AUD }
+{ 0.00152930 25901.99000000 }
 
-Overall Exchange: 41.2517589797376
+Overall Exchange: 39.611913307
 
 -------------------------------------
 

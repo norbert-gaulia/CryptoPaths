@@ -1,20 +1,20 @@
-All the paths for the pair 'BNBBTC', Direct Price: 0.00162490
+All the paths for the pair 'BNBBTC', Direct Price: 0.00154200
 
-Date: Mon Nov 30 12:38:31 AWST 2020
+Date: Sun Dec 06 15:35:08 AWST 2020
 
 Path 1: 
 { BNB BTC }
-{ 0.00162490 }
+{ 0.00154200 }
 
-Overall Exchange: 0.0016249
+Overall Exchange: 0.001542
 
 -------------------------------------
 
 Path 2: 
 { BNB ETH BTC }
-{ 0.05142000 0.03157900 }
+{ 0.04930000 0.03124900 }
 
-Overall Exchange: 0.0016237921800000001
+Overall Exchange: 0.0015405756999999998
 
 -------------------------------------
 
