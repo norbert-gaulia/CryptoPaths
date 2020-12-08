@@ -93,33 +93,6 @@ public class Trades implements Serializable {
 
     // getLastPrice
     public String getLastPrice(HashMap<String, Double> priceTree) {
-        // double price = 0;
-        // if(this.lastPrice.equals(""))
-        //     this.lastPrice = "0.0";
-        // double lPrice = Double.parseDouble(this.lastPrice);
-        // // if last price is 0
-        // if (Double.parseDouble(this.lastPrice) < 0.1) {
-        //     try {
-        //         price = Double.parseDouble(String.valueOf(priceTree.get(quoteAsset + "" + baseAsset)));
-        //     } catch (Exception e) {
-        //         try {
-        //             TickerStatistics tickerStatistics = client.get24HrPriceStatistics(quoteAsset + "" + baseAsset);
-        //             price = Double.parseDouble(tickerStatistics.getLastPrice());
-        //             price = 1.0 / price;
-        //             if(price < Double.parseDouble(this.lastPrice))
-        //                 lPrice = price;
-        //             else
-        //                 lPrice = Double.parseDouble(this.lastPrice);
-        //             this.lastPrice = String.valueOf(lPrice);
-        //             if ((quoteAsset + "" + baseAsset).equals("ETHTUSD")) {
-        //                 UserInterface.displayScs(" " + lPrice);
-        //             }
-        //             priceTree.put(quoteAsset + "" + baseAsset, price);
-        //         } catch (Exception ex) {
-        //             price = Double.parseDouble(this.prevClosePrice);
-        //         }
-        //     }
-        // }
         return this.lastPrice;
     }
 
