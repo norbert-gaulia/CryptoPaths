@@ -1,0 +1,36 @@
+All the paths for the pair 'BNBUSDC', Direct Price: 30.72360000
+
+Date: Fri Dec 18 20:40:02 AWST 2020
+
+Path 1: 
+{ BNB USDC }
+{ 30.72360000 }
+
+Overall Exchange: 30.7236
+
+-------------------------------------
+
+Path 2: 
+{ BNB BTC USDC }
+{ 0.00133780 22959.53000000 }
+
+Overall Exchange: 30.715259234
+
+-------------------------------------
+
+Path 3: 
+{ BNB ETH BTC USDC }
+{ 0.04721600 0.02831300 22959.53000000 }
+
+Overall Exchange: 30.69291061117424
+
+-------------------------------------
+
+Path 4: 
+{ BNB ETH USDC }
+{ 0.04721600 649.71000000 }
+
+Overall Exchange: 30.67670736
+
+-------------------------------------
+

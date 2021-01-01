@@ -1,0 +1,12 @@
+All the paths for the pair 'BNBETH', Direct Price: 0.04717000
+
+Date: Fri Dec 18 20:59:20 AWST 2020
+
+Path 1: 
+{ BNB ETH }
+{ 0.04717000 }
+
+Overall Exchange: 0.04717
+
+-------------------------------------
+

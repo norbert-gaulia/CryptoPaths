@@ -1,0 +1,12 @@
+All the paths for the pair 'BTCAUD', Direct Price: 30430.93000000
+
+Date: Fri Dec 18 14:23:23 AWST 2020
+
+Path 1: 
+{ BTC AUD }
+{ 30430.93000000 }
+
+Overall Exchange: 30430.93
+
+-------------------------------------
+
