@@ -5,12 +5,10 @@ import com.binance.api.client.domain.general.SymbolFilter;
 import com.binance.api.client.domain.general.SymbolInfo;
 import com.binance.api.client.domain.TimeInForce;
 
-import static com.binance.api.client.domain.account.NewOrder.marketBuy;
+import src.main.java.*;
+
 import static com.binance.api.client.domain.account.NewOrder.limitBuy;
 
-import java.math.BigDecimal;
-import java.nio.file.DirectoryStream.Filter;
-import java.text.DecimalFormat;
 import java.util.List;
 
 import com.binance.api.client.*;
@@ -29,7 +27,6 @@ public class Exchange {
             List<String> bestPath = pathList.get(0).getAssetList();
             List<String> bestPricePath = pathList.get(0).getPriceList();
             double overallExchange = pathList.get(0).getOverallExchange();
-            DecimalFormat df = new DecimalFormat("###.####");
             String tradePair = "";
             String price, amountFree;
             int priceCount = 0;
@@ -42,7 +39,7 @@ public class Exchange {
                 bestPricePath = path.getPriceList();
                 overallExchange = path.getOverallExchange();
                 if (!done) {
-                    //if (overallExchange > directPrice) {
+                    if (overallExchange > directPrice) {
                         for (int i = 0; i < bestPath.size(); i++) {
                             if (i < bestPath.size() - 1) {
                                 tradePair = bestPath.get(i) + "" + bestPath.get(i + 1);
@@ -118,8 +115,8 @@ public class Exchange {
                             }
                             priceCount++;
                         }
-                    // } else
-                    //     UserInterface.displayError("No profit!");
+                    } else
+                        UserInterface.displayError("No profit!");
                 }
             }
             UserInterface.displayMsg("------------");

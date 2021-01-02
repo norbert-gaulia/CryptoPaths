@@ -1,3 +1,4 @@
+package src.main.java;
 import java.util.*;
 public class PathFinder {
     public static void main(String[] args) {
@@ -30,7 +31,7 @@ public class PathFinder {
                 pathList.sort(c);
                 //trade
                 String directPrice = g.getPrice(baseAsset + "" + quoteAsset);
-                Exchange.trade(pathList, Double.parseDouble(directPrice));
+                //Exchange.trade(pathList, Double.parseDouble(directPrice));
                 
                 //write paths to file
                 GraphIO.writePath(baseAsset + "" + quoteAsset,

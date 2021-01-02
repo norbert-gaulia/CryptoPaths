@@ -1,3 +1,4 @@
+package src.main.java;
 /***************************************************************************
 *  FILE: UserInterface.java
 *  AUTHOR: Bilal Farah

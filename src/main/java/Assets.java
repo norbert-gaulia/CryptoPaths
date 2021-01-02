@@ -1,3 +1,4 @@
+package src.main.java;
 /***************************************************************************
  *  FILE: Asset.java
  *  AUTHOR: Bilal Farah

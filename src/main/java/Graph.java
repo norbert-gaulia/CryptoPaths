@@ -1,4 +1,4 @@
-
+package src.main.java;
 /**
  * Adjacency list implementation of Graphs.
  */
@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.*;
 import java.io.*;
 
-class Graph implements Serializable {
+public class Graph implements Serializable {
     private static final long serialVersionUID = 1L;
     private LinkedList<GraphVertex> vertices = null;
     private LinkedList<GraphEdge> edges = null;
