@@ -1,6 +1,7 @@
 package src.main.java;
+import src.main.java.utils.*;
 import java.util.*;
-public class PathFinder {
+public class App {
     public static void main(String[] args) {
         Graph g = new Graph();
         boolean exit = false;

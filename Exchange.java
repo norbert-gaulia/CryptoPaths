@@ -5,7 +5,7 @@ import com.binance.api.client.domain.general.SymbolFilter;
 import com.binance.api.client.domain.general.SymbolInfo;
 import com.binance.api.client.domain.TimeInForce;
 
-import src.main.java.*;
+import src.main.java.utils.*;
 
 import static com.binance.api.client.domain.account.NewOrder.limitBuy;
 

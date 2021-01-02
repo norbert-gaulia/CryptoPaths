@@ -1,5 +1,5 @@
 
-package src.main.java;
+package src.main.java.utils;
 import java.io.Serializable;
 import java.util.*;
 import com.binance.api.client.BinanceApiClientFactory;

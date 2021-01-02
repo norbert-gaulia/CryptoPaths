@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.utils;
 /***************************************************************************
 *  FILE: GraphIO.java
 *  AUTHOR: Bilal Farah
