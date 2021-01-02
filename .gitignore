@@ -3,3 +3,5 @@ JSON-java-master.jar
 binance-java-api-master.jar
 exchangeInfo.json
 24hr.json
+*.class
+Exchange.java

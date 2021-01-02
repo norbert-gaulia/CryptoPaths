@@ -1,12 +1,12 @@
 import java.util.*;
 public class PathFinder {
     public static void main(String[] args) {
-        try{
-            Graph g = new Graph();
-            boolean exit = false;
-            Date date = new Date();
+        Graph g = new Graph();
+        boolean exit = false;
+        Date date = new Date();
 
-            do {
+        do {
+            try{
                 Object baseAsset = UserInterface.userInput("Enter the base asset: ");
                 Object quoteAsset = UserInterface.userInput("Enter the quote asset: ");
 
@@ -40,10 +40,11 @@ public class PathFinder {
                 g.writeAssetOverview("Asset_Overview.txt", g);
 
                 g.writeTradeOverview("Trade_Overview.txt", g);
-            } while (!exit);
-        }catch(Exception e){
-            UserInterface.displayError(e.getLocalizedMessage());
-        }
-        
+
+            } catch (Exception e) {
+                UserInterface.displayError(e.getLocalizedMessage());
+            }
+        } while (!exit);
+    
     }
 }

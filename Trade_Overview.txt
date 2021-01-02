@@ -8,406 +8,406 @@ Individual trade pair overview:
 ----------------------------------
 Symbol: ETHBTC
 priceChange: -0.00004700
-lastPrice: 0.02514300
+lastPrice: 0.02472800
 prevClosePrice: 0.03279800
 volume: 145909.32100000
 count: 63400
 ----------------------------------
 Symbol: LTCBTC
 priceChange: 0.00005100
-lastPrice: 0.00436100
+lastPrice: 0.00424800
 prevClosePrice: 0.00426300
 volume: 70848.96000000
 count: 10985
 ----------------------------------
 Symbol: BNBBTC
 priceChange: 0.00007870
-lastPrice: 0.00131840
+lastPrice: 0.00126880
 prevClosePrice: 0.00259430
 volume: 1054475.72000000
 count: 81004
 ----------------------------------
 Symbol: NEOBTC
 priceChange: -0.00004400
-lastPrice: 0.00049300
+lastPrice: 0.00049200
 prevClosePrice: 0.00171000
 volume: 111369.09000000
 count: 8071
 ----------------------------------
 Symbol: QTUMETH
 priceChange: -0.00010200
-lastPrice: 0.00304600
+lastPrice: 0.00308900
 prevClosePrice: 0.00669300
 volume: 12670.71000000
 count: 284
 ----------------------------------
 Symbol: EOSETH
 priceChange: -0.00000200
-lastPrice: 0.00355500
+lastPrice: 0.00356800
 prevClosePrice: 0.00714900
 volume: 303506.30000000
 count: 2418
 ----------------------------------
 Symbol: SNTETH
 priceChange: -0.00000003
-lastPrice: 0.00004225
+lastPrice: 0.00004187
 prevClosePrice: 0.00006578
 volume: 427588.00000000
 count: 150
 ----------------------------------
 Symbol: BNTETH
 priceChange: 0.00008600
-lastPrice: 0.00174900
+lastPrice: 0.00177300
 prevClosePrice: 0.00284100
 volume: 33968.53000000
 count: 529
 ----------------------------------
 Symbol: GASBTC
 priceChange: -0.00000150
-lastPrice: 0.00005210
+lastPrice: 0.00005230
 prevClosePrice: 0.00014580
 volume: 118191.59000000
 count: 2398
 ----------------------------------
 Symbol: BNBETH
 priceChange: 0.00243900
-lastPrice: 0.05244800
+lastPrice: 0.05132000
 prevClosePrice: 0.07905900
 volume: 71923.03000000
 count: 13456
 ----------------------------------
 Symbol: BTCUSDT
 priceChange: 11.65000000
-lastPrice: 29248.32000000
+lastPrice: 29585.88000000
 prevClosePrice: 10532.62000000
 volume: 22276.34992200
 count: 383643
 ----------------------------------
 Symbol: ETHUSDT
 priceChange: -0.10000000
-lastPrice: 735.40000000
+lastPrice: 731.66000000
 prevClosePrice: 345.44000000
 volume: 311578.99984000
 count: 136636
 ----------------------------------
 Symbol: WTCBTC
 priceChange: -0.00000030
-lastPrice: 0.00000950
+lastPrice: 0.00000960
 prevClosePrice: 0.00003310
 volume: 376869.44000000
 count: 1854
 ----------------------------------
 Symbol: WTCETH
 priceChange: -0.00000200
-lastPrice: 0.00037700
+lastPrice: 0.00038800
 prevClosePrice: 0.00100500
 volume: 64635.50000000
 count: 1579
 ----------------------------------
 Symbol: LRCBTC
 priceChange: 0.00000045
-lastPrice: 0.00000600
+lastPrice: 0.00000594
 prevClosePrice: 0.00001870
 volume: 2652168.00000000
 count: 5645
 ----------------------------------
 Symbol: LRCETH
 priceChange: 0.00001417
-lastPrice: 0.00024069
+lastPrice: 0.00023949
 prevClosePrice: 0.00057225
 volume: 544555.00000000
 count: 755
 ----------------------------------
 Symbol: QTUMBTC
 priceChange: -0.00000470
-lastPrice: 0.00007610
+lastPrice: 0.00007620
 prevClosePrice: 0.00021880
 volume: 157583.38000000
 count: 2175
 ----------------------------------
 Symbol: YOYOBTC
 priceChange: -0.00000001
-lastPrice: 0.00000038
+lastPrice: 0.00000037
 prevClosePrice: 0.00000075
 volume: 3968496.00000000
 count: 327
 ----------------------------------
 Symbol: OMGBTC
 priceChange: -0.00001930
-lastPrice: 0.00008680
+lastPrice: 0.00008820
 prevClosePrice: 0.00036030
 volume: 1492382.38000000
 count: 17098
 ----------------------------------
 Symbol: OMGETH
 priceChange: -0.00061600
-lastPrice: 0.00344600
+lastPrice: 0.00355700
 prevClosePrice: 0.01098700
 volume: 52000.49000000
 count: 943
 ----------------------------------
 Symbol: ZRXBTC
 priceChange: -0.00000189
-lastPrice: 0.00001224
+lastPrice: 0.00001327
 prevClosePrice: 0.00003679
 volume: 1454547.00000000
 count: 4461
 ----------------------------------
 Symbol: ZRXETH
 priceChange: -0.00005661
-lastPrice: 0.00048678
+lastPrice: 0.00053405
 prevClosePrice: 0.00112381
 volume: 112099.00000000
 count: 663
 ----------------------------------
 Symbol: SNGLSBTC
 priceChange: -0.00000001
-lastPrice: 0.00000015
+lastPrice: 0.00000019
 prevClosePrice: 0.00000062
 volume: 6162577.00000000
 count: 809
 ----------------------------------
 Symbol: BQXBTC
 priceChange: -0.00000023
-lastPrice: 0.00000536
+lastPrice: 0.00000519
 prevClosePrice: 0.00000973
 volume: 931260.00000000
 count: 1094
 ----------------------------------
 Symbol: BQXETH
 priceChange: -0.00000450
-lastPrice: 0.00021420
+lastPrice: 0.00020950
 prevClosePrice: 0.00029500
 volume: 107310.00000000
 count: 286
 ----------------------------------
 Symbol: KNCBTC
 priceChange: -0.00000252
-lastPrice: 0.00002766
+lastPrice: 0.00002705
 prevClosePrice: 0.00008817
 volume: 1265375.00000000
 count: 4968
 ----------------------------------
 Symbol: KNCETH
 priceChange: -0.00006850
-lastPrice: 0.00110180
+lastPrice: 0.00109120
 prevClosePrice: 0.00269050
 volume: 76575.00000000
 count: 752
 ----------------------------------
 Symbol: FUNBTC
 priceChange: -0.00000001
-lastPrice: 0.00000031
+lastPrice: 0.00000021
 prevClosePrice: 0.00000027
 volume: 2238529.00000000
 count: 113
 ----------------------------------
 Symbol: FUNETH
 priceChange: 0.00000003
-lastPrice: 0.00001235
+lastPrice: 0.00000846
 prevClosePrice: 0.00000841
 volume: 3732631.00000000
 count: 198
 ----------------------------------
 Symbol: SNMBTC
 priceChange: 0.00000004
-lastPrice: 0.00000027
+lastPrice: 0.00000031
 prevClosePrice: 0.00000097
 volume: 473044657.00000000
 count: 6453
 ----------------------------------
 Symbol: NEOETH
 priceChange: -0.00113600
-lastPrice: 0.01969300
+lastPrice: 0.01989000
 prevClosePrice: 0.05224000
 volume: 5896.46000000
 count: 1019
 ----------------------------------
 Symbol: IOTABTC
 priceChange: -0.00000062
-lastPrice: 0.00001013
+lastPrice: 0.00000996
 prevClosePrice: 0.00002577
 volume: 7519882.00000000
 count: 12581
 ----------------------------------
 Symbol: IOTAETH
 priceChange: -0.00002069
-lastPrice: 0.00040370
+lastPrice: 0.00040429
 prevClosePrice: 0.00078599
 volume: 191453.00000000
 count: 1099
 ----------------------------------
 Symbol: LINKBTC
 priceChange: 0.00000015
-lastPrice: 0.00038985
+lastPrice: 0.00039519
 prevClosePrice: 0.00087287
 volume: 924849.90000000
 count: 23691
 ----------------------------------
 Symbol: LINKETH
 priceChange: 0.00007600
-lastPrice: 0.01548600
+lastPrice: 0.01597500
 prevClosePrice: 0.02661600
 volume: 86495.06000000
 count: 2607
 ----------------------------------
 Symbol: XVGBTC
 priceChange: 0.00000000
-lastPrice: 0.00000026
+lastPrice: 0.00000023
 prevClosePrice: 0.00000037
 volume: 25290183.00000000
 count: 590
 ----------------------------------
 Symbol: XVGETH
 priceChange: -0.00000008
-lastPrice: 0.00001035
+lastPrice: 0.00000929
 prevClosePrice: 0.00001159
 volume: 2905914.00000000
 count: 256
 ----------------------------------
 Symbol: MDABTC
 priceChange: -0.00000001
-lastPrice: 0.00001738
+lastPrice: 0.00001736
 prevClosePrice: 0.00002305
 volume: 70398.00000000
 count: 203
 ----------------------------------
 Symbol: MTLBTC
 priceChange: -0.00000001
-lastPrice: 0.00001328
+lastPrice: 0.00001312
 prevClosePrice: 0.00002827
 volume: 7140312.00000000
 count: 2038
 ----------------------------------
 Symbol: MTLETH
 priceChange: 0.00000300
-lastPrice: 0.00052900
+lastPrice: 0.00053000
 prevClosePrice: 0.00086200
 volume: 28756.42000000
 count: 59
 ----------------------------------
 Symbol: EOSBTC
 priceChange: -0.00000050
-lastPrice: 0.00008930
+lastPrice: 0.00008840
 prevClosePrice: 0.00023470
 volume: 1080089.65000000
 count: 6505
 ----------------------------------
 Symbol: SNTBTC
 priceChange: -0.00000002
-lastPrice: 0.00000107
+lastPrice: 0.00000103
 prevClosePrice: 0.00000217
 volume: 3229739.00000000
 count: 1220
 ----------------------------------
 Symbol: ETCETH
 priceChange: -0.00017800
-lastPrice: 0.00779400
+lastPrice: 0.00776600
 prevClosePrice: 0.01495100
 volume: 11053.13000000
 count: 611
 ----------------------------------
 Symbol: ETCBTC
 priceChange: -0.00000510
-lastPrice: 0.00019520
+lastPrice: 0.00019210
 prevClosePrice: 0.00049000
 volume: 91524.70000000
 count: 4038
 ----------------------------------
 Symbol: MTHBTC
 priceChange: 0.00000000
-lastPrice: 0.00000024
+lastPrice: 0.00000029
 prevClosePrice: 0.00000060
 volume: 3754605.00000000
 count: 300
 ----------------------------------
 Symbol: DNTBTC
 priceChange: 0.00000001
-lastPrice: 0.00000160
+lastPrice: 0.00000158
 prevClosePrice: 0.00000078
 volume: 2515413.00000000
 count: 440
 ----------------------------------
 Symbol: ZECBTC
 priceChange: -0.00034600
-lastPrice: 0.00222400
+lastPrice: 0.00195600
 prevClosePrice: 0.00600500
 volume: 36128.99900000
 count: 9882
 ----------------------------------
 Symbol: ZECETH
 priceChange: -0.00985000
-lastPrice: 0.08841000
+lastPrice: 0.07908000
 prevClosePrice: 0.18317000
 volume: 1028.12800000
 count: 494
 ----------------------------------
 Symbol: BNTBTC
 priceChange: 0.00000251
-lastPrice: 0.00004401
+lastPrice: 0.00004376
 prevClosePrice: 0.00009211
 volume: 495527.00000000
 count: 4213
 ----------------------------------
 Symbol: ASTBTC
 priceChange: -0.00000100
-lastPrice: 0.00000240
+lastPrice: 0.00000248
 prevClosePrice: 0.00001087
 volume: 6049357.00000000
 count: 6043
 ----------------------------------
 Symbol: DASHBTC
 priceChange: -0.00006400
-lastPrice: 0.00341600
+lastPrice: 0.00296800
 prevClosePrice: 0.00624400
 volume: 7008.72300000
 count: 4561
 ----------------------------------
 Symbol: DASHETH
 priceChange: -0.00140000
-lastPrice: 0.13618000
+lastPrice: 0.11980000
 prevClosePrice: 0.19089000
 volume: 236.81300000
 count: 217
 ----------------------------------
 Symbol: OAXBTC
 priceChange: -0.00000023
-lastPrice: 0.00000296
+lastPrice: 0.00000328
 prevClosePrice: 0.00000640
 volume: 494634.00000000
 count: 504
 ----------------------------------
 Symbol: BTGBTC
 priceChange: 0.00000800
-lastPrice: 0.00028800
+lastPrice: 0.00028400
 prevClosePrice: 0.00072200
 volume: 21025.64000000
 count: 914
 ----------------------------------
 Symbol: EVXBTC
 priceChange: -0.00000038
-lastPrice: 0.00000939
+lastPrice: 0.00000958
 prevClosePrice: 0.00002273
 volume: 197612.00000000
 count: 638
 ----------------------------------
 Symbol: REQBTC
 priceChange: -0.00000011
-lastPrice: 0.00000103
+lastPrice: 0.00000090
 prevClosePrice: 0.00000201
 volume: 5677497.00000000
 count: 1404
 ----------------------------------
 Symbol: VIBBTC
 priceChange: 0.00000003
-lastPrice: 0.00000061
+lastPrice: 0.00000065
 prevClosePrice: 0.00000135
 volume: 27268403.00000000
 count: 1788
 ----------------------------------
 Symbol: VIBETH
 priceChange: 0.00000082
-lastPrice: 0.00002417
+lastPrice: 0.00002631
 prevClosePrice: 0.00004110
 volume: 8655256.00000000
 count: 472
@@ -421,224 +421,224 @@ count: 29799
 ----------------------------------
 Symbol: TRXETH
 priceChange: 0.00000144
-lastPrice: 0.00003653
+lastPrice: 0.00003684
 prevClosePrice: 0.00007627
 volume: 64038045.00000000
 count: 16512
 ----------------------------------
 Symbol: POWRBTC
 priceChange: -0.00000013
-lastPrice: 0.00000333
+lastPrice: 0.00000332
 prevClosePrice: 0.00000768
 volume: 3303173.00000000
 count: 2652
 ----------------------------------
 Symbol: POWRETH
 priceChange: -0.00000176
-lastPrice: 0.00013344
+lastPrice: 0.00013488
 prevClosePrice: 0.00023432
 volume: 2618378.00000000
 count: 1560
 ----------------------------------
 Symbol: ARKBTC
 priceChange: -0.00000019
-lastPrice: 0.00001277
+lastPrice: 0.00001294
 prevClosePrice: 0.00002589
 volume: 252365.00000000
 count: 1349
 ----------------------------------
 Symbol: XRPBTC
 priceChange: -0.00000015
-lastPrice: 0.00000797
+lastPrice: 0.00000792
 prevClosePrice: 0.00002213
 volume: 20460118.00000000
 count: 23376
 ----------------------------------
 Symbol: XRPETH
 priceChange: -0.00000325
-lastPrice: 0.00031698
+lastPrice: 0.00032013
 prevClosePrice: 0.00067432
 volume: 1253656.00000000
 count: 1385
 ----------------------------------
 Symbol: ENJBTC
 priceChange: -0.00000024
-lastPrice: 0.00000456
+lastPrice: 0.00000453
 prevClosePrice: 0.00001418
 volume: 2691326.00000000
 count: 6379
 ----------------------------------
 Symbol: ENJETH
 priceChange: -0.00000713
-lastPrice: 0.00018154
+lastPrice: 0.00018365
 prevClosePrice: 0.00043380
 volume: 268643.00000000
 count: 978
 ----------------------------------
 Symbol: STORJBTC
 priceChange: -0.00000190
-lastPrice: 0.00000999
+lastPrice: 0.00000997
 prevClosePrice: 0.00004442
 volume: 1241859.00000000
 count: 5254
 ----------------------------------
 Symbol: STORJETH
 priceChange: -0.00006610
-lastPrice: 0.00039880
+lastPrice: 0.00040300
 prevClosePrice: 0.00135990
 volume: 40451.00000000
 count: 805
 ----------------------------------
 Symbol: BNBUSDT
 priceChange: 0.86500000
-lastPrice: 38.56880000
+lastPrice: 37.52770000
 prevClosePrice: 27.31030000
 volume: 2933267.73000000
 count: 162657
 ----------------------------------
 Symbol: KMDBTC
 priceChange: -0.00000120
-lastPrice: 0.00001760
+lastPrice: 0.00001660
 prevClosePrice: 0.00005170
 volume: 235752.43000000
 count: 1440
 ----------------------------------
 Symbol: KMDETH
 priceChange: -0.00003500
-lastPrice: 0.00070200
+lastPrice: 0.00067100
 prevClosePrice: 0.00157400
 volume: 8177.46000000
 count: 152
 ----------------------------------
 Symbol: RCNBTC
 priceChange: 0.00000007
-lastPrice: 0.00000122
+lastPrice: 0.00000130
 prevClosePrice: 0.00000374
 volume: 984063.00000000
 count: 485
 ----------------------------------
 Symbol: NULSBTC
 priceChange: 0.00000022
-lastPrice: 0.00000722
+lastPrice: 0.00000716
 prevClosePrice: 0.00002563
 volume: 658262.00000000
 count: 2920
 ----------------------------------
 Symbol: RDNBTC
 priceChange: -0.00000031
-lastPrice: 0.00000532
+lastPrice: 0.00000533
 prevClosePrice: 0.00001614
 volume: 214273.00000000
 count: 484
 ----------------------------------
 Symbol: XMRBTC
 priceChange: -0.00005100
-lastPrice: 0.00554500
+lastPrice: 0.00455800
 prevClosePrice: 0.00968100
 volume: 85862.30900000
 count: 30283
 ----------------------------------
 Symbol: XMRETH
 priceChange: -0.00003000
-lastPrice: 0.22178000
+lastPrice: 0.18486000
 prevClosePrice: 0.29630000
 volume: 1101.74800000
 count: 788
 ----------------------------------
 Symbol: WTCBNB
 priceChange: -0.00064000
-lastPrice: 0.00727000
+lastPrice: 0.00755000
 prevClosePrice: 0.01288000
 volume: 14357.60000000
 count: 157
 ----------------------------------
 Symbol: DLTBTC
 priceChange: -0.00000010
-lastPrice: 0.00000140
+lastPrice: 0.00000138
 prevClosePrice: 0.00000320
 volume: 1369924.00000000
 count: 617
 ----------------------------------
 Symbol: AMBBTC
 priceChange: -0.00000011
-lastPrice: 0.00000042
+lastPrice: 0.00000046
 prevClosePrice: 0.00000163
 volume: 8349858.00000000
 count: 1872
 ----------------------------------
 Symbol: BATBTC
 priceChange: -0.00000055
-lastPrice: 0.00000696
+lastPrice: 0.00000692
 prevClosePrice: 0.00002124
 volume: 3017916.00000000
 count: 4246
 ----------------------------------
 Symbol: BATETH
 priceChange: -0.00001749
-lastPrice: 0.00027809
+lastPrice: 0.00027991
 prevClosePrice: 0.00064755
 volume: 66618.00000000
 count: 330
 ----------------------------------
 Symbol: BATBNB
 priceChange: -0.00044000
-lastPrice: 0.00529000
+lastPrice: 0.00545000
 prevClosePrice: 0.00821000
 volume: 65350.30000000
 count: 329
 ----------------------------------
 Symbol: BCPTBTC
 priceChange: -0.00000004
-lastPrice: 0.00000061
+lastPrice: 0.00000070
 prevClosePrice: 0.00000150
 volume: 4060546.00000000
 count: 734
 ----------------------------------
 Symbol: GVTBTC
 priceChange: -0.00000230
-lastPrice: 0.00004450
+lastPrice: 0.00004970
 prevClosePrice: 0.00010570
 volume: 63771.88000000
 count: 1041
 ----------------------------------
 Symbol: CDTBTC
 priceChange: -0.00000001
-lastPrice: 0.00000022
+lastPrice: 0.00000024
 prevClosePrice: 0.00000059
 volume: 21455459.00000000
 count: 740
 ----------------------------------
 Symbol: CDTETH
 priceChange: 0.00000026
-lastPrice: 0.00000883
+lastPrice: 0.00000974
 prevClosePrice: 0.00001813
 volume: 5877178.00000000
 count: 516
 ----------------------------------
 Symbol: GXSBTC
 priceChange: -0.00000001
-lastPrice: 0.00001007
+lastPrice: 0.00001015
 prevClosePrice: 0.00004092
 volume: 41861.00000000
 count: 498
 ----------------------------------
 Symbol: GXSETH
 priceChange: 0.00001600
-lastPrice: 0.00040000
+lastPrice: 0.00041000
 prevClosePrice: 0.00125200
 volume: 3430.15000000
 count: 29
 ----------------------------------
 Symbol: NEOUSDT
 priceChange: -0.46500000
-lastPrice: 14.43700000
+lastPrice: 14.55700000
 prevClosePrice: 18.02900000
 volume: 382663.81400000
 count: 20235
 ----------------------------------
 Symbol: NEOBNB
 priceChange: -0.03500000
-lastPrice: 0.37590000
+lastPrice: 0.38660000
 prevClosePrice: 0.66150000
 volume: 6645.01000000
 count: 953
@@ -652,182 +652,182 @@ count: 2822
 ----------------------------------
 Symbol: QSPETH
 priceChange: -0.00000238
-lastPrice: 0.00003700
+lastPrice: 0.00003796
 prevClosePrice: 0.00007241
 volume: 335809.00000000
 count: 236
 ----------------------------------
 Symbol: BTSBTC
 priceChange: -0.00000001
-lastPrice: 0.00000073
+lastPrice: 0.00000076
 prevClosePrice: 0.00000201
 volume: 3100209.00000000
 count: 902
 ----------------------------------
 Symbol: XZCBTC
 priceChange: 0.00000180
-lastPrice: 0.00011440
+lastPrice: 0.00010060
 prevClosePrice: 0.00035680
 volume: 26125.13000000
 count: 1647
 ----------------------------------
 Symbol: XZCETH
 priceChange: 0.00009800
-lastPrice: 0.00455600
+lastPrice: 0.00409700
 prevClosePrice: 0.01088300
 volume: 3267.93000000
 count: 427
 ----------------------------------
 Symbol: LSKBTC
 priceChange: -0.00000030
-lastPrice: 0.00003980
+lastPrice: 0.00003960
 prevClosePrice: 0.00010510
 volume: 122627.21000000
 count: 1529
 ----------------------------------
 Symbol: LSKETH
 priceChange: -0.00002100
-lastPrice: 0.00160100
+lastPrice: 0.00160000
 prevClosePrice: 0.00321500
 volume: 8635.47000000
 count: 252
 ----------------------------------
 Symbol: MANABTC
 priceChange: -0.00000001
-lastPrice: 0.00000275
+lastPrice: 0.00000271
 prevClosePrice: 0.00000708
 volume: 2250765.00000000
 count: 2165
 ----------------------------------
 Symbol: MANAETH
 priceChange: -0.00000001
-lastPrice: 0.00010999
+lastPrice: 0.00011049
 prevClosePrice: 0.00021555
 volume: 170010.00000000
 count: 386
 ----------------------------------
 Symbol: BCDBTC
 priceChange: 0.00000087
-lastPrice: 0.00001589
+lastPrice: 0.00001557
 prevClosePrice: 0.00004915
 volume: 269980.00000000
 count: 1501
 ----------------------------------
 Symbol: IOTABNB
 priceChange: -0.00050000
-lastPrice: 0.00771000
+lastPrice: 0.00783000
 prevClosePrice: 0.00993000
 volume: 134355.50000000
 count: 858
 ----------------------------------
 Symbol: ADXBTC
 priceChange: 0.00000067
-lastPrice: 0.00001176
+lastPrice: 0.00001175
 prevClosePrice: 0.00001711
 volume: 2388464.00000000
 count: 2705
 ----------------------------------
 Symbol: ADXETH
 priceChange: 0.00001850
-lastPrice: 0.00046950
+lastPrice: 0.00047640
 prevClosePrice: 0.00052310
 volume: 183572.00000000
 count: 1962
 ----------------------------------
 Symbol: ADABTC
 priceChange: -0.00000008
-lastPrice: 0.00000611
+lastPrice: 0.00000590
 prevClosePrice: 0.00000886
 volume: 29259935.00000000
 count: 11915
 ----------------------------------
 Symbol: ADAETH
 priceChange: -0.00000218
-lastPrice: 0.00024334
+lastPrice: 0.00023802
 prevClosePrice: 0.00027006
 volume: 1462187.00000000
 count: 989
 ----------------------------------
 Symbol: PPTBTC
 priceChange: -0.00000018
-lastPrice: 0.00001538
+lastPrice: 0.00001717
 prevClosePrice: 0.00002023
 volume: 604822.00000000
 count: 1016
 ----------------------------------
 Symbol: CMTBTC
 priceChange: 0.00000001
-lastPrice: 0.00000027
+lastPrice: 0.00000029
 prevClosePrice: 0.00000085
 volume: 5415133.00000000
 count: 584
 ----------------------------------
 Symbol: CMTETH
 priceChange: 0.00000058
-lastPrice: 0.00001085
+lastPrice: 0.00001180
 prevClosePrice: 0.00002619
 volume: 1096916.00000000
 count: 215
 ----------------------------------
 Symbol: XLMBTC
 priceChange: -0.00000006
-lastPrice: 0.00000451
+lastPrice: 0.00000452
 prevClosePrice: 0.00000675
 volume: 17755783.00000000
 count: 5310
 ----------------------------------
 Symbol: XLMETH
 priceChange: -0.00000103
-lastPrice: 0.00017937
+lastPrice: 0.00018246
 prevClosePrice: 0.00020581
 volume: 907266.00000000
 count: 529
 ----------------------------------
 Symbol: XLMBNB
 priceChange: -0.00008900
-lastPrice: 0.00340700
+lastPrice: 0.00354500
 prevClosePrice: 0.00260600
 volume: 427166.00000000
 count: 426
 ----------------------------------
 Symbol: CNDBTC
 priceChange: 0.00000001
-lastPrice: 0.00000028
+lastPrice: 0.00000030
 prevClosePrice: 0.00000086
 volume: 3309161.00000000
 count: 341
 ----------------------------------
 Symbol: WABIBTC
 priceChange: -0.00000016
-lastPrice: 0.00000256
+lastPrice: 0.00000268
 prevClosePrice: 0.00000886
 volume: 1329778.00000000
 count: 1294
 ----------------------------------
 Symbol: WABIBNB
 priceChange: -0.00014400
-lastPrice: 0.00195700
+lastPrice: 0.00213000
 prevClosePrice: 0.00343800
 volume: 87064.00000000
 count: 189
 ----------------------------------
 Symbol: LTCETH
 priceChange: 0.00170000
-lastPrice: 0.17334000
+lastPrice: 0.17152000
 prevClosePrice: 0.13007000
 volume: 2617.45500000
 count: 686
 ----------------------------------
 Symbol: LTCUSDT
 priceChange: 0.59000000
-lastPrice: 127.55000000
+lastPrice: 125.70000000
 prevClosePrice: 44.89000000
 volume: 233092.75335000
 count: 21266
 ----------------------------------
 Symbol: LTCBNB
 priceChange: -0.03200000
-lastPrice: 3.31200000
+lastPrice: 3.35400000
 prevClosePrice: 1.65000000
 volume: 6322.72600000
 count: 1734
@@ -841,168 +841,168 @@ count: 74
 ----------------------------------
 Symbol: WAVESBTC
 priceChange: -0.00000830
-lastPrice: 0.00020750
+lastPrice: 0.00019420
 prevClosePrice: 0.00023130
 volume: 147039.34000000
 count: 3522
 ----------------------------------
 Symbol: WAVESETH
 priceChange: -0.00023900
-lastPrice: 0.00827000
+lastPrice: 0.00785500
 prevClosePrice: 0.00707300
 volume: 6691.03000000
 count: 489
 ----------------------------------
 Symbol: WAVESBNB
 priceChange: -0.00527000
-lastPrice: 0.15703000
+lastPrice: 0.15314000
 prevClosePrice: 0.08960000
 volume: 5640.80000000
 count: 253
 ----------------------------------
 Symbol: GTOBTC
 priceChange: -0.00000001
-lastPrice: 0.00000035
+lastPrice: 0.00000033
 prevClosePrice: 0.00000067
 volume: 10121675.00000000
 count: 681
 ----------------------------------
 Symbol: ICXBTC
 priceChange: -0.00000077
-lastPrice: 0.00001571
+lastPrice: 0.00001528
 prevClosePrice: 0.00003720
 volume: 1518249.00000000
 count: 6112
 ----------------------------------
 Symbol: ICXETH
 priceChange: -0.00001700
-lastPrice: 0.00062300
+lastPrice: 0.00061800
 prevClosePrice: 0.00113600
 volume: 120826.89000000
 count: 587
 ----------------------------------
 Symbol: ICXBNB
 priceChange: -0.00066000
-lastPrice: 0.01189000
+lastPrice: 0.01196000
 prevClosePrice: 0.01432000
 volume: 42478.60000000
 count: 324
 ----------------------------------
 Symbol: OSTBTC
 priceChange: 0.00000000
-lastPrice: 0.00000047
+lastPrice: 0.00000054
 prevClosePrice: 0.00000062
 volume: 1527363.00000000
 count: 265
 ----------------------------------
 Symbol: OSTETH
 priceChange: 0.00000007
-lastPrice: 0.00001871
+lastPrice: 0.00002197
 prevClosePrice: 0.00001903
 volume: 1596949.00000000
 count: 273
 ----------------------------------
 Symbol: ELFBTC
 priceChange: -0.00000009
-lastPrice: 0.00000363
+lastPrice: 0.00000365
 prevClosePrice: 0.00000879
 volume: 1126639.00000000
 count: 1305
 ----------------------------------
 Symbol: ELFETH
 priceChange: -0.00000170
-lastPrice: 0.00014431
+lastPrice: 0.00014826
 prevClosePrice: 0.00026821
 volume: 191516.00000000
 count: 377
 ----------------------------------
 Symbol: AIONBTC
 priceChange: -0.00000001
-lastPrice: 0.00000215
+lastPrice: 0.00000225
 prevClosePrice: 0.00000750
 volume: 2736359.00000000
 count: 3822
 ----------------------------------
 Symbol: AIONETH
 priceChange: 0.00000000
-lastPrice: 0.00008600
+lastPrice: 0.00009000
 prevClosePrice: 0.00022800
 volume: 305794.89000000
 count: 278
 ----------------------------------
 Symbol: NEBLBTC
 priceChange: -0.00000078
-lastPrice: 0.00002044
+lastPrice: 0.00002263
 prevClosePrice: 0.00004093
 volume: 13455.00000000
 count: 213
 ----------------------------------
 Symbol: NEBLETH
 priceChange: -0.00000300
-lastPrice: 0.00081700
+lastPrice: 0.00091500
 prevClosePrice: 0.00125400
 volume: 1478.31000000
 count: 45
 ----------------------------------
 Symbol: BRDBTC
 priceChange: 0.00000008
-lastPrice: 0.00000203
+lastPrice: 0.00000215
 prevClosePrice: 0.00000667
 volume: 996284.00000000
 count: 1111
 ----------------------------------
 Symbol: BRDETH
 priceChange: 0.00000240
-lastPrice: 0.00008080
+lastPrice: 0.00008680
 prevClosePrice: 0.00020350
 volume: 312194.00000000
 count: 403
 ----------------------------------
 Symbol: NAVBTC
 priceChange: 0.00000009
-lastPrice: 0.00000438
+lastPrice: 0.00000434
 prevClosePrice: 0.00001102
 volume: 320251.00000000
 count: 400
 ----------------------------------
 Symbol: APPCBTC
 priceChange: 0.00000003
-lastPrice: 0.00000084
+lastPrice: 0.00000091
 prevClosePrice: 0.00000291
 volume: 238627.00000000
 count: 377
 ----------------------------------
 Symbol: VIBEBTC
 priceChange: 0.00000005
-lastPrice: 0.00000055
+lastPrice: 0.00000059
 prevClosePrice: 0.00000130
 volume: 13085325.00000000
 count: 2681
 ----------------------------------
 Symbol: RLCBTC
 priceChange: -0.00000406
-lastPrice: 0.00002630
+lastPrice: 0.00002493
 prevClosePrice: 0.00008336
 volume: 405756.00000000
 count: 2695
 ----------------------------------
 Symbol: RLCETH
 priceChange: -0.00012400
-lastPrice: 0.00105000
+lastPrice: 0.00100600
 prevClosePrice: 0.00253900
 volume: 26737.58000000
 count: 716
 ----------------------------------
 Symbol: PIVXBTC
 priceChange: 0.00000004
-lastPrice: 0.00001106
+lastPrice: 0.00001068
 prevClosePrice: 0.00003430
 volume: 63277.00000000
 count: 496
 ----------------------------------
 Symbol: PIVXETH
 priceChange: 0.00000700
-lastPrice: 0.00044300
+lastPrice: 0.00043000
 prevClosePrice: 0.00105000
 volume: 4839.25000000
 count: 43
@@ -1016,28 +1016,28 @@ count: 2266
 ----------------------------------
 Symbol: IOSTETH
 priceChange: -0.00000032
-lastPrice: 0.00000768
+lastPrice: 0.00000793
 prevClosePrice: 0.00001573
 volume: 10158761.00000000
 count: 540
 ----------------------------------
 Symbol: STEEMBTC
 priceChange: -0.00000016
-lastPrice: 0.00000540
+lastPrice: 0.00000575
 prevClosePrice: 0.00001479
 volume: 6421878.00000000
 count: 9657
 ----------------------------------
 Symbol: STEEMETH
 priceChange: 0.00000000
-lastPrice: 0.00021500
+lastPrice: 0.00023300
 prevClosePrice: 0.00045000
 volume: 25316.92000000
 count: 137
 ----------------------------------
 Symbol: STEEMBNB
 priceChange: -0.00018000
-lastPrice: 0.00410000
+lastPrice: 0.00454000
 prevClosePrice: 0.00572000
 volume: 24881.20000000
 count: 90
@@ -1051,336 +1051,336 @@ count: 2234
 ----------------------------------
 Symbol: NANOETH
 priceChange: -0.00005900
-lastPrice: 0.00139400
+lastPrice: 0.00140100
 prevClosePrice: 0.00226600
 volume: 36695.01000000
 count: 364
 ----------------------------------
 Symbol: VIABTC
 priceChange: 0.00000017
-lastPrice: 0.00001065
+lastPrice: 0.00001041
 prevClosePrice: 0.00001569
 volume: 109474.00000000
 count: 288
 ----------------------------------
 Symbol: BLZBTC
 priceChange: 0.00000008
-lastPrice: 0.00000227
+lastPrice: 0.00000217
 prevClosePrice: 0.00000942
 volume: 3951026.00000000
 count: 5911
 ----------------------------------
 Symbol: BLZETH
 priceChange: 0.00000210
-lastPrice: 0.00009018
+lastPrice: 0.00008733
 prevClosePrice: 0.00028715
 volume: 411433.00000000
 count: 1313
 ----------------------------------
 Symbol: BLZBNB
 priceChange: -0.00009700
-lastPrice: 0.00172600
+lastPrice: 0.00170200
 prevClosePrice: 0.00364100
 volume: 375478.00000000
 count: 847
 ----------------------------------
 Symbol: NCASHETH
 priceChange: 0.00000002
-lastPrice: 0.00000143
+lastPrice: 0.00000101
 prevClosePrice: 0.00000140
 volume: 12543519.00000000
 count: 167
 ----------------------------------
 Symbol: POABTC
 priceChange: 0.00000010
-lastPrice: 0.00000065
+lastPrice: 0.00000069
 prevClosePrice: 0.00000170
 volume: 89013342.00000000
 count: 4434
 ----------------------------------
 Symbol: ZILBTC
 priceChange: 0.00000006
-lastPrice: 0.00000294
+lastPrice: 0.00000271
 prevClosePrice: 0.00000168
 volume: 180675353.00000000
 count: 14111
 ----------------------------------
 Symbol: ZILETH
 priceChange: 0.00000200
-lastPrice: 0.00011676
+lastPrice: 0.00010942
 prevClosePrice: 0.00005111
 volume: 17420310.00000000
 count: 3507
 ----------------------------------
 Symbol: ZILBNB
 priceChange: 0.00000590
-lastPrice: 0.00222700
+lastPrice: 0.00213770
 prevClosePrice: 0.00064930
 volume: 7572375.00000000
 count: 1475
 ----------------------------------
 Symbol: ONTBTC
 priceChange: -0.00000180
-lastPrice: 0.00001520
+lastPrice: 0.00001580
 prevClosePrice: 0.00005690
 volume: 1419610.83000000
 count: 4046
 ----------------------------------
 Symbol: ONTETH
 priceChange: -0.00005700
-lastPrice: 0.00060400
+lastPrice: 0.00064100
 prevClosePrice: 0.00173300
 volume: 32779.04000000
 count: 252
 ----------------------------------
 Symbol: ONTBNB
 priceChange: -0.00133000
-lastPrice: 0.01156000
+lastPrice: 0.01248000
 prevClosePrice: 0.02199000
 volume: 57949.60000000
 count: 405
 ----------------------------------
 Symbol: QTUMUSDT
 priceChange: -0.05000000
-lastPrice: 2.22800000
+lastPrice: 2.25100000
 prevClosePrice: 2.30300000
 volume: 1232448.68900000
 count: 9128
 ----------------------------------
 Symbol: XEMBTC
 priceChange: -0.00000024
-lastPrice: 0.00000766
+lastPrice: 0.00000736
 prevClosePrice: 0.00001094
 volume: 8047829.00000000
 count: 6466
 ----------------------------------
 Symbol: XEMETH
 priceChange: -0.00000618
-lastPrice: 0.00030442
+lastPrice: 0.00029753
 prevClosePrice: 0.00033427
 volume: 1107780.00000000
 count: 480
 ----------------------------------
 Symbol: WANBTC
 priceChange: -0.00000128
-lastPrice: 0.00001109
+lastPrice: 0.00001053
 prevClosePrice: 0.00002466
 volume: 601722.00000000
 count: 3391
 ----------------------------------
 Symbol: WANETH
 priceChange: -0.00003700
-lastPrice: 0.00044200
+lastPrice: 0.00042700
 prevClosePrice: 0.00075200
 volume: 155092.85000000
 count: 1669
 ----------------------------------
 Symbol: WANBNB
 priceChange: -0.00076000
-lastPrice: 0.00844000
+lastPrice: 0.00827000
 prevClosePrice: 0.00954000
 volume: 70016.50000000
 count: 1628
 ----------------------------------
 Symbol: WPRBTC
 priceChange: 0.00000001
-lastPrice: 0.00000023
+lastPrice: 0.00000025
 prevClosePrice: 0.00000065
 volume: 4696143.00000000
 count: 581
 ----------------------------------
 Symbol: QLCBTC
 priceChange: -0.00000006
-lastPrice: 0.00000046
+lastPrice: 0.00000049
 prevClosePrice: 0.00000149
 volume: 3165579.00000000
 count: 974
 ----------------------------------
 Symbol: QLCETH
 priceChange: -0.00000173
-lastPrice: 0.00001798
+lastPrice: 0.00002026
 prevClosePrice: 0.00004543
 volume: 5001656.00000000
 count: 6358
 ----------------------------------
 Symbol: SYSBTC
 priceChange: -0.00000013
-lastPrice: 0.00000212
+lastPrice: 0.00000215
 prevClosePrice: 0.00000456
 volume: 844040.00000000
 count: 972
 ----------------------------------
 Symbol: GRSBTC
 priceChange: 0.00000004
-lastPrice: 0.00001273
+lastPrice: 0.00001212
 prevClosePrice: 0.00001567
 volume: 114693.00000000
 count: 334
 ----------------------------------
 Symbol: ADAUSDT
 priceChange: -0.00070000
-lastPrice: 0.17907000
+lastPrice: 0.17436000
 prevClosePrice: 0.09325000
 volume: 161286615.50000000
 count: 35681
 ----------------------------------
 Symbol: ADABNB
 priceChange: -0.00012200
-lastPrice: 0.00465500
+lastPrice: 0.00464900
 prevClosePrice: 0.00342400
 volume: 2937115.00000000
 count: 1725
 ----------------------------------
 Symbol: LOOMBTC
 priceChange: -0.00000003
-lastPrice: 0.00000099
+lastPrice: 0.00000104
 prevClosePrice: 0.00000187
 volume: 3044515.00000000
 count: 1392
 ----------------------------------
 Symbol: LOOMETH
 priceChange: -0.00000089
-lastPrice: 0.00003964
+lastPrice: 0.00004241
 prevClosePrice: 0.00005710
 volume: 331840.00000000
 count: 321
 ----------------------------------
 Symbol: XRPUSDT
 priceChange: -0.00120000
-lastPrice: 0.23325000
+lastPrice: 0.23424000
 prevClosePrice: 0.23305000
 volume: 60766542.30000000
 count: 31966
 ----------------------------------
 Symbol: REPBTC
 priceChange: 0.00001100
-lastPrice: 0.00056500
+lastPrice: 0.00058900
 prevClosePrice: 0.00127500
 volume: 13062.66600000
 count: 2518
 ----------------------------------
 Symbol: REPETH
 priceChange: 0.00021000
-lastPrice: 0.02247000
+lastPrice: 0.02377000
 prevClosePrice: 0.03903000
 volume: 3539.39100000
 count: 483
 ----------------------------------
 Symbol: BTCTUSD
 priceChange: 4.10000000
-lastPrice: 29308.97000000
+lastPrice: 29664.12000000
 prevClosePrice: 10538.43000000
 volume: 66.31800100
 count: 929
 ----------------------------------
 Symbol: ETHTUSD
 priceChange: -0.87000000
-lastPrice: 738.59000000
+lastPrice: 734.11000000
 prevClosePrice: 345.28000000
 volume: 2066.63304000
 count: 737
 ----------------------------------
 Symbol: ZENBTC
 priceChange: 0.00000330
-lastPrice: 0.00044700
+lastPrice: 0.00038810
 prevClosePrice: 0.00049660
 volume: 8661.01000000
 count: 1381
 ----------------------------------
 Symbol: ZENETH
 priceChange: 0.00020000
-lastPrice: 0.01779000
+lastPrice: 0.01568000
 prevClosePrice: 0.01520000
 volume: 2005.36600000
 count: 267
 ----------------------------------
 Symbol: ZENBNB
 priceChange: -0.00430000
-lastPrice: 0.33830000
+lastPrice: 0.30600000
 prevClosePrice: 0.19140000
 volume: 1416.47000000
 count: 135
 ----------------------------------
 Symbol: SKYBTC
 priceChange: -0.00000024
-lastPrice: 0.00001975
+lastPrice: 0.00001861
 prevClosePrice: 0.00004343
 volume: 72066.00000000
 count: 1837
 ----------------------------------
 Symbol: EOSUSDT
 priceChange: -0.00260000
-lastPrice: 2.61360000
+lastPrice: 2.61600000
 prevClosePrice: 2.47130000
 volume: 3361244.23000000
 count: 20173
 ----------------------------------
 Symbol: EOSBNB
 priceChange: -0.00240000
-lastPrice: 0.06790000
+lastPrice: 0.06960000
 prevClosePrice: 0.09060000
 volume: 82641.11000000
 count: 1353
 ----------------------------------
 Symbol: CVCBTC
 priceChange: -0.00000005
-lastPrice: 0.00000300
+lastPrice: 0.00000290
 prevClosePrice: 0.00000239
 volume: 823281.00000000
 count: 437
 ----------------------------------
 Symbol: CVCETH
 priceChange: -0.00000123
-lastPrice: 0.00011929
+lastPrice: 0.00011715
 prevClosePrice: 0.00007312
 volume: 125434.00000000
 count: 243
 ----------------------------------
 Symbol: THETABTC
 priceChange: 0.00000470
-lastPrice: 0.00006776
+lastPrice: 0.00007243
 prevClosePrice: 0.00006559
 volume: 7077539.00000000
 count: 33140
 ----------------------------------
 Symbol: THETAETH
 priceChange: 0.00014797
-lastPrice: 0.00270010
+lastPrice: 0.00294271
 prevClosePrice: 0.00200782
 volume: 466279.00000000
 count: 3773
 ----------------------------------
 Symbol: THETABNB
 priceChange: 0.00107400
-lastPrice: 0.05121200
+lastPrice: 0.05744800
 prevClosePrice: 0.02534500
 volume: 310434.00000000
 count: 1646
 ----------------------------------
 Symbol: XRPBNB
 priceChange: -0.00029000
-lastPrice: 0.00604000
+lastPrice: 0.00625000
 prevClosePrice: 0.00853000
 volume: 2689921.50000000
 count: 3164
 ----------------------------------
 Symbol: TUSDUSDT
 priceChange: -0.00030000
-lastPrice: 0.99780000
+lastPrice: 0.99720000
 prevClosePrice: 0.99990000
 volume: 1845395.82000000
 count: 5772
 ----------------------------------
 Symbol: IOTAUSDT
 priceChange: -0.00580000
-lastPrice: 0.29650000
+lastPrice: 0.29470000
 prevClosePrice: 0.27140000
 volume: 7083209.89000000
 count: 6961
 ----------------------------------
 Symbol: XLMUSDT
 priceChange: -0.00051000
-lastPrice: 0.13180000
+lastPrice: 0.13347000
 prevClosePrice: 0.07110000
 volume: 47549275.30000000
 count: 11849
@@ -1394,7 +1394,7 @@ count: 685
 ----------------------------------
 Symbol: IOTXETH
 priceChange: -0.00000035
-lastPrice: 0.00000895
+lastPrice: 0.00000932
 prevClosePrice: 0.00002079
 volume: 4160377.00000000
 count: 403
@@ -1408,147 +1408,147 @@ count: 1133
 ----------------------------------
 Symbol: QKCETH
 priceChange: 0.00000001
-lastPrice: 0.00000717
+lastPrice: 0.00000783
 prevClosePrice: 0.00001506
 volume: 3726502.00000000
 count: 549
 ----------------------------------
 Symbol: AGIBTC
 priceChange: 0.00000008
-lastPrice: 0.00000171
+lastPrice: 0.00000185
 prevClosePrice: 0.00000382
 volume: 11196744.00000000
 count: 6024
 ----------------------------------
 Symbol: NXSBTC
 priceChange: -0.00000046
-lastPrice: 0.00000665
+lastPrice: 0.00000681
 prevClosePrice: 0.00001794
 volume: 77107.00000000
 count: 272
 ----------------------------------
 Symbol: ENJBNB
 priceChange: -0.00026400
-lastPrice: 0.00347300
+lastPrice: 0.00356300
 prevClosePrice: 0.00549600
 volume: 54812.00000000
 count: 162
 ----------------------------------
 Symbol: DATABTC
 priceChange: 0.00000004
-lastPrice: 0.00000141
+lastPrice: 0.00000130
 prevClosePrice: 0.00000377
 volume: 1058441.00000000
 count: 808
 ----------------------------------
 Symbol: DATAETH
 priceChange: 0.00000090
-lastPrice: 0.00005667
+lastPrice: 0.00005265
 prevClosePrice: 0.00011487
 volume: 137867.00000000
 count: 196
 ----------------------------------
 Symbol: ONTUSDT
 priceChange: -0.01900000
-lastPrice: 0.44520000
+lastPrice: 0.46870000
 prevClosePrice: 0.59870000
 volume: 4800430.60000000
 count: 10097
 ----------------------------------
 Symbol: TRXBNB
 priceChange: -0.00001000
-lastPrice: 0.00069700
+lastPrice: 0.00071730
 prevClosePrice: 0.00096500
 volume: 29731872.00000000
 count: 11382
 ----------------------------------
 Symbol: TRXUSDT
 priceChange: 0.00047000
-lastPrice: 0.02685000
+lastPrice: 0.02694000
 prevClosePrice: 0.02635000
 volume: 1754410997.00000000
 count: 95547
 ----------------------------------
 Symbol: ETCUSDT
 priceChange: -0.04990000
-lastPrice: 5.71510000
+lastPrice: 5.68040000
 prevClosePrice: 5.16100000
 volume: 590146.65000000
 count: 14448
 ----------------------------------
 Symbol: ETCBNB
 priceChange: -0.00740000
-lastPrice: 0.14770000
+lastPrice: 0.15190000
 prevClosePrice: 0.18960000
 volume: 1942.12000000
 count: 272
 ----------------------------------
 Symbol: ICXUSDT
 priceChange: -0.00740000
-lastPrice: 0.45920000
+lastPrice: 0.44960000
 prevClosePrice: 0.39200000
 volume: 4289055.17000000
 count: 8972
 ----------------------------------
 Symbol: SCBTC
 priceChange: 0.00000000
-lastPrice: 0.00000011
+lastPrice: 0.00000012
 prevClosePrice: 0.00000027
 volume: 72230212.00000000
 count: 735
 ----------------------------------
 Symbol: SCETH
 priceChange: -0.00000035
-lastPrice: 0.00000446
+lastPrice: 0.00000483
 prevClosePrice: 0.00000816
 volume: 9856643.00000000
 count: 434
 ----------------------------------
 Symbol: SCBNB
 priceChange: -0.00000720
-lastPrice: 0.00008500
+lastPrice: 0.00009340
 prevClosePrice: 0.00010370
 volume: 3810207.00000000
 count: 472
 ----------------------------------
 Symbol: NPXSETH
 priceChange: 0.00000000
-lastPrice: 0.00000024
+lastPrice: 0.00000025
 prevClosePrice: 0.00000039
 volume: 97391861.00000000
 count: 117
 ----------------------------------
 Symbol: KEYETH
 priceChange: -0.00000047
-lastPrice: 0.00000268
+lastPrice: 0.00000280
 prevClosePrice: 0.00000601
 volume: 16480537.00000000
 count: 860
 ----------------------------------
 Symbol: NASBTC
 priceChange: -0.00000080
-lastPrice: 0.00000830
+lastPrice: 0.00000840
 prevClosePrice: 0.00003280
 volume: 240825.78000000
 count: 1141
 ----------------------------------
 Symbol: NASETH
 priceChange: -0.00002200
-lastPrice: 0.00032700
+lastPrice: 0.00033900
 prevClosePrice: 0.00099800
 volume: 375256.62000000
 count: 1996
 ----------------------------------
 Symbol: MFTETH
 priceChange: -0.00000011
-lastPrice: 0.00000344
+lastPrice: 0.00000360
 prevClosePrice: 0.00000450
 volume: 11728129.00000000
 count: 503
 ----------------------------------
 Symbol: MFTBNB
 priceChange: -0.00000320
-lastPrice: 0.00006550
+lastPrice: 0.00007010
 prevClosePrice: 0.00005710
 volume: 12947565.00000000
 count: 748
@@ -1562,595 +1562,595 @@ count: 253
 ----------------------------------
 Symbol: ARDRBTC
 priceChange: -0.00000004
-lastPrice: 0.00000261
+lastPrice: 0.00000273
 prevClosePrice: 0.00000445
 volume: 1368401.00000000
 count: 1014
 ----------------------------------
 Symbol: NULSUSDT
 priceChange: 0.00110000
-lastPrice: 0.21100000
+lastPrice: 0.21120000
 prevClosePrice: 0.26870000
 volume: 888932.37000000
 count: 2048
 ----------------------------------
 Symbol: HOTBTC
 priceChange: -0.00000001
-lastPrice: 0.00000003
+lastPrice: 0.00000002
 prevClosePrice: 0.00000005
 volume: 122684367.00000000
 count: 386
 ----------------------------------
 Symbol: HOTETH
 priceChange: 0.00000001
-lastPrice: 0.00000083
+lastPrice: 0.00000086
 prevClosePrice: 0.00000134
 volume: 64533540.00000000
 count: 516
 ----------------------------------
 Symbol: VETBTC
 priceChange: -0.00000001
-lastPrice: 0.00000067
+lastPrice: 0.00000065
 prevClosePrice: 0.00000112
 volume: 178398014.00000000
 count: 5760
 ----------------------------------
 Symbol: VETETH
 priceChange: -0.00000017
-lastPrice: 0.00002640
+lastPrice: 0.00002601
 prevClosePrice: 0.00003407
 volume: 50784321.00000000
 count: 2643
 ----------------------------------
 Symbol: VETUSDT
 priceChange: -0.00006900
-lastPrice: 0.01938900
+lastPrice: 0.01900100
 prevClosePrice: 0.01177500
 volume: 829226739.00000000
 count: 42206
 ----------------------------------
 Symbol: VETBNB
 priceChange: -0.00001530
-lastPrice: 0.00050400
+lastPrice: 0.00050670
 prevClosePrice: 0.00043140
 volume: 11719951.00000000
 count: 1035
 ----------------------------------
 Symbol: DOCKBTC
 priceChange: -0.00000005
-lastPrice: 0.00000064
+lastPrice: 0.00000061
 prevClosePrice: 0.00000129
 volume: 23572909.00000000
 count: 2801
 ----------------------------------
 Symbol: POLYBTC
 priceChange: -0.00000010
-lastPrice: 0.00000350
+lastPrice: 0.00000314
 prevClosePrice: 0.00000377
 volume: 4758737.00000000
 count: 2135
 ----------------------------------
 Symbol: GOBTC
 priceChange: 0.00000002
-lastPrice: 0.00000023
+lastPrice: 0.00000025
 prevClosePrice: 0.00000077
 volume: 9671181.00000000
 count: 776
 ----------------------------------
 Symbol: PAXUSDT
 priceChange: -0.00020000
-lastPrice: 0.99780000
+lastPrice: 0.99730000
 prevClosePrice: 0.99990000
 volume: 3057387.17000000
 count: 3807
 ----------------------------------
 Symbol: RVNBTC
 priceChange: 0.00000000
-lastPrice: 0.00000044
+lastPrice: 0.00000043
 prevClosePrice: 0.00000125
 volume: 18022328.00000000
 count: 1551
 ----------------------------------
 Symbol: RVNBNB
 priceChange: -0.00001200
-lastPrice: 0.00033000
+lastPrice: 0.00034500
 prevClosePrice: 0.00048300
 volume: 788578.00000000
 count: 253
 ----------------------------------
 Symbol: DCRBTC
 priceChange: 0.00001600
-lastPrice: 0.00142900
+lastPrice: 0.00145100
 prevClosePrice: 0.00108200
 volume: 3974.26400000
 count: 873
 ----------------------------------
 Symbol: MITHBTC
 priceChange: -0.00000001
-lastPrice: 0.00000048
+lastPrice: 0.00000041
 prevClosePrice: 0.00000049
 volume: 7135784.00000000
 count: 445
 ----------------------------------
 Symbol: MITHBNB
 priceChange: -0.00000800
-lastPrice: 0.00036800
+lastPrice: 0.00032000
 prevClosePrice: 0.00018700
 volume: 7547226.00000000
 count: 4586
 ----------------------------------
 Symbol: BNBPAX
 priceChange: 0.56370000
-lastPrice: 38.70000000
+lastPrice: 36.77530000
 prevClosePrice: 27.31060000
 volume: 1413.01000000
 count: 162
 ----------------------------------
 Symbol: BTCPAX
 priceChange: 6.21000000
-lastPrice: 29322.49000000
+lastPrice: 29629.56000000
 prevClosePrice: 10542.45000000
 volume: 307.12426000
 count: 4964
 ----------------------------------
 Symbol: ETHPAX
 priceChange: -0.30000000
-lastPrice: 737.57000000
+lastPrice: 733.82000000
 prevClosePrice: 345.89000000
 volume: 3937.95695000
 count: 1495
 ----------------------------------
 Symbol: XRPPAX
 priceChange: -0.00071000
-lastPrice: 0.23305000
+lastPrice: 0.23696000
 prevClosePrice: 0.23389000
 volume: 31037.50000000
 count: 30
 ----------------------------------
 Symbol: RENBTC
 priceChange: 0.00000067
-lastPrice: 0.00001118
+lastPrice: 0.00001054
 prevClosePrice: 0.00002424
 volume: 17168742.00000000
 count: 28572
 ----------------------------------
 Symbol: BNBTUSD
 priceChange: 0.59770000
-lastPrice: 38.65740000
+lastPrice: 37.80980000
 prevClosePrice: 27.30500000
 volume: 935.29000000
 count: 176
 ----------------------------------
 Symbol: XRPTUSD
 priceChange: -0.00111000
-lastPrice: 0.23211000
+lastPrice: 0.23519000
 prevClosePrice: 0.23354000
 volume: 224456.00000000
 count: 127
 ----------------------------------
 Symbol: EOSTUSD
 priceChange: -0.00660000
-lastPrice: 2.61320000
+lastPrice: 2.62030000
 prevClosePrice: 2.47160000
 volume: 164587.53000000
 count: 1349
 ----------------------------------
 Symbol: BNBUSDC
 priceChange: 0.79420000
-lastPrice: 38.54510000
+lastPrice: 37.64990000
 prevClosePrice: 27.29500000
 volume: 15602.17000000
 count: 1575
 ----------------------------------
 Symbol: BTCUSDC
 priceChange: 8.94000000
-lastPrice: 29316.80000000
+lastPrice: 29654.34000000
 prevClosePrice: 10537.75000000
 volume: 613.17839200
 count: 6216
 ----------------------------------
 Symbol: ETHUSDC
 priceChange: -0.28000000
-lastPrice: 737.38000000
+lastPrice: 733.74000000
 prevClosePrice: 345.75000000
 volume: 10651.19587000
 count: 3337
 ----------------------------------
 Symbol: XRPUSDC
 priceChange: -0.00137000
-lastPrice: 0.23352000
+lastPrice: 0.23501000
 prevClosePrice: 0.23324000
 volume: 2055093.70000000
 count: 807
 ----------------------------------
 Symbol: EOSUSDC
 priceChange: -0.00520000
-lastPrice: 2.61820000
+lastPrice: 2.61980000
 prevClosePrice: 2.47590000
 volume: 222303.94000000
 count: 891
 ----------------------------------
 Symbol: USDCUSDT
 priceChange: 0.00000000
-lastPrice: 0.99790000
+lastPrice: 0.99730000
 prevClosePrice: 0.99980000
 volume: 16539773.16000000
 count: 12353
 ----------------------------------
 Symbol: ADATUSD
 priceChange: -0.00244000
-lastPrice: 0.17829000
+lastPrice: 0.17434000
 prevClosePrice: 0.09316000
 volume: 424270.70000000
 count: 78
 ----------------------------------
 Symbol: TRXTUSD
 priceChange: 0.00054000
-lastPrice: 0.02700000
+lastPrice: 0.02716000
 prevClosePrice: 0.02636000
 volume: 6153125.70000000
 count: 715
 ----------------------------------
 Symbol: TRXXRP
 priceChange: 0.00257000
-lastPrice: 0.11508000
+lastPrice: 0.11487000
 prevClosePrice: 0.11300000
 volume: 7761832.00000000
 count: 11329
 ----------------------------------
 Symbol: LINKUSDT
 priceChange: 0.01060000
-lastPrice: 11.39540000
+lastPrice: 11.69190000
 prevClosePrice: 9.19830000
 volume: 4950137.43000000
 count: 78064
 ----------------------------------
 Symbol: LINKTUSD
 priceChange: -0.07370000
-lastPrice: 11.37790000
+lastPrice: 11.71300000
 prevClosePrice: 9.19360000
 volume: 6008.28000000
 count: 158
 ----------------------------------
 Symbol: LINKUSDC
 priceChange: 0.00900000
-lastPrice: 11.45180000
+lastPrice: 11.72790000
 prevClosePrice: 9.19990000
 volume: 71369.53000000
 count: 1478
 ----------------------------------
 Symbol: WAVESUSDT
 priceChange: -0.09060000
-lastPrice: 6.06860000
+lastPrice: 5.74340000
 prevClosePrice: 2.43590000
 volume: 694157.38000000
 count: 6038
 ----------------------------------
 Symbol: LTCTUSD
 priceChange: 0.26000000
-lastPrice: 128.09000000
+lastPrice: 125.84000000
 prevClosePrice: 44.80000000
 volume: 1551.74194000
 count: 75
 ----------------------------------
 Symbol: LTCPAX
 priceChange: 0.36000000
-lastPrice: 127.74000000
+lastPrice: 126.81000000
 prevClosePrice: 44.98000000
 volume: 652.62297000
 count: 51
 ----------------------------------
 Symbol: LTCUSDC
 priceChange: 0.38000000
-lastPrice: 127.90000000
+lastPrice: 126.01000000
 prevClosePrice: 44.91000000
 volume: 6459.97517000
 count: 267
 ----------------------------------
 Symbol: TRXPAX
 priceChange: 0.00036000
-lastPrice: 0.02691000
+lastPrice: 0.02703000
 prevClosePrice: 0.02630000
 volume: 2870311.40000000
 count: 2458
 ----------------------------------
 Symbol: TRXUSDC
 priceChange: 0.00042000
-lastPrice: 0.02700000
+lastPrice: 0.02703000
 prevClosePrice: 0.02623000
 volume: 43195035.50000000
 count: 1364
 ----------------------------------
 Symbol: BTTBNB
 priceChange: -0.00000065
-lastPrice: 0.00000756
+lastPrice: 0.00000799
 prevClosePrice: 0.00001220
 volume: 409364140.00000000
 count: 6205
 ----------------------------------
 Symbol: BTTUSDT
 priceChange: -0.00000890
-lastPrice: 0.00029160
+lastPrice: 0.00029970
 prevClosePrice: 0.00033330
 volume: 21220985928.00000000
 count: 7977
 ----------------------------------
 Symbol: BTTTUSD
 priceChange: -0.00000860
-lastPrice: 0.00029200
+lastPrice: 0.00030170
 prevClosePrice: 0.00033300
 volume: 121756515.00000000
 count: 2432
 ----------------------------------
 Symbol: BTTUSDC
 priceChange: -0.00000870
-lastPrice: 0.00029250
+lastPrice: 0.00030090
 prevClosePrice: 0.00033320
 volume: 165269944.00000000
 count: 158
 ----------------------------------
 Symbol: ONGBTC
 priceChange: -0.00000056
-lastPrice: 0.00000639
+lastPrice: 0.00000690
 prevClosePrice: 0.00001222
 volume: 655572.00000000
 count: 1610
 ----------------------------------
 Symbol: ONGUSDT
 priceChange: -0.00600000
-lastPrice: 0.18820000
+lastPrice: 0.20310000
 prevClosePrice: 0.12920000
 volume: 1093978.89000000
 count: 1177
 ----------------------------------
 Symbol: HOTBNB
 priceChange: -0.00000059
-lastPrice: 0.00001580
+lastPrice: 0.00001668
 prevClosePrice: 0.00001689
 volume: 31655896.00000000
 count: 381
 ----------------------------------
 Symbol: HOTUSDT
 priceChange: -0.00000260
-lastPrice: 0.00060990
+lastPrice: 0.00062690
 prevClosePrice: 0.00046210
 volume: 272169523.00000000
 count: 1338
 ----------------------------------
 Symbol: ZILUSDT
 priceChange: 0.00070000
-lastPrice: 0.08584000
+lastPrice: 0.08003000
 prevClosePrice: 0.01765000
 volume: 300864980.90000000
 count: 21144
 ----------------------------------
 Symbol: ZRXBNB
 priceChange: -0.00115000
-lastPrice: 0.00925000
+lastPrice: 0.01047000
 prevClosePrice: 0.01421000
 volume: 58251.30000000
 count: 297
 ----------------------------------
 Symbol: ZRXUSDT
 priceChange: -0.01950000
-lastPrice: 0.35780000
+lastPrice: 0.39250000
 prevClosePrice: 0.38790000
 volume: 2671197.33000000
 count: 5383
 ----------------------------------
 Symbol: FETBNB
 priceChange: -0.00021300
-lastPrice: 0.00139000
+lastPrice: 0.00145600
 prevClosePrice: 0.00200100
 volume: 846617.00000000
 count: 805
 ----------------------------------
 Symbol: FETBTC
 priceChange: -0.00000039
-lastPrice: 0.00000184
+lastPrice: 0.00000186
 prevClosePrice: 0.00000520
 volume: 27167153.00000000
 count: 7970
 ----------------------------------
 Symbol: FETUSDT
 priceChange: -0.00424000
-lastPrice: 0.05377000
+lastPrice: 0.05480000
 prevClosePrice: 0.05477000
 volume: 27361248.80000000
 count: 6308
 ----------------------------------
 Symbol: BATUSDT
 priceChange: -0.00570000
-lastPrice: 0.20360000
+lastPrice: 0.20480000
 prevClosePrice: 0.22390000
 volume: 4739943.39000000
 count: 4737
 ----------------------------------
 Symbol: XMRBNB
 priceChange: -0.11700000
-lastPrice: 4.20800000
+lastPrice: 3.60000000
 prevClosePrice: 3.73100000
 volume: 1465.10500000
 count: 1730
 ----------------------------------
 Symbol: XMRUSDT
 priceChange: -0.38000000
-lastPrice: 162.26000000
+lastPrice: 134.86000000
 prevClosePrice: 101.97000000
 volume: 71327.60537000
 count: 18357
 ----------------------------------
 Symbol: ZECBNB
 priceChange: -0.19500000
-lastPrice: 1.69100000
+lastPrice: 1.54200000
 prevClosePrice: 2.31900000
 volume: 976.28700000
 count: 701
 ----------------------------------
 Symbol: ZECUSDT
 priceChange: -3.61000000
-lastPrice: 65.00000000
+lastPrice: 57.85000000
 prevClosePrice: 63.28000000
 volume: 178358.32693000
 count: 27541
 ----------------------------------
 Symbol: ZECUSDC
 priceChange: -3.82000000
-lastPrice: 65.19000000
+lastPrice: 57.91000000
 prevClosePrice: 63.02000000
 volume: 221.16987000
 count: 52
 ----------------------------------
 Symbol: IOSTBNB
 priceChange: -0.00001110
-lastPrice: 0.00014710
+lastPrice: 0.00015390
 prevClosePrice: 0.00019900
 volume: 4650902.00000000
 count: 247
 ----------------------------------
 Symbol: IOSTUSDT
 priceChange: -0.00011700
-lastPrice: 0.00568100
+lastPrice: 0.00576500
 prevClosePrice: 0.00543400
 volume: 415697452.00000000
 count: 7535
 ----------------------------------
 Symbol: CELRBNB
 priceChange: -0.00000890
-lastPrice: 0.00011920
+lastPrice: 0.00013180
 prevClosePrice: 0.00017440
 volume: 1799890.00000000
 count: 235
 ----------------------------------
 Symbol: CELRBTC
 priceChange: -0.00000001
-lastPrice: 0.00000015
+lastPrice: 0.00000017
 prevClosePrice: 0.00000046
 volume: 41415236.00000000
 count: 795
 ----------------------------------
 Symbol: CELRUSDT
 priceChange: -0.00009000
-lastPrice: 0.00456000
+lastPrice: 0.00493000
 prevClosePrice: 0.00475000
 volume: 28090232.00000000
 count: 1146
 ----------------------------------
 Symbol: ADAUSDC
 priceChange: -0.00127000
-lastPrice: 0.17912000
+lastPrice: 0.17403000
 prevClosePrice: 0.09324000
 volume: 581087.50000000
 count: 134
 ----------------------------------
 Symbol: NEOUSDC
 priceChange: -0.73400000
-lastPrice: 14.55000000
+lastPrice: 14.58600000
 prevClosePrice: 17.99000000
 volume: 1710.63200000
 count: 234
 ----------------------------------
 Symbol: DASHBNB
 priceChange: -0.08500000
-lastPrice: 2.59400000
+lastPrice: 2.32600000
 prevClosePrice: 2.41100000
 volume: 310.22900000
 count: 215
 ----------------------------------
 Symbol: DASHUSDT
 priceChange: -0.62000000
-lastPrice: 99.88000000
+lastPrice: 87.78000000
 prevClosePrice: 65.78000000
 volume: 28842.08969000
 count: 7346
 ----------------------------------
 Symbol: NANOUSDT
 priceChange: -0.02410000
-lastPrice: 1.01840000
+lastPrice: 1.02780000
 prevClosePrice: 0.78340000
 volume: 199036.64000000
 count: 1121
 ----------------------------------
 Symbol: OMGUSDT
 priceChange: -0.19530000
-lastPrice: 2.53830000
+lastPrice: 2.60890000
 prevClosePrice: 3.79700000
 volume: 1585362.00000000
 count: 18873
 ----------------------------------
 Symbol: THETAUSDT
 priceChange: 0.05046000
-lastPrice: 1.98014000
+lastPrice: 2.14556000
 prevClosePrice: 0.68990000
 volume: 13705839.80000000
 count: 29434
 ----------------------------------
 Symbol: ENJUSDT
 priceChange: -0.00256000
-lastPrice: 0.13356000
+lastPrice: 0.13380000
 prevClosePrice: 0.14923000
 volume: 2937547.10000000
 count: 4916
 ----------------------------------
 Symbol: MITHUSDT
 priceChange: -0.00003000
-lastPrice: 0.01418000
+lastPrice: 0.01203000
 prevClosePrice: 0.00511000
 volume: 13570380.80000000
 count: 955
 ----------------------------------
 Symbol: MATICBNB
 priceChange: -0.00001330
-lastPrice: 0.00046310
+lastPrice: 0.00050000
 prevClosePrice: 0.00066400
 volume: 2341646.00000000
 count: 356
 ----------------------------------
 Symbol: MATICBTC
 priceChange: 0.00000001
-lastPrice: 0.00000061
+lastPrice: 0.00000064
 prevClosePrice: 0.00000173
 volume: 40788813.00000000
 count: 3457
 ----------------------------------
 Symbol: MATICUSDT
 priceChange: 0.00017000
-lastPrice: 0.01784000
+lastPrice: 0.01882000
 prevClosePrice: 0.01817000
 volume: 61940834.90000000
 count: 4338
 ----------------------------------
 Symbol: ATOMBNB
 priceChange: -0.00760000
-lastPrice: 0.15480000
+lastPrice: 0.15180000
 prevClosePrice: 0.18240000
 volume: 16959.83000000
 count: 826
 ----------------------------------
 Symbol: ATOMBTC
 priceChange: -0.00000630
-lastPrice: 0.00020470
+lastPrice: 0.00019250
 prevClosePrice: 0.00047210
 volume: 319151.89000000
 count: 9016
 ----------------------------------
 Symbol: ATOMUSDT
 priceChange: -0.06300000
-lastPrice: 5.98500000
+lastPrice: 5.69200000
 prevClosePrice: 4.97700000
 volume: 1167442.26000000
 count: 20165
 ----------------------------------
 Symbol: ATOMUSDC
 priceChange: -0.08000000
-lastPrice: 6.01500000
+lastPrice: 5.69000000
 prevClosePrice: 4.96600000
 volume: 1690.86800000
 count: 59
 ----------------------------------
 Symbol: BATUSDC
 priceChange: -0.00210000
-lastPrice: 0.20340000
+lastPrice: 0.20520000
 prevClosePrice: 0.22380000
 volume: 41440.46000000
 count: 39
@@ -2164,28 +2164,28 @@ count: 232
 ----------------------------------
 Symbol: PHBTUSD
 priceChange: 0.00001000
-lastPrice: 0.00330000
+lastPrice: 0.00297000
 prevClosePrice: 0.00238000
 volume: 392250.00000000
 count: 19
 ----------------------------------
 Symbol: TFUELBTC
 priceChange: 0.00000005
-lastPrice: 0.00000121
+lastPrice: 0.00000117
 prevClosePrice: 0.00000088
 volume: 78247320.00000000
 count: 4472
 ----------------------------------
 Symbol: TFUELUSDT
 priceChange: 0.00056300
-lastPrice: 0.03536600
+lastPrice: 0.03480900
 prevClosePrice: 0.00930200
 volume: 113642563.00000000
 count: 4718
 ----------------------------------
 Symbol: ONEBNB
 priceChange: -0.00000950
-lastPrice: 0.00010940
+lastPrice: 0.00011080
 prevClosePrice: 0.00020060
 volume: 11735626.00000000
 count: 727
@@ -2199,14 +2199,14 @@ count: 2321
 ----------------------------------
 Symbol: ONEUSDT
 priceChange: -0.00011000
-lastPrice: 0.00422000
+lastPrice: 0.00414000
 prevClosePrice: 0.00549000
 volume: 123189623.00000000
 count: 5700
 ----------------------------------
 Symbol: FTMBNB
 priceChange: -0.00014100
-lastPrice: 0.00043900
+lastPrice: 0.00044800
 prevClosePrice: 0.00120300
 volume: 3990178.00000000
 count: 1009
@@ -2220,77 +2220,77 @@ count: 17269
 ----------------------------------
 Symbol: FTMUSDT
 priceChange: -0.00311000
-lastPrice: 0.01680000
+lastPrice: 0.01679000
 prevClosePrice: 0.03281000
 volume: 123555889.10000000
 count: 17405
 ----------------------------------
 Symbol: ALGOBNB
 priceChange: -0.00040000
-lastPrice: 0.00957000
+lastPrice: 0.01225000
 prevClosePrice: 0.01157000
 volume: 224418.20000000
 count: 794
 ----------------------------------
 Symbol: ALGOBTC
 priceChange: -0.00000023
-lastPrice: 0.00001273
+lastPrice: 0.00001554
 prevClosePrice: 0.00002994
 volume: 2496386.00000000
 count: 10231
 ----------------------------------
 Symbol: ALGOUSDT
 priceChange: -0.00210000
-lastPrice: 0.37200000
+lastPrice: 0.45970000
 prevClosePrice: 0.31560000
 volume: 9198206.25000000
 count: 13490
 ----------------------------------
 Symbol: ALGOTUSD
 priceChange: -0.00460000
-lastPrice: 0.37710000
+lastPrice: 0.45820000
 prevClosePrice: 0.31510000
 volume: 101556.14000000
 count: 75
 ----------------------------------
 Symbol: GTOUSDT
 priceChange: -0.00014000
-lastPrice: 0.01038000
+lastPrice: 0.00975000
 prevClosePrice: 0.00707000
 volume: 4563117.30000000
 count: 321
 ----------------------------------
 Symbol: DOGEBTC
 priceChange: 0.00000001
-lastPrice: 0.00000016
+lastPrice: 0.00000023
 prevClosePrice: 0.00000024
 volume: 47129196.00000000
 count: 837
 ----------------------------------
 Symbol: DOGEUSDT
 priceChange: 0.00000900
-lastPrice: 0.00478200
+lastPrice: 0.00692160
 prevClosePrice: 0.00258470
 volume: 296511747.00000000
 count: 5014
 ----------------------------------
 Symbol: DUSKBTC
 priceChange: -0.00000012
-lastPrice: 0.00000154
+lastPrice: 0.00000146
 prevClosePrice: 0.00000376
 volume: 1099559.00000000
 count: 764
 ----------------------------------
 Symbol: DUSKUSDT
 priceChange: -0.00120000
-lastPrice: 0.04490000
+lastPrice: 0.04380000
 prevClosePrice: 0.03970000
 volume: 813186.69000000
 count: 340
 ----------------------------------
 Symbol: ANKRBNB
 priceChange: -0.00000060
-lastPrice: 0.00022550
+lastPrice: 0.00023560
 prevClosePrice: 0.00026360
 volume: 3315647.00000000
 count: 454
@@ -2304,35 +2304,35 @@ count: 3338
 ----------------------------------
 Symbol: ANKRUSDT
 priceChange: 0.00025000
-lastPrice: 0.00878000
+lastPrice: 0.00878400
 prevClosePrice: 0.00715000
 volume: 150824230.00000000
 count: 4621
 ----------------------------------
 Symbol: WINBNB
 priceChange: -0.00000008
-lastPrice: 0.00000157
+lastPrice: 0.00000158
 prevClosePrice: 0.00000296
 volume: 823358934.00000000
 count: 7693
 ----------------------------------
 Symbol: WINUSDT
 priceChange: 0.00000030
-lastPrice: 0.00006063
+lastPrice: 0.00005926
 prevClosePrice: 0.00008070
 volume: 8567599404.00000000
 count: 11697
 ----------------------------------
 Symbol: WINUSDC
 priceChange: 0.00000160
-lastPrice: 0.00006090
+lastPrice: 0.00005940
 prevClosePrice: 0.00008090
 volume: 289682978.00000000
 count: 1135
 ----------------------------------
 Symbol: COSBNB
 priceChange: -0.00001300
-lastPrice: 0.00018800
+lastPrice: 0.00020400
 prevClosePrice: 0.00027500
 volume: 1750378.00000000
 count: 257
@@ -2346,259 +2346,259 @@ count: 1023
 ----------------------------------
 Symbol: COSUSDT
 priceChange: -0.00015000
-lastPrice: 0.00725000
+lastPrice: 0.00761000
 prevClosePrice: 0.00756000
 volume: 16339390.60000000
 count: 1248
 ----------------------------------
 Symbol: NPXSUSDT
 priceChange: -0.00000050
-lastPrice: 0.00017480
+lastPrice: 0.00017690
 prevClosePrice: 0.00013710
 volume: 200273708.00000000
 count: 377
 ----------------------------------
 Symbol: COCOSBNB
 priceChange: 0.00000040
-lastPrice: 0.00000650
+lastPrice: 0.00000640
 prevClosePrice: 0.00001150
 volume: 26713594.00000000
 count: 898
 ----------------------------------
 Symbol: COCOSUSDT
 priceChange: 0.00001800
-lastPrice: 0.00025100
+lastPrice: 0.00024300
 prevClosePrice: 0.00031500
 volume: 220681730.00000000
 count: 1931
 ----------------------------------
 Symbol: MTLUSDT
 priceChange: 0.00050000
-lastPrice: 0.38760000
+lastPrice: 0.38810000
 prevClosePrice: 0.29790000
 volume: 134551.79000000
 count: 316
 ----------------------------------
 Symbol: TOMOBNB
 priceChange: -0.00061000
-lastPrice: 0.01747000
+lastPrice: 0.01764000
 prevClosePrice: 0.03322000
 volume: 30962.30000000
 count: 422
 ----------------------------------
 Symbol: TOMOBTC
 priceChange: 0.00000051
-lastPrice: 0.00002305
+lastPrice: 0.00002248
 prevClosePrice: 0.00008634
 volume: 1493062.00000000
 count: 11277
 ----------------------------------
 Symbol: TOMOUSDT
 priceChange: 0.00150000
-lastPrice: 0.67210000
+lastPrice: 0.66610000
 prevClosePrice: 0.91000000
 volume: 3850742.79000000
 count: 13785
 ----------------------------------
 Symbol: PERLBNB
 priceChange: -0.00003800
-lastPrice: 0.00062100
+lastPrice: 0.00064200
 prevClosePrice: 0.00080200
 volume: 733534.00000000
 count: 444
 ----------------------------------
 Symbol: PERLBTC
 priceChange: -0.00000004
-lastPrice: 0.00000083
+lastPrice: 0.00000082
 prevClosePrice: 0.00000208
 volume: 4111075.00000000
 count: 1300
 ----------------------------------
 Symbol: PERLUSDT
 priceChange: -0.00057000
-lastPrice: 0.02397000
+lastPrice: 0.02398000
 prevClosePrice: 0.02194000
 volume: 7458777.80000000
 count: 1536
 ----------------------------------
 Symbol: DENTUSDT
 priceChange: -0.00000370
-lastPrice: 0.00019400
+lastPrice: 0.00019630
 prevClosePrice: 0.00021480
 volume: 76463402.00000000
 count: 325
 ----------------------------------
 Symbol: MFTUSDT
 priceChange: -0.00004300
-lastPrice: 0.00253200
+lastPrice: 0.00262100
 prevClosePrice: 0.00155600
 volume: 37060851.00000000
 count: 958
 ----------------------------------
 Symbol: KEYUSDT
 priceChange: -0.00017700
-lastPrice: 0.00197900
+lastPrice: 0.00203600
 prevClosePrice: 0.00207200
 volume: 134555504.00000000
 count: 2147
 ----------------------------------
 Symbol: DOCKUSDT
 priceChange: -0.00041800
-lastPrice: 0.01856200
+lastPrice: 0.01796800
 prevClosePrice: 0.01364400
 volume: 20073131.00000000
 count: 2230
 ----------------------------------
 Symbol: WANUSDT
 priceChange: -0.01340000
-lastPrice: 0.32370000
+lastPrice: 0.31130000
 prevClosePrice: 0.26020000
 volume: 511680.23000000
 count: 2208
 ----------------------------------
 Symbol: FUNUSDT
 priceChange: 0.00001500
-lastPrice: 0.00907900
+lastPrice: 0.00618400
 prevClosePrice: 0.00290700
 volume: 7562504.00000000
 count: 398
 ----------------------------------
 Symbol: CVCUSDT
 priceChange: -0.00047000
-lastPrice: 0.08799000
+lastPrice: 0.08585000
 prevClosePrice: 0.02502000
 volume: 1226541.30000000
 count: 497
 ----------------------------------
 Symbol: BTTTRX
 priceChange: -0.00056000
-lastPrice: 0.01085000
+lastPrice: 0.01113000
 prevClosePrice: 0.01262000
 volume: 1514755226.80000000
 count: 5255
 ----------------------------------
 Symbol: WINTRX
 priceChange: -0.00004000
-lastPrice: 0.00225000
+lastPrice: 0.00220000
 prevClosePrice: 0.00307000
 volume: 2633602950.30000000
 count: 10282
 ----------------------------------
 Symbol: CHZBNB
 priceChange: -0.00000730
-lastPrice: 0.00055520
+lastPrice: 0.00053610
 prevClosePrice: 0.00038810
 volume: 1657689.00000000
 count: 142
 ----------------------------------
 Symbol: CHZBTC
 priceChange: 0.00000003
-lastPrice: 0.00000073
+lastPrice: 0.00000068
 prevClosePrice: 0.00000101
 volume: 28675958.00000000
 count: 1740
 ----------------------------------
 Symbol: CHZUSDT
 priceChange: 0.00018000
-lastPrice: 0.02140700
+lastPrice: 0.02008400
 prevClosePrice: 0.01057800
 volume: 25937303.00000000
 count: 1730
 ----------------------------------
 Symbol: BANDBNB
 priceChange: -0.01149000
-lastPrice: 0.14497000
+lastPrice: 0.15100000
 prevClosePrice: 0.22039000
 volume: 42174.30000000
 count: 1125
 ----------------------------------
 Symbol: BANDBTC
 priceChange: -0.00001594
-lastPrice: 0.00018934
+lastPrice: 0.00019277
 prevClosePrice: 0.00057119
 volume: 208280.70000000
 count: 7217
 ----------------------------------
 Symbol: BANDUSDT
 priceChange: -0.14360000
-lastPrice: 5.53430000
+lastPrice: 5.70540000
 prevClosePrice: 6.00960000
 volume: 679946.29000000
 count: 13041
 ----------------------------------
 Symbol: BNBBUSD
 priceChange: 0.85710000
-lastPrice: 38.63360000
+lastPrice: 37.63890000
 prevClosePrice: 27.31630000
 volume: 180813.22000000
 count: 30497
 ----------------------------------
 Symbol: BTCBUSD
 priceChange: 12.76000000
-lastPrice: 29311.07000000
+lastPrice: 29668.63000000
 prevClosePrice: 10534.38000000
 volume: 2556.96343800
 count: 93788
 ----------------------------------
 Symbol: BUSDUSDT
 priceChange: -0.00020000
-lastPrice: 0.99790000
+lastPrice: 0.99720000
 prevClosePrice: 0.99990000
 volume: 44426860.68000000
 count: 75613
 ----------------------------------
 Symbol: BEAMBTC
 priceChange: -0.00000070
-lastPrice: 0.00000990
+lastPrice: 0.00000920
 prevClosePrice: 0.00002580
 volume: 281537.45000000
 count: 905
 ----------------------------------
 Symbol: BEAMUSDT
 priceChange: -0.00500000
-lastPrice: 0.29250000
+lastPrice: 0.27380000
 prevClosePrice: 0.27230000
 volume: 248687.22000000
 count: 844
 ----------------------------------
 Symbol: XTZBNB
 priceChange: -0.00171000
-lastPrice: 0.05244000
+lastPrice: 0.05343000
 prevClosePrice: 0.07681000
 volume: 28894.00000000
 count: 762
 ----------------------------------
 Symbol: XTZBTC
 priceChange: 0.00000090
-lastPrice: 0.00006910
+lastPrice: 0.00006770
 prevClosePrice: 0.00019820
 volume: 746387.01000000
 count: 6922
 ----------------------------------
 Symbol: XTZUSDT
 priceChange: 0.01440000
-lastPrice: 2.02130000
+lastPrice: 2.00310000
 prevClosePrice: 2.08790000
 volume: 1982104.69000000
 count: 17452
 ----------------------------------
 Symbol: RENUSDT
 priceChange: 0.00792000
-lastPrice: 0.32701000
+lastPrice: 0.31135000
 prevClosePrice: 0.25553000
 volume: 26495540.70000000
 count: 24105
 ----------------------------------
 Symbol: RVNUSDT
 priceChange: 0.00002000
-lastPrice: 0.01276000
+lastPrice: 0.01294000
 prevClosePrice: 0.01323000
 volume: 17990909.30000000
 count: 1441
 ----------------------------------
 Symbol: HBARBNB
 priceChange: -0.00003900
-lastPrice: 0.00084300
+lastPrice: 0.00087300
 prevClosePrice: 0.00110600
 volume: 352283.00000000
 count: 167
@@ -2612,280 +2612,280 @@ count: 2082
 ----------------------------------
 Symbol: HBARUSDT
 priceChange: -0.00014000
-lastPrice: 0.03245000
+lastPrice: 0.03287000
 prevClosePrice: 0.03031000
 volume: 9190551.60000000
 count: 1972
 ----------------------------------
 Symbol: NKNBTC
 priceChange: -0.00000005
-lastPrice: 0.00000061
+lastPrice: 0.00000062
 prevClosePrice: 0.00000178
 volume: 3372408.00000000
 count: 852
 ----------------------------------
 Symbol: NKNUSDT
 priceChange: -0.00072000
-lastPrice: 0.01795000
+lastPrice: 0.01842000
 prevClosePrice: 0.01886000
 volume: 1586020.30000000
 count: 422
 ----------------------------------
 Symbol: XRPBUSD
 priceChange: -0.00119000
-lastPrice: 0.23379000
+lastPrice: 0.23501000
 prevClosePrice: 0.23318000
 volume: 2581236.70000000
 count: 3395
 ----------------------------------
 Symbol: ETHBUSD
 priceChange: -0.15000000
-lastPrice: 736.88000000
+lastPrice: 733.77000000
 prevClosePrice: 345.50000000
 volume: 61846.55487000
 count: 70658
 ----------------------------------
 Symbol: LTCBUSD
 priceChange: 0.54000000
-lastPrice: 127.83000000
+lastPrice: 125.98000000
 prevClosePrice: 44.91000000
 volume: 8096.60835000
 count: 1191
 ----------------------------------
 Symbol: LINKBUSD
 priceChange: 0.01290000
-lastPrice: 11.41000000
+lastPrice: 11.72000000
 prevClosePrice: 9.18600000
 volume: 123985.39000000
 count: 4150
 ----------------------------------
 Symbol: ETCBUSD
 priceChange: -0.07500000
-lastPrice: 5.72350000
+lastPrice: 5.69870000
 prevClosePrice: 5.15590000
 volume: 4142.30000000
 count: 407
 ----------------------------------
 Symbol: STXBNB
 priceChange: 0.00003000
-lastPrice: 0.01100000
+lastPrice: 0.01155000
 prevClosePrice: 0.00552000
 volume: 62773.90000000
 count: 123
 ----------------------------------
 Symbol: STXBTC
 priceChange: 0.00000036
-lastPrice: 0.00001448
+lastPrice: 0.00001465
 prevClosePrice: 0.00001427
 volume: 1074866.00000000
 count: 1295
 ----------------------------------
 Symbol: STXUSDT
 priceChange: 0.00320000
-lastPrice: 0.42320000
+lastPrice: 0.43430000
 prevClosePrice: 0.15080000
 volume: 1556998.96000000
 count: 1460
 ----------------------------------
 Symbol: KAVABNB
 priceChange: -0.00484000
-lastPrice: 0.03381000
+lastPrice: 0.03446000
 prevClosePrice: 0.07660000
 volume: 21581.80000000
 count: 835
 ----------------------------------
 Symbol: KAVABTC
 priceChange: -0.00000657
-lastPrice: 0.00004478
+lastPrice: 0.00004386
 prevClosePrice: 0.00019908
 volume: 221223.00000000
 count: 3611
 ----------------------------------
 Symbol: KAVAUSDT
 priceChange: -0.07300000
-lastPrice: 1.30510000
+lastPrice: 1.29410000
 prevClosePrice: 2.09070000
 volume: 846812.25000000
 count: 9661
 ----------------------------------
 Symbol: BUSDNGN
 priceChange: 7.77000000
-lastPrice: 469.30000000
+lastPrice: 470.54000000
 prevClosePrice: 462.55000000
 volume: 1056693.10000000
 count: 3844
 ----------------------------------
 Symbol: BNBNGN
 priceChange: 493.00000000
-lastPrice: 18200.00000000
+lastPrice: 17641.00000000
 prevClosePrice: 12597.00000000
 volume: 2704.38400000
 count: 1536
 ----------------------------------
 Symbol: BTCNGN
 priceChange: 88761.00000000
-lastPrice: 13739608.00000000
+lastPrice: 13949302.00000000
 prevClosePrice: 4880826.00000000
 volume: 368.53804200
 count: 10663
 ----------------------------------
 Symbol: ARPABNB
 priceChange: -0.00001800
-lastPrice: 0.00063000
+lastPrice: 0.00058600
 prevClosePrice: 0.00078100
 volume: 210983.00000000
 count: 583
 ----------------------------------
 Symbol: ARPABTC
 priceChange: 0.00000003
-lastPrice: 0.00000083
+lastPrice: 0.00000075
 prevClosePrice: 0.00000201
 volume: 11038400.00000000
 count: 1736
 ----------------------------------
 Symbol: ARPAUSDT
 priceChange: 0.00034000
-lastPrice: 0.02424000
+lastPrice: 0.02199000
 prevClosePrice: 0.02123000
 volume: 13767223.30000000
 count: 3868
 ----------------------------------
 Symbol: TRXBUSD
 priceChange: 0.00050000
-lastPrice: 0.02691000
+lastPrice: 0.02704000
 prevClosePrice: 0.02637000
 volume: 35692180.60000000
 count: 3526
 ----------------------------------
 Symbol: EOSBUSD
 priceChange: -0.00260000
-lastPrice: 2.61860000
+lastPrice: 2.62330000
 prevClosePrice: 2.47320000
 volume: 74751.33000000
 count: 960
 ----------------------------------
 Symbol: IOTXUSDT
 priceChange: -0.00012300
-lastPrice: 0.00653000
+lastPrice: 0.00682100
 prevClosePrice: 0.00716300
 volume: 25476447.00000000
 count: 1246
 ----------------------------------
 Symbol: RLCUSDT
 priceChange: -0.04180000
-lastPrice: 0.76920000
+lastPrice: 0.73560000
 prevClosePrice: 0.87390000
 volume: 840473.09000000
 count: 3556
 ----------------------------------
 Symbol: XLMBUSD
 priceChange: -0.00057000
-lastPrice: 0.13193000
+lastPrice: 0.13403000
 prevClosePrice: 0.07104000
 volume: 1425714.40000000
 count: 395
 ----------------------------------
 Symbol: ADABUSD
 priceChange: -0.00083000
-lastPrice: 0.17930000
+lastPrice: 0.17487000
 prevClosePrice: 0.09340000
 volume: 3897749.10000000
 count: 1892
 ----------------------------------
 Symbol: CTXCBTC
 priceChange: -0.00000005
-lastPrice: 0.00000272
+lastPrice: 0.00000274
 prevClosePrice: 0.00000844
 volume: 299025.00000000
 count: 700
 ----------------------------------
 Symbol: CTXCUSDT
 priceChange: -0.00050000
-lastPrice: 0.07950000
+lastPrice: 0.08080000
 prevClosePrice: 0.08890000
 volume: 119064.45000000
 count: 351
 ----------------------------------
 Symbol: BCHBNB
 priceChange: -0.32600000
-lastPrice: 8.98100000
+lastPrice: 9.10700000
 prevClosePrice: 8.04900000
 volume: 915.12900000
 count: 799
 ----------------------------------
 Symbol: BCHBTC
 priceChange: -0.00020900
-lastPrice: 0.01181000
+lastPrice: 0.01154900
 prevClosePrice: 0.02086600
 volume: 7989.81400000
 count: 7417
 ----------------------------------
 Symbol: BCHUSDT
 priceChange: -2.08000000
-lastPrice: 345.62000000
+lastPrice: 341.66000000
 prevClosePrice: 219.82000000
 volume: 38842.31358000
 count: 22693
 ----------------------------------
 Symbol: BCHUSDC
 priceChange: -2.42000000
-lastPrice: 346.09000000
+lastPrice: 342.25000000
 prevClosePrice: 219.97000000
 volume: 1076.91548000
 count: 331
 ----------------------------------
 Symbol: BCHTUSD
 priceChange: -2.44000000
-lastPrice: 348.86000000
+lastPrice: 343.60000000
 prevClosePrice: 220.92000000
 volume: 253.30627000
 count: 63
 ----------------------------------
 Symbol: BCHPAX
 priceChange: -3.40000000
-lastPrice: 346.26000000
+lastPrice: 341.18000000
 prevClosePrice: 219.88000000
 volume: 119.23134000
 count: 61
 ----------------------------------
 Symbol: BCHBUSD
 priceChange: -2.08000000
-lastPrice: 346.19000000
+lastPrice: 342.60000000
 prevClosePrice: 219.75000000
 volume: 1117.16276000
 count: 2061
 ----------------------------------
 Symbol: BTCRUB
 priceChange: 1387.00000000
-lastPrice: 2119845.00000000
+lastPrice: 2141562.00000000
 prevClosePrice: 852146.00000000
 volume: 20.92775300
 count: 3711
 ----------------------------------
 Symbol: ETHRUB
 priceChange: -62.00000000
-lastPrice: 53185.80000000
+lastPrice: 52873.70000000
 prevClosePrice: 28131.40000000
 volume: 219.75943000
 count: 1081
 ----------------------------------
 Symbol: XRPRUB
 priceChange: 0.03600000
-lastPrice: 16.87100000
+lastPrice: 17.00000000
 prevClosePrice: 19.05600000
 volume: 33090.50000000
 count: 171
 ----------------------------------
 Symbol: BNBRUB
 priceChange: 45.00000000
-lastPrice: 2793.47000000
+lastPrice: 2717.34000000
 prevClosePrice: 2234.98000000
 volume: 754.21000000
 count: 434
 ----------------------------------
 Symbol: TROYBNB
 priceChange: -0.00000280
-lastPrice: 0.00006120
+lastPrice: 0.00006910
 prevClosePrice: 0.00010840
 volume: 2013144.00000000
 count: 168
@@ -2899,147 +2899,147 @@ count: 223
 ----------------------------------
 Symbol: TROYUSDT
 priceChange: -0.00001030
-lastPrice: 0.00235410
+lastPrice: 0.00257900
 prevClosePrice: 0.00299240
 volume: 14716785.00000000
 count: 541
 ----------------------------------
 Symbol: BUSDRUB
 priceChange: 0.14100000
-lastPrice: 72.71000000
+lastPrice: 72.15000000
 prevClosePrice: 81.22000000
 volume: 19559.50000000
 count: 179
 ----------------------------------
 Symbol: QTUMBUSD
 priceChange: -0.06700000
-lastPrice: 2.24000000
+lastPrice: 2.25200000
 prevClosePrice: 2.31200000
 volume: 5158.87600000
 count: 98
 ----------------------------------
 Symbol: VETBUSD
 priceChange: -0.00005800
-lastPrice: 0.01942800
+lastPrice: 0.01906000
 prevClosePrice: 0.01178600
 volume: 12767366.00000000
 count: 716
 ----------------------------------
 Symbol: VITEBTC
 priceChange: -0.00000002
-lastPrice: 0.00000045
+lastPrice: 0.00000046
 prevClosePrice: 0.00000153
 volume: 2559514.00000000
 count: 804
 ----------------------------------
 Symbol: VITEUSDT
 priceChange: -0.00018000
-lastPrice: 0.01317000
+lastPrice: 0.01372000
 prevClosePrice: 0.01611000
 volume: 1883335.00000000
 count: 418
 ----------------------------------
 Symbol: FTTBNB
 priceChange: -0.00310000
-lastPrice: 0.15100000
+lastPrice: 0.15490000
 prevClosePrice: 0.12940000
 volume: 3807.98000000
 count: 227
 ----------------------------------
 Symbol: FTTBTC
 priceChange: 0.00000200
-lastPrice: 0.00019920
+lastPrice: 0.00019800
 prevClosePrice: 0.00033440
 volume: 97563.74000000
 count: 4001
 ----------------------------------
 Symbol: FTTUSDT
 priceChange: 0.02200000
-lastPrice: 5.82400000
+lastPrice: 5.84400000
 prevClosePrice: 3.52400000
 volume: 141006.07600000
 count: 4558
 ----------------------------------
 Symbol: BTCTRY
 priceChange: 167.00000000
-lastPrice: 217903.00000000
+lastPrice: 220314.00000000
 prevClosePrice: 82337.00000000
 volume: 30.37968800
 count: 1428
 ----------------------------------
 Symbol: BNBTRY
 priceChange: 5.04000000
-lastPrice: 287.45000000
+lastPrice: 279.72000000
 prevClosePrice: 213.53000000
 volume: 2021.82000000
 count: 498
 ----------------------------------
 Symbol: BUSDTRY
 priceChange: 0.01200000
-lastPrice: 7.43200000
+lastPrice: 7.42000000
 prevClosePrice: 7.82500000
 volume: 63067.62000000
 count: 170
 ----------------------------------
 Symbol: ETHTRY
 priceChange: 4.09000000
-lastPrice: 5480.30000000
+lastPrice: 5452.48000000
 prevClosePrice: 2706.68000000
 volume: 145.29539000
 count: 343
 ----------------------------------
 Symbol: XRPTRY
 priceChange: -0.01400000
-lastPrice: 1.73800000
+lastPrice: 1.74800000
 prevClosePrice: 1.82300000
 volume: 43310.97000000
 count: 91
 ----------------------------------
 Symbol: USDTTRY
 priceChange: 0.01500000
-lastPrice: 7.45400000
+lastPrice: 7.46000000
 prevClosePrice: 7.82900000
 volume: 549090.46000000
 count: 1858
 ----------------------------------
 Symbol: USDTRUB
 priceChange: 0.02700000
-lastPrice: 72.59000000
+lastPrice: 72.49900000
 prevClosePrice: 81.47300000
 volume: 288823.90000000
 count: 8223
 ----------------------------------
 Symbol: BTCEUR
 priceChange: 4.99000000
-lastPrice: 23909.91000000
+lastPrice: 24184.23000000
 prevClosePrice: 9036.04000000
 volume: 107.58599400
 count: 5527
 ----------------------------------
 Symbol: ETHEUR
 priceChange: 0.04000000
-lastPrice: 601.01000000
+lastPrice: 598.19000000
 prevClosePrice: 296.20000000
 volume: 865.29502000
 count: 1119
 ----------------------------------
 Symbol: BNBEUR
 priceChange: 0.52360000
-lastPrice: 31.49000000
+lastPrice: 30.66350000
 prevClosePrice: 23.36080000
 volume: 5382.58300000
 count: 1453
 ----------------------------------
 Symbol: XRPEUR
 priceChange: -0.00091000
-lastPrice: 0.19058000
+lastPrice: 0.19156000
 prevClosePrice: 0.20044000
 volume: 150267.70000000
 count: 320
 ----------------------------------
 Symbol: EURBUSD
 priceChange: 0.00030000
-lastPrice: 1.22610000
+lastPrice: 1.22690000
 prevClosePrice: 1.16590000
 volume: 285817.81000000
 count: 2673
@@ -3053,56 +3053,56 @@ count: 3245
 ----------------------------------
 Symbol: OGNBNB
 priceChange: -0.00049000
-lastPrice: 0.00301000
+lastPrice: 0.00327000
 prevClosePrice: 0.00747000
 volume: 63787.80000000
 count: 226
 ----------------------------------
 Symbol: OGNBTC
 priceChange: -0.00000095
-lastPrice: 0.00000396
+lastPrice: 0.00000415
 prevClosePrice: 0.00001947
 volume: 1445827.00000000
 count: 2074
 ----------------------------------
 Symbol: OGNUSDT
 priceChange: -0.01060000
-lastPrice: 0.11620000
+lastPrice: 0.12290000
 prevClosePrice: 0.20530000
 volume: 2304780.58000000
 count: 2774
 ----------------------------------
 Symbol: DREPBTC
 priceChange: 0.00000002
-lastPrice: 0.00000014
+lastPrice: 0.00000015
 prevClosePrice: 0.00000032
 volume: 36407859.00000000
 count: 563
 ----------------------------------
 Symbol: DREPUSDT
 priceChange: 0.00021500
-lastPrice: 0.00397400
+lastPrice: 0.00423000
 prevClosePrice: 0.00331700
 volume: 37696724.00000000
 count: 1075
 ----------------------------------
 Symbol: TCTBTC
 priceChange: 0.00000000
-lastPrice: 0.00000028
+lastPrice: 0.00000029
 prevClosePrice: 0.00000075
 volume: 38798776.00000000
 count: 1583
 ----------------------------------
 Symbol: TCTUSDT
 priceChange: -0.00010500
-lastPrice: 0.00826300
+lastPrice: 0.00868400
 prevClosePrice: 0.00801300
 volume: 37186877.00000000
 count: 1727
 ----------------------------------
 Symbol: WRXBNB
 priceChange: -0.00015200
-lastPrice: 0.00170800
+lastPrice: 0.00176400
 prevClosePrice: 0.00347000
 volume: 132605.00000000
 count: 354
@@ -3116,378 +3116,378 @@ count: 2069
 ----------------------------------
 Symbol: WRXUSDT
 priceChange: -0.00133000
-lastPrice: 0.06613000
+lastPrice: 0.06638000
 prevClosePrice: 0.09452000
 volume: 1886069.50000000
 count: 1651
 ----------------------------------
 Symbol: ICXBUSD
 priceChange: -0.00770000
-lastPrice: 0.46080000
+lastPrice: 0.45110000
 prevClosePrice: 0.39200000
 volume: 138590.18000000
 count: 462
 ----------------------------------
 Symbol: BTSUSDT
 priceChange: -0.00002000
-lastPrice: 0.02142000
+lastPrice: 0.02235000
 prevClosePrice: 0.02119000
 volume: 12232787.40000000
 count: 1007
 ----------------------------------
 Symbol: LSKUSDT
 priceChange: -0.00750000
-lastPrice: 1.16550000
+lastPrice: 1.17020000
 prevClosePrice: 1.10610000
 volume: 89754.63000000
 count: 699
 ----------------------------------
 Symbol: BNTUSDT
 priceChange: 0.02490000
-lastPrice: 1.29080000
+lastPrice: 1.29750000
 prevClosePrice: 0.96580000
 volume: 458253.57000000
 count: 2905
 ----------------------------------
 Symbol: BNTBUSD
 priceChange: 0.02480000
-lastPrice: 1.29150000
+lastPrice: 1.29790000
 prevClosePrice: 0.97870000
 volume: 16929.13000000
 count: 186
 ----------------------------------
 Symbol: LTOBTC
 priceChange: -0.00000024
-lastPrice: 0.00000443
+lastPrice: 0.00000430
 prevClosePrice: 0.00000675
 volume: 31447057.00000000
 count: 4247
 ----------------------------------
 Symbol: LTOUSDT
 priceChange: -0.00251000
-lastPrice: 0.13023000
+lastPrice: 0.12735000
 prevClosePrice: 0.07110000
 volume: 4098032.90000000
 count: 4284
 ----------------------------------
 Symbol: ATOMBUSD
 priceChange: -0.08200000
-lastPrice: 5.99800000
+lastPrice: 5.71800000
 prevClosePrice: 4.96300000
 volume: 16032.74000000
 count: 451
 ----------------------------------
 Symbol: DASHBUSD
 priceChange: -0.77000000
-lastPrice: 100.16000000
+lastPrice: 88.00000000
 prevClosePrice: 65.77000000
 volume: 268.24209000
 count: 180
 ----------------------------------
 Symbol: NEOBUSD
 priceChange: -0.49200000
-lastPrice: 14.48300000
+lastPrice: 14.58400000
 prevClosePrice: 18.01500000
 volume: 6178.12100000
 count: 394
 ----------------------------------
 Symbol: WAVESBUSD
 priceChange: -0.09530000
-lastPrice: 6.07840000
+lastPrice: 5.76000000
 prevClosePrice: 2.44030000
 volume: 8696.64000000
 count: 205
 ----------------------------------
 Symbol: XTZBUSD
 priceChange: 0.01480000
-lastPrice: 2.02960000
+lastPrice: 2.00670000
 prevClosePrice: 2.08540000
 volume: 56585.75000000
 count: 963
 ----------------------------------
 Symbol: BATBUSD
 priceChange: -0.00470000
-lastPrice: 0.20470000
+lastPrice: 0.20560000
 prevClosePrice: 0.22340000
 volume: 108807.13000000
 count: 160
 ----------------------------------
 Symbol: ENJBUSD
 priceChange: -0.00320000
-lastPrice: 0.13365000
+lastPrice: 0.13398000
 prevClosePrice: 0.14993000
 volume: 177687.00000000
 count: 243
 ----------------------------------
 Symbol: NANOBUSD
 priceChange: -0.02370000
-lastPrice: 1.02360000
+lastPrice: 1.03050000
 prevClosePrice: 0.78690000
 volume: 29332.42000000
 count: 271
 ----------------------------------
 Symbol: ONTBUSD
 priceChange: -0.02400000
-lastPrice: 0.44730000
+lastPrice: 0.46930000
 prevClosePrice: 0.60150000
 volume: 136910.23000000
 count: 410
 ----------------------------------
 Symbol: RVNBUSD
 priceChange: 0.00002000
-lastPrice: 0.01275000
+lastPrice: 0.01303000
 prevClosePrice: 0.01324000
 volume: 553343.30000000
 count: 64
 ----------------------------------
 Symbol: AIONUSDT
 priceChange: -0.00050000
-lastPrice: 0.06310000
+lastPrice: 0.06620000
 prevClosePrice: 0.07930000
 volume: 1383924.74000000
 count: 951
 ----------------------------------
 Symbol: MBLBNB
 priceChange: -0.00000210
-lastPrice: 0.00003810
+lastPrice: 0.00004110
 prevClosePrice: 0.00005860
 volume: 5228002.00000000
 count: 349
 ----------------------------------
 Symbol: MBLBTC
 priceChange: 0.00000000
-lastPrice: 0.00000005
+lastPrice: 0.00000006
 prevClosePrice: 0.00000015
 volume: 72743629.00000000
 count: 288
 ----------------------------------
 Symbol: MBLUSDT
 priceChange: -0.00002500
-lastPrice: 0.00145600
+lastPrice: 0.00154600
 prevClosePrice: 0.00159900
 volume: 96993328.00000000
 count: 4463
 ----------------------------------
 Symbol: COTIBNB
 priceChange: -0.00004400
-lastPrice: 0.00127000
+lastPrice: 0.00121100
 prevClosePrice: 0.00124000
 volume: 789095.00000000
 count: 643
 ----------------------------------
 Symbol: COTIBTC
 priceChange: -0.00000001
-lastPrice: 0.00000168
+lastPrice: 0.00000154
 prevClosePrice: 0.00000321
 volume: 25231443.00000000
 count: 7290
 ----------------------------------
 Symbol: COTIUSDT
 priceChange: -0.00022000
-lastPrice: 0.04891000
+lastPrice: 0.04550000
 prevClosePrice: 0.03388000
 volume: 59071107.70000000
 count: 7116
 ----------------------------------
 Symbol: ALGOBUSD
 priceChange: -0.00370000
-lastPrice: 0.37300000
+lastPrice: 0.46060000
 prevClosePrice: 0.31600000
 volume: 447035.39000000
 count: 632
 ----------------------------------
 Symbol: BTTBUSD
 priceChange: -0.00000880
-lastPrice: 0.00029210
+lastPrice: 0.00030070
 prevClosePrice: 0.00033240
 volume: 234824235.00000000
 count: 814
 ----------------------------------
 Symbol: TOMOBUSD
 priceChange: -0.00370000
-lastPrice: 0.67000000
+lastPrice: 0.67130000
 prevClosePrice: 0.90980000
 volume: 75020.93000000
 count: 464
 ----------------------------------
 Symbol: XMRBUSD
 priceChange: -0.23000000
-lastPrice: 162.51000000
+lastPrice: 135.22000000
 prevClosePrice: 102.14000000
 volume: 627.13598000
 count: 381
 ----------------------------------
 Symbol: ZECBUSD
 priceChange: -3.49000000
-lastPrice: 65.15000000
+lastPrice: 57.95000000
 prevClosePrice: 63.27000000
 volume: 1727.42364000
 count: 624
 ----------------------------------
 Symbol: STPTBTC
 priceChange: -0.00000003
-lastPrice: 0.00000058
+lastPrice: 0.00000060
 prevClosePrice: 0.00000158
 volume: 1753725.00000000
 count: 649
 ----------------------------------
 Symbol: STPTUSDT
 priceChange: -0.00028000
-lastPrice: 0.01696000
+lastPrice: 0.01762000
 prevClosePrice: 0.01676000
 volume: 2479340.20000000
 count: 597
 ----------------------------------
 Symbol: BTCZAR
 priceChange: 1081.00000000
-lastPrice: 446827.00000000
+lastPrice: 450642.00000000
 prevClosePrice: 181389.00000000
 volume: 0.92815900
 count: 264
 ----------------------------------
 Symbol: ETHZAR
 priceChange: 20.00000000
-lastPrice: 11192.10000000
+lastPrice: 11119.90000000
 prevClosePrice: 5979.10000000
 volume: 29.49837000
 count: 79
 ----------------------------------
 Symbol: BNBZAR
 priceChange: 18.59000000
-lastPrice: 573.57000000
+lastPrice: 567.45000000
 prevClosePrice: 466.74000000
 volume: 54.39000000
 count: 34
 ----------------------------------
 Symbol: USDTZAR
 priceChange: 0.09400000
-lastPrice: 15.25100000
+lastPrice: 15.23900000
 prevClosePrice: 17.23600000
 volume: 3069.50000000
 count: 68
 ----------------------------------
 Symbol: BUSDZAR
 priceChange: 0.11800000
-lastPrice: 15.20800000
+lastPrice: 15.18300000
 prevClosePrice: 17.23300000
 volume: 2423.60000000
 count: 77
 ----------------------------------
 Symbol: BTCBKRW
 priceChange: -30466.00000000
-lastPrice: 32301137.00000000
+lastPrice: 32578780.00000000
 prevClosePrice: 12371999.00000000
 volume: 5.31419100
 count: 778
 ----------------------------------
 Symbol: ETHBKRW
 priceChange: -2558.00000000
-lastPrice: 808408.00000000
+lastPrice: 790056.00000000
 prevClosePrice: 405932.00000000
 volume: 27.31795000
 count: 575
 ----------------------------------
 Symbol: BNBBKRW
 priceChange: 943.00000000
-lastPrice: 42661.00000000
+lastPrice: 41540.00000000
 prevClosePrice: 32034.00000000
 volume: 330.00700000
 count: 247
 ----------------------------------
 Symbol: WTCUSDT
 priceChange: -0.00180000
-lastPrice: 0.27830000
+lastPrice: 0.28490000
 prevClosePrice: 0.34820000
 volume: 296558.04000000
 count: 1186
 ----------------------------------
 Symbol: DATABUSD
 priceChange: -0.00027000
-lastPrice: 0.04184000
+lastPrice: 0.03867000
 prevClosePrice: 0.03937000
 volume: 20103.70000000
 count: 22
 ----------------------------------
 Symbol: DATAUSDT
 priceChange: 0.00045000
-lastPrice: 0.04158000
+lastPrice: 0.03859000
 prevClosePrice: 0.03941000
 volume: 1371981.90000000
 count: 803
 ----------------------------------
 Symbol: XZCUSDT
 priceChange: -0.00600000
-lastPrice: 3.34200000
+lastPrice: 2.98800000
 prevClosePrice: 3.74500000
 volume: 16750.46100000
 count: 1052
 ----------------------------------
 Symbol: SOLBNB
 priceChange: -0.00791000
-lastPrice: 0.04198000
+lastPrice: 0.04800000
 prevClosePrice: 0.09658000
 volume: 38263.70000000
 count: 2524
 ----------------------------------
 Symbol: SOLBTC
 priceChange: -0.00001360
-lastPrice: 0.00005524
+lastPrice: 0.00006070
 prevClosePrice: 0.00024939
 volume: 291057.00000000
 count: 8271
 ----------------------------------
 Symbol: SOLUSDT
 priceChange: -0.13820000
-lastPrice: 1.61340000
+lastPrice: 1.79500000
 prevClosePrice: 2.62490000
 volume: 579682.12000000
 count: 6589
 ----------------------------------
 Symbol: SOLBUSD
 priceChange: -0.13950000
-lastPrice: 1.62310000
+lastPrice: 1.80200000
 prevClosePrice: 2.63190000
 volume: 51728.66000000
 count: 1715
 ----------------------------------
 Symbol: BTCIDRT
 priceChange: -24096.00
-lastPrice: 411008016.00
+lastPrice: 414200682.00
 prevClosePrice: 157245856.00
 volume: 0.80721400
 count: 183
 ----------------------------------
 Symbol: BNBIDRT
 priceChange: 10832.00
-lastPrice: 540997.00
+lastPrice: 527121.00
 prevClosePrice: 404859.00
 volume: 306.96200000
 count: 208
 ----------------------------------
 Symbol: USDTIDRT
 priceChange: -18.00
-lastPrice: 14094.00
+lastPrice: 13965.00
 prevClosePrice: 14947.00
 volume: 24598.42000000
 count: 242
 ----------------------------------
 Symbol: BUSDIDRT
 priceChange: -85.00
-lastPrice: 14091.00
+lastPrice: 13930.00
 prevClosePrice: 14821.00
 volume: 834.53000000
 count: 14
 ----------------------------------
 Symbol: CTSIBTC
 priceChange: -0.00000018
-lastPrice: 0.00000145
+lastPrice: 0.00000140
 prevClosePrice: 0.00000384
 volume: 4769695.00000000
 count: 2241
 ----------------------------------
 Symbol: CTSIUSDT
 priceChange: -0.00170000
-lastPrice: 0.04240000
+lastPrice: 0.04130000
 prevClosePrice: 0.04042000
 volume: 5682488.20000000
 count: 1510
@@ -3501,119 +3501,119 @@ count: 175
 ----------------------------------
 Symbol: CTSIBUSD
 priceChange: -0.00159000
-lastPrice: 0.04270000
+lastPrice: 0.04177000
 prevClosePrice: 0.04043000
 volume: 62524.00000000
 count: 27
 ----------------------------------
 Symbol: HIVEBTC
 priceChange: -0.00000023
-lastPrice: 0.00000394
+lastPrice: 0.00000402
 prevClosePrice: 0.00001436
 volume: 2755739.00000000
 count: 5876
 ----------------------------------
 Symbol: HIVEUSDT
 priceChange: -0.00210000
-lastPrice: 0.11530000
+lastPrice: 0.11940000
 prevClosePrice: 0.15140000
 volume: 2433066.17000000
 count: 3899
 ----------------------------------
 Symbol: CHRBNB
 priceChange: -0.00004200
-lastPrice: 0.00056100
+lastPrice: 0.00060500
 prevClosePrice: 0.00110300
 volume: 712706.00000000
 count: 534
 ----------------------------------
 Symbol: CHRBTC
 priceChange: -0.00000003
-lastPrice: 0.00000073
+lastPrice: 0.00000077
 prevClosePrice: 0.00000286
 volume: 16423276.00000000
 count: 5960
 ----------------------------------
 Symbol: CHRUSDT
 priceChange: -0.00024000
-lastPrice: 0.02161000
+lastPrice: 0.02279000
 prevClosePrice: 0.03033000
 volume: 21542964.20000000
 count: 3483
 ----------------------------------
 Symbol: BTCUPUSDT
 priceChange: 0.01000000
-lastPrice: 70.02000000
+lastPrice: 71.60000000
 prevClosePrice: 10.00600000
 volume: 7498.33000000
 count: 378
 ----------------------------------
 Symbol: BTCDOWNUSDT
 priceChange: -0.02300000
-lastPrice: 0.50200000
+lastPrice: 0.48900000
 prevClosePrice: 6.32800000
 volume: 53189.20000000
 count: 930
 ----------------------------------
 Symbol: GXSUSDT
 priceChange: 0.00030000
-lastPrice: 0.29440000
+lastPrice: 0.29980000
 prevClosePrice: 0.43080000
 volume: 66683.53000000
 count: 281
 ----------------------------------
 Symbol: ARDRUSDT
 priceChange: -0.00036000
-lastPrice: 0.07606000
+lastPrice: 0.08087000
 prevClosePrice: 0.04695000
 volume: 950547.60000000
 count: 528
 ----------------------------------
 Symbol: HBARBUSD
 priceChange: -0.00032000
-lastPrice: 0.03257000
+lastPrice: 0.03294000
 prevClosePrice: 0.03046000
 volume: 1575152.90000000
 count: 337
 ----------------------------------
 Symbol: MATICBUSD
 priceChange: 0.00013000
-lastPrice: 0.01790000
+lastPrice: 0.01887000
 prevClosePrice: 0.01816000
 volume: 2286651.20000000
 count: 222
 ----------------------------------
 Symbol: WRXBUSD
 priceChange: -0.00142000
-lastPrice: 0.06623000
+lastPrice: 0.06668000
 prevClosePrice: 0.09530000
 volume: 253686.20000000
 count: 249
 ----------------------------------
 Symbol: ZILBUSD
 priceChange: 0.00068000
-lastPrice: 0.08610000
+lastPrice: 0.08061000
 prevClosePrice: 0.01766000
 volume: 25575282.80000000
 count: 1963
 ----------------------------------
 Symbol: MDTBTC
 priceChange: -0.00000001
-lastPrice: 0.00000073
+lastPrice: 0.00000077
 prevClosePrice: 0.00000124
 volume: 2674530.00000000
 count: 443
 ----------------------------------
 Symbol: MDTUSDT
 priceChange: 0.00001000
-lastPrice: 0.02135000
+lastPrice: 0.02269000
 prevClosePrice: 0.01313000
 volume: 2037022.60000000
 count: 513
 ----------------------------------
 Symbol: STMXBNB
 priceChange: -0.00000280
-lastPrice: 0.00006100
+lastPrice: 0.00006530
 prevClosePrice: 0.00007280
 volume: 313928.00000000
 count: 36
@@ -3627,119 +3627,119 @@ count: 101
 ----------------------------------
 Symbol: STMXETH
 priceChange: -0.00000005
-lastPrice: 0.00000321
+lastPrice: 0.00000335
 prevClosePrice: 0.00000574
 volume: 5841042.00000000
 count: 147
 ----------------------------------
 Symbol: STMXUSDT
 priceChange: -0.00000600
-lastPrice: 0.00234800
+lastPrice: 0.00245400
 prevClosePrice: 0.00198100
 volume: 11096376.00000000
 count: 466
 ----------------------------------
 Symbol: KNCBUSD
 priceChange: -0.03500000
-lastPrice: 0.81100000
+lastPrice: 0.80200000
 prevClosePrice: 0.92700000
 volume: 19295.35800000
 count: 148
 ----------------------------------
 Symbol: KNCUSDT
 priceChange: -0.02700000
-lastPrice: 0.80800000
+lastPrice: 0.80000000
 prevClosePrice: 0.93000000
 volume: 1008651.02200000
 count: 2965
 ----------------------------------
 Symbol: REPUSDT
 priceChange: 0.07900000
-lastPrice: 16.59900000
+lastPrice: 17.48700000
 prevClosePrice: 13.50000000
 volume: 7195.52800000
 count: 696
 ----------------------------------
 Symbol: LRCBUSD
 priceChange: 0.00338000
-lastPrice: 0.17651000
+lastPrice: 0.17527000
 prevClosePrice: 0.19616000
 volume: 56007.90000000
 count: 115
 ----------------------------------
 Symbol: LRCUSDT
 priceChange: 0.00485000
-lastPrice: 0.17576000
+lastPrice: 0.17513000
 prevClosePrice: 0.19751000
 volume: 5568173.10000000
 count: 4044
 ----------------------------------
 Symbol: IQBNB
 priceChange: -0.00000140
-lastPrice: 0.00008660
+lastPrice: 0.00014180
 prevClosePrice: 0.00007100
 volume: 3373015.00000000
 count: 1667
 ----------------------------------
 Symbol: IQBUSD
 priceChange: 0.00002200
-lastPrice: 0.00332500
+lastPrice: 0.00530100
 prevClosePrice: 0.00193600
 volume: 44753811.00000000
 count: 3089
 ----------------------------------
 Symbol: PNTBTC
 priceChange: -0.00000231
-lastPrice: 0.00001224
+lastPrice: 0.00001177
 prevClosePrice: 0.00004229
 volume: 176019.00000000
 count: 1288
 ----------------------------------
 Symbol: PNTUSDT
 priceChange: -0.02620000
-lastPrice: 0.35900000
+lastPrice: 0.34780000
 prevClosePrice: 0.44560000
 volume: 250325.59000000
 count: 978
 ----------------------------------
 Symbol: BTCGBP
 priceChange: -0.69000000
-lastPrice: 21476.67000000
+lastPrice: 21735.00000000
 prevClosePrice: 8189.79000000
 volume: 32.80507700
 count: 1421
 ----------------------------------
 Symbol: ETHGBP
 priceChange: -0.25000000
-lastPrice: 540.29000000
+lastPrice: 537.26000000
 prevClosePrice: 268.96000000
 volume: 259.30434000
 count: 460
 ----------------------------------
 Symbol: XRPGBP
 priceChange: -0.00075000
-lastPrice: 0.17089000
+lastPrice: 0.17220000
 prevClosePrice: 0.18162000
 volume: 98451.70000000
 count: 171
 ----------------------------------
 Symbol: BNBGBP
 priceChange: 0.66300000
-lastPrice: 28.31500000
+lastPrice: 27.71900000
 prevClosePrice: 21.33800000
 volume: 2936.73700000
 count: 485
 ----------------------------------
 Symbol: GBPBUSD
 priceChange: -0.00130000
-lastPrice: 1.36480000
+lastPrice: 1.36510000
 prevClosePrice: 1.28560000
 volume: 24744.47000000
 count: 85
 ----------------------------------
 Symbol: DGBBNB
 priceChange: -0.00000800
-lastPrice: 0.00065900
+lastPrice: 0.00068500
 prevClosePrice: 0.00092200
 volume: 821446.00000000
 count: 416
@@ -3760,581 +3760,581 @@ count: 42
 ----------------------------------
 Symbol: BTCUAH
 priceChange: 384.00000000
-lastPrice: 812735.00000000
+lastPrice: 818680.00000000
 prevClosePrice: 301360.00000000
 volume: 2.81102400
 count: 441
 ----------------------------------
 Symbol: USDTUAH
 priceChange: 0.22600000
-lastPrice: 27.80200000
+lastPrice: 27.65800000
 prevClosePrice: 28.78300000
 volume: 49773.00000000
 count: 697
 ----------------------------------
 Symbol: COMPBTC
 priceChange: -0.00024800
-lastPrice: 0.00488500
+lastPrice: 0.00493400
 prevClosePrice: 0.01162300
 volume: 3313.62300000
 count: 3073
 ----------------------------------
 Symbol: COMPBNB
 priceChange: -0.27300000
-lastPrice: 3.70000000
+lastPrice: 3.88400000
 prevClosePrice: 4.49200000
 volume: 100.61300000
 count: 264
 ----------------------------------
 Symbol: COMPBUSD
 priceChange: -3.14000000
-lastPrice: 142.94000000
+lastPrice: 146.27000000
 prevClosePrice: 122.17000000
 volume: 531.75753000
 count: 413
 ----------------------------------
 Symbol: COMPUSDT
 priceChange: -2.49000000
-lastPrice: 142.63000000
+lastPrice: 145.62000000
 prevClosePrice: 122.38000000
 volume: 10507.80074000
 count: 6888
 ----------------------------------
 Symbol: BTCBIDR
 priceChange: -182226.00
-lastPrice: 411362417.00
+lastPrice: 413020651.00
 prevClosePrice: 157357276.00
 volume: 1.05450200
 count: 179
 ----------------------------------
 Symbol: ETHBIDR
 priceChange: -30851.00
-lastPrice: 10342561.00
+lastPrice: 10200000.00
 prevClosePrice: 5157909.00
 volume: 9.32584000
 count: 44
 ----------------------------------
 Symbol: BNBBIDR
 priceChange: 11205.00
-lastPrice: 544231.00
+lastPrice: 524521.00
 prevClosePrice: 409146.00
 volume: 112.87700000
 count: 150
 ----------------------------------
 Symbol: BUSDBIDR
 priceChange: 11.00
-lastPrice: 14020.00
+lastPrice: 13896.00
 prevClosePrice: 14950.00
 volume: 6593.69000000
 count: 14
 ----------------------------------
 Symbol: USDTBIDR
 priceChange: 41.00
-lastPrice: 14079.00
+lastPrice: 13935.00
 prevClosePrice: 14979.00
 volume: 38695.59000000
 count: 231
 ----------------------------------
 Symbol: SCUSDT
 priceChange: -0.00011800
-lastPrice: 0.00329400
+lastPrice: 0.00350400
 prevClosePrice: 0.00280500
 volume: 29711696.00000000
 count: 933
 ----------------------------------
 Symbol: ZENUSDT
 priceChange: 0.02700000
-lastPrice: 13.07300000
+lastPrice: 11.49900000
 prevClosePrice: 5.23400000
 volume: 7608.05600000
 count: 530
 ----------------------------------
 Symbol: SXPBTC
 priceChange: -0.00000690
-lastPrice: 0.00002474
+lastPrice: 0.00002500
 prevClosePrice: 0.00013469
 volume: 2548275.00000000
 count: 16247
 ----------------------------------
 Symbol: SXPBNB
 priceChange: -0.00418000
-lastPrice: 0.01885000
+lastPrice: 0.01969000
 prevClosePrice: 0.05204000
 volume: 451535.10000000
 count: 3409
 ----------------------------------
 Symbol: SXPBUSD
 priceChange: -0.07390000
-lastPrice: 0.72610000
+lastPrice: 0.74170000
 prevClosePrice: 1.42040000
 volume: 462474.08000000
 count: 3363
 ----------------------------------
 Symbol: SNXBTC
 priceChange: -0.00000900
-lastPrice: 0.00026130
+lastPrice: 0.00028130
 prevClosePrice: 0.00041640
 volume: 108238.78000000
 count: 5460
 ----------------------------------
 Symbol: SNXBNB
 priceChange: -0.00840000
-lastPrice: 0.19770000
+lastPrice: 0.22000000
 prevClosePrice: 0.16110000
 volume: 10533.14000000
 count: 591
 ----------------------------------
 Symbol: SNXBUSD
 priceChange: -0.10500000
-lastPrice: 7.64000000
+lastPrice: 8.35300000
 prevClosePrice: 4.40200000
 volume: 9415.25600000
 count: 360
 ----------------------------------
 Symbol: SNXUSDT
 priceChange: -0.10200000
-lastPrice: 7.61700000
+lastPrice: 8.30800000
 prevClosePrice: 4.39200000
 volume: 298004.30200000
 count: 6858
 ----------------------------------
 Symbol: ETHUPUSDT
 priceChange: -0.08600000
-lastPrice: 52.17400000
+lastPrice: 51.42800000
 prevClosePrice: 16.68000000
 volume: 18549.94000000
 count: 1070
 ----------------------------------
 Symbol: ETHDOWNUSDT
 priceChange: 0.01400000
-lastPrice: 0.19100000
+lastPrice: 0.19500000
 prevClosePrice: 2.59000000
 volume: 320328.79000000
 count: 1990
 ----------------------------------
 Symbol: ADAUPUSDT
 priceChange: -0.05800000
-lastPrice: 6.27000000
+lastPrice: 5.89500000
 prevClosePrice: 3.06600000
 volume: 127197.04000000
 count: 1820
 ----------------------------------
 Symbol: ADADOWNUSDT
 priceChange: 0.13700000
-lastPrice: 0.52600000
+lastPrice: 0.55400000
 prevClosePrice: 9.99200000
 volume: 16346.94000000
 count: 840
 ----------------------------------
 Symbol: LINKUPUSDT
 priceChange: -0.02100000
-lastPrice: 5.99400000
+lastPrice: 6.26700000
 prevClosePrice: 6.60800000
 volume: 441710.09000000
 count: 7160
 ----------------------------------
 Symbol: LINKDOWNUSDT
 priceChange: -0.00800000
-lastPrice: 0.05550000
+lastPrice: 0.04630000
 prevClosePrice: 0.60900000
 volume: 9949077.92000000
 count: 9005
 ----------------------------------
 Symbol: VTHOBNB
 priceChange: -0.00000040
-lastPrice: 0.00001884
+lastPrice: 0.00001888
 prevClosePrice: 0.00002562
 volume: 4352889.00000000
 count: 207
 ----------------------------------
 Symbol: VTHOUSDT
 priceChange: 0.00000100
-lastPrice: 0.00070800
+lastPrice: 0.00070600
 prevClosePrice: 0.00069700
 volume: 75410353.00000000
 count: 718
 ----------------------------------
 Symbol: DGBUSDT
 priceChange: 0.00044000
-lastPrice: 0.02546000
+lastPrice: 0.02550000
 prevClosePrice: 0.02513000
 volume: 16536731.80000000
 count: 2683
 ----------------------------------
 Symbol: GBPUSDT
 priceChange: -0.00060000
-lastPrice: 1.36190000
+lastPrice: 1.36150000
 prevClosePrice: 1.28590000
 volume: 281328.39000000
 count: 819
 ----------------------------------
 Symbol: SXPUSDT
 priceChange: -0.07600000
-lastPrice: 0.72400000
+lastPrice: 0.73900000
 prevClosePrice: 1.42200000
 volume: 8613454.55700000
 count: 27895
 ----------------------------------
 Symbol: IRISBTC
 priceChange: -0.00000011
-lastPrice: 0.00000135
+lastPrice: 0.00000127
 prevClosePrice: 0.00000559
 volume: 2293758.00000000
 count: 1998
 ----------------------------------
 Symbol: MKRBNB
 priceChange: -1.17500000
-lastPrice: 15.43100000
+lastPrice: 15.55800000
 prevClosePrice: 20.82800000
 volume: 66.71700000
 count: 403
 ----------------------------------
 Symbol: MKRBTC
 priceChange: -0.00141800
-lastPrice: 0.02034500
+lastPrice: 0.01978300
 prevClosePrice: 0.05411100
 volume: 681.99800000
 count: 2865
 ----------------------------------
 Symbol: MKRUSDT
 priceChange: -14.60000000
-lastPrice: 595.24000000
+lastPrice: 585.40000000
 prevClosePrice: 570.57000000
 volume: 2133.06431000
 count: 4269
 ----------------------------------
 Symbol: MKRBUSD
 priceChange: -15.07000000
-lastPrice: 596.44000000
+lastPrice: 585.31000000
 prevClosePrice: 566.69000000
 volume: 261.48892000
 count: 700
 ----------------------------------
 Symbol: RUNEBNB
 priceChange: -0.00100000
-lastPrice: 0.03616000
+lastPrice: 0.03412000
 prevClosePrice: 0.01687000
 volume: 621198.20000000
 count: 1785
 ----------------------------------
 Symbol: RUNEBTC
 priceChange: -0.00000122
-lastPrice: 0.00004725
+lastPrice: 0.00004354
 prevClosePrice: 0.00004370
 volume: 1072934.00000000
 count: 5442
 ----------------------------------
 Symbol: RUNEBUSD
 priceChange: -0.03000000
-lastPrice: 1.38640000
+lastPrice: 1.28960000
 prevClosePrice: 0.45570000
 volume: 59034.42000000
 count: 161
 ----------------------------------
 Symbol: MANABUSD
 priceChange: -0.00088000
-lastPrice: 0.08064000
+lastPrice: 0.08058000
 prevClosePrice: 0.07520000
 volume: 22109.50000000
 count: 13
 ----------------------------------
 Symbol: DOGEBUSD
 priceChange: 0.00001500
-lastPrice: 0.00479900
+lastPrice: 0.00690300
 prevClosePrice: 0.00259000
 volume: 8011503.00000000
 count: 95
 ----------------------------------
 Symbol: ZRXBUSD
 priceChange: -0.02240000
-lastPrice: 0.35960000
+lastPrice: 0.39420000
 prevClosePrice: 0.38740000
 volume: 56463.09000000
 count: 144
 ----------------------------------
 Symbol: DCRUSDT
 priceChange: 0.15300000
-lastPrice: 41.80000000
+lastPrice: 42.64300000
 prevClosePrice: 11.40900000
 volume: 1852.71300000
 count: 421
 ----------------------------------
 Symbol: STORJUSDT
 priceChange: -0.02140000
-lastPrice: 0.29180000
+lastPrice: 0.29480000
 prevClosePrice: 0.46800000
 volume: 3228958.45000000
 count: 8583
 ----------------------------------
 Symbol: XRPBKRW
 priceChange: -2.53000000
-lastPrice: 257.39000000
+lastPrice: 258.68000000
 prevClosePrice: 274.67000000
 volume: 5404.10000000
 count: 17
 ----------------------------------
 Symbol: ADABKRW
 priceChange: -2.13000000
-lastPrice: 196.89000000
+lastPrice: 193.60000000
 prevClosePrice: 109.54000000
 volume: 54483.10000000
 count: 28
 ----------------------------------
 Symbol: BTCAUD
 priceChange: 17.12000000
-lastPrice: 38308.75000000
+lastPrice: 38692.40000000
 prevClosePrice: 14811.54000000
 volume: 14.94220000
 count: 587
 ----------------------------------
 Symbol: ETHAUD
 priceChange: -2.45000000
-lastPrice: 963.07000000
+lastPrice: 956.60000000
 prevClosePrice: 486.81000000
 volume: 97.71252000
 count: 237
 ----------------------------------
 Symbol: AUDBUSD
 priceChange: 0.00070000
-lastPrice: 0.76570000
+lastPrice: 0.76659000
 prevClosePrice: 0.71135000
 volume: 90574.80000000
 count: 192
 ----------------------------------
 Symbol: FIOBNB
 priceChange: -0.00004000
-lastPrice: 0.00166000
+lastPrice: 0.00168000
 prevClosePrice: 0.00401000
 volume: 124135.50000000
 count: 166
 ----------------------------------
 Symbol: FIOBTC
 priceChange: 0.00000001
-lastPrice: 0.00000218
+lastPrice: 0.00000213
 prevClosePrice: 0.00001045
 volume: 451766.00000000
 count: 625
 ----------------------------------
 Symbol: FIOBUSD
 priceChange: 0.00030000
-lastPrice: 0.06410000
+lastPrice: 0.06310000
 prevClosePrice: 0.11080000
 volume: 56184.92000000
 count: 84
 ----------------------------------
 Symbol: BNBUPUSDT
 priceChange: 1.28500000
-lastPrice: 30.57800000
+lastPrice: 28.73200000
 prevClosePrice: 16.25000000
 volume: 60071.71000000
 count: 3590
 ----------------------------------
 Symbol: BNBDOWNUSDT
 priceChange: -0.17100000
-lastPrice: 0.55900000
+lastPrice: 0.59900000
 prevClosePrice: 2.11100000
 volume: 628181.76000000
 count: 2582
 ----------------------------------
 Symbol: XTZUPUSDT
 priceChange: 0.02600000
-lastPrice: 0.94300000
+lastPrice: 0.92900000
 prevClosePrice: 2.80900000
 volume: 89099.49000000
 count: 529
 ----------------------------------
 Symbol: XTZDOWNUSDT
 priceChange: -0.17500000
-lastPrice: 3.86800000
+lastPrice: 3.93600000
 prevClosePrice: 11.00600000
 volume: 4116.82000000
 count: 281
 ----------------------------------
 Symbol: AVABNB
 priceChange: -0.00092000
-lastPrice: 0.01910000
+lastPrice: 0.02018000
 prevClosePrice: 0.02066000
 volume: 81932.70000000
 count: 716
 ----------------------------------
 Symbol: AVABTC
 priceChange: -0.00000040
-lastPrice: 0.00002510
+lastPrice: 0.00002560
 prevClosePrice: 0.00005380
 volume: 387349.07000000
 count: 3926
 ----------------------------------
 Symbol: AVABUSD
 priceChange: -0.00760000
-lastPrice: 0.73890000
+lastPrice: 0.76020000
 prevClosePrice: 0.56500000
 volume: 79335.91000000
 count: 372
 ----------------------------------
 Symbol: USDTBKRW
 priceChange: -3.29000000
-lastPrice: 1107.00000000
+lastPrice: 1100.00000000
 prevClosePrice: 1173.20000000
 volume: 29879.60000000
 count: 671
 ----------------------------------
 Symbol: BUSDBKRW
 priceChange: -4.32000000
-lastPrice: 1103.46000000
+lastPrice: 1100.05000000
 prevClosePrice: 1174.70000000
 volume: 34732.70000000
 count: 49
 ----------------------------------
 Symbol: IOTABUSD
 priceChange: -0.00630000
-lastPrice: 0.29770000
+lastPrice: 0.29620000
 prevClosePrice: 0.27190000
 volume: 116682.68000000
 count: 233
 ----------------------------------
 Symbol: MANAUSDT
 priceChange: -0.00013000
-lastPrice: 0.08064000
+lastPrice: 0.08017000
 prevClosePrice: 0.07437000
 volume: 2061754.40000000
 count: 1187
 ----------------------------------
 Symbol: XRPAUD
 priceChange: -0.00272000
-lastPrice: 0.30515000
+lastPrice: 0.30704000
 prevClosePrice: 0.32932000
 volume: 21535.10000000
 count: 26
 ----------------------------------
 Symbol: BNBAUD
 priceChange: 0.85900000
-lastPrice: 50.47800000
+lastPrice: 49.14000000
 prevClosePrice: 38.35100000
 volume: 2128.41400000
 count: 153
 ----------------------------------
 Symbol: AUDUSDT
 priceChange: -0.00015000
-lastPrice: 0.76311000
+lastPrice: 0.76368000
 prevClosePrice: 0.71131000
 volume: 92833.10000000
 count: 132
 ----------------------------------
 Symbol: BALBNB
 priceChange: -0.01330000
-lastPrice: 0.36490000
+lastPrice: 0.38200000
 prevClosePrice: 0.58790000
 volume: 841.24000000
 count: 201
 ----------------------------------
 Symbol: BALBTC
 priceChange: -0.00000360
-lastPrice: 0.00047940
+lastPrice: 0.00047530
 prevClosePrice: 0.00151180
 volume: 67075.34000000
 count: 4067
 ----------------------------------
 Symbol: BALBUSD
 priceChange: 0.10000000
-lastPrice: 14.06300000
+lastPrice: 14.01900000
 prevClosePrice: 15.93000000
 volume: 3997.86400000
 count: 367
 ----------------------------------
 Symbol: YFIBNB
 priceChange: -159.84000000
-lastPrice: 574.51000000
+lastPrice: 578.61000000
 prevClosePrice: 776.87000000
 volume: 23.76470000
 count: 2734
 ----------------------------------
 Symbol: YFIBTC
 priceChange: -0.35526000
-lastPrice: 0.75872000
+lastPrice: 0.73519000
 prevClosePrice: 2.00521000
 volume: 1074.44920000
 count: 51885
 ----------------------------------
 Symbol: YFIBUSD
 priceChange: -3766.18000000
-lastPrice: 22255.71000000
+lastPrice: 21774.68000000
 prevClosePrice: 21157.77000000
 volume: 78.10918400
 count: 5744
 ----------------------------------
 Symbol: YFIUSDT
 priceChange: -3733.41000000
-lastPrice: 22205.47000000
+lastPrice: 21769.53000000
 prevClosePrice: 21149.99000000
 volume: 2680.52971500
 count: 102709
 ----------------------------------
 Symbol: BALUSDT
 priceChange: 0.00000000
-lastPrice: 13.98000000
+lastPrice: 14.03300000
 prevClosePrice: 15.89000000
 volume: 139292.60700000
 count: 7629
 ----------------------------------
 Symbol: BLZUSDT
 priceChange: 0.00083000
-lastPrice: 0.06635000
+lastPrice: 0.06440000
 prevClosePrice: 0.09933000
 volume: 5598773.90000000
 count: 4879
 ----------------------------------
 Symbol: IRISUSDT
 priceChange: -0.00126000
-lastPrice: 0.03969000
+lastPrice: 0.03765000
 prevClosePrice: 0.05887000
 volume: 2717686.00000000
 count: 1437
 ----------------------------------
 Symbol: KMDUSDT
 priceChange: -0.01610000
-lastPrice: 0.51510000
+lastPrice: 0.48910000
 prevClosePrice: 0.54560000
 volume: 48673.54000000
 count: 367
 ----------------------------------
 Symbol: BTCDAI
 priceChange: 10.55000000
-lastPrice: 29153.76000000
+lastPrice: 29524.78000000
 prevClosePrice: 10431.54000000
 volume: 15.31294000
 count: 424
 ----------------------------------
 Symbol: ETHDAI
 priceChange: 0.31000000
-lastPrice: 733.39000000
+lastPrice: 730.54000000
 prevClosePrice: 342.06000000
 volume: 191.18562000
 count: 206
 ----------------------------------
 Symbol: BNBDAI
 priceChange: 0.79900000
-lastPrice: 38.60000000
+lastPrice: 37.63700000
 prevClosePrice: 27.00000000
 volume: 870.72300000
 count: 231
 ----------------------------------
 Symbol: USDTDAI
 priceChange: 0.00250000
-lastPrice: 0.99670000
+lastPrice: 0.99800000
 prevClosePrice: 0.98890000
 volume: 906240.15000000
 count: 1225
 ----------------------------------
 Symbol: BUSDDAI
 priceChange: 0.00210000
-lastPrice: 0.99470000
+lastPrice: 0.99540000
 prevClosePrice: 0.98900000
 volume: 222238.45000000
 count: 288
 ----------------------------------
 Symbol: JSTBNB
 priceChange: -0.00006500
-lastPrice: 0.00058900
+lastPrice: 0.00062500
 prevClosePrice: 0.00124500
 volume: 277340.00000000
 count: 650
@@ -4348,1036 +4348,1036 @@ count: 3301
 ----------------------------------
 Symbol: JSTBUSD
 priceChange: -0.00109000
-lastPrice: 0.02270000
+lastPrice: 0.02344000
 prevClosePrice: 0.03384000
 volume: 186472.80000000
 count: 88
 ----------------------------------
 Symbol: JSTUSDT
 priceChange: -0.00095000
-lastPrice: 0.02265000
+lastPrice: 0.02335000
 prevClosePrice: 0.03389000
 volume: 33811788.00000000
 count: 7802
 ----------------------------------
 Symbol: SRMBNB
 priceChange: -0.00550700
-lastPrice: 0.02823900
+lastPrice: 0.03004600
 prevClosePrice: 0.06064900
 volume: 57786.00000000
 count: 1154
 ----------------------------------
 Symbol: SRMBTC
 priceChange: -0.00001014
-lastPrice: 0.00003682
+lastPrice: 0.00003813
 prevClosePrice: 0.00015750
 volume: 472285.00000000
 count: 4440
 ----------------------------------
 Symbol: SRMBUSD
 priceChange: -0.10760000
-lastPrice: 1.08040000
+lastPrice: 1.13000000
 prevClosePrice: 1.65380000
 volume: 38950.72000000
 count: 625
 ----------------------------------
 Symbol: SRMUSDT
 priceChange: -0.10560000
-lastPrice: 1.07800000
+lastPrice: 1.12670000
 prevClosePrice: 1.65460000
 volume: 2009047.73000000
 count: 11027
 ----------------------------------
 Symbol: ANTBNB
 priceChange: -0.00590000
-lastPrice: 0.08220000
+lastPrice: 0.08390000
 prevClosePrice: 0.13040000
 volume: 3946.52000000
 count: 150
 ----------------------------------
 Symbol: ANTBTC
 priceChange: -0.00000570
-lastPrice: 0.00010860
+lastPrice: 0.00010660
 prevClosePrice: 0.00033690
 volume: 47900.48000000
 count: 3372
 ----------------------------------
 Symbol: ANTBUSD
 priceChange: -0.08510000
-lastPrice: 3.17360000
+lastPrice: 3.16930000
 prevClosePrice: 3.55350000
 volume: 1526.90000000
 count: 98
 ----------------------------------
 Symbol: ANTUSDT
 priceChange: -0.05480000
-lastPrice: 3.17680000
+lastPrice: 3.16710000
 prevClosePrice: 3.54400000
 volume: 109277.71000000
 count: 2179
 ----------------------------------
 Symbol: CRVBNB
 priceChange: -0.00230000
-lastPrice: 0.01610000
+lastPrice: 0.01570000
 prevClosePrice: 0.02790000
 volume: 93761.39000000
 count: 931
 ----------------------------------
 Symbol: CRVBTC
 priceChange: -0.00000420
-lastPrice: 0.00002110
+lastPrice: 0.00001990
 prevClosePrice: 0.00007220
 volume: 4651815.30000000
 count: 11624
 ----------------------------------
 Symbol: CRVBUSD
 priceChange: -0.04200000
-lastPrice: 0.62200000
+lastPrice: 0.59200000
 prevClosePrice: 0.76200000
 volume: 240689.46300000
 count: 1043
 ----------------------------------
 Symbol: CRVUSDT
 priceChange: -0.04200000
-lastPrice: 0.61900000
+lastPrice: 0.58900000
 prevClosePrice: 0.76100000
 volume: 7796182.80300000
 count: 19127
 ----------------------------------
 Symbol: SANDBNB
 priceChange: 0.00004830
-lastPrice: 0.00096060
+lastPrice: 0.00099900
 prevClosePrice: 0.00152290
 volume: 2755026.00000000
 count: 1305
 ----------------------------------
 Symbol: SANDBTC
 priceChange: 0.00000024
-lastPrice: 0.00000126
+lastPrice: 0.00000127
 prevClosePrice: 0.00000394
 volume: 25564348.00000000
 count: 9628
 ----------------------------------
 Symbol: SANDUSDT
 priceChange: 0.00255900
-lastPrice: 0.03697000
+lastPrice: 0.03756400
 prevClosePrice: 0.04156200
 volume: 50374066.00000000
 count: 10657
 ----------------------------------
 Symbol: SANDBUSD
 priceChange: 0.00259400
-lastPrice: 0.03711300
+lastPrice: 0.03756100
 prevClosePrice: 0.04149900
 volume: 2442229.00000000
 count: 830
 ----------------------------------
 Symbol: OCEANBNB
 priceChange: -0.00081000
-lastPrice: 0.00924000
+lastPrice: 0.00905000
 prevClosePrice: 0.01329000
 volume: 125299.90000000
 count: 472
 ----------------------------------
 Symbol: OCEANBTC
 priceChange: -0.00000131
-lastPrice: 0.00001213
+lastPrice: 0.00001150
 prevClosePrice: 0.00003437
 volume: 2752645.00000000
 count: 9246
 ----------------------------------
 Symbol: OCEANBUSD
 priceChange: -0.01480000
-lastPrice: 0.35540000
+lastPrice: 0.34180000
 prevClosePrice: 0.36420000
 volume: 84182.02000000
 count: 174
 ----------------------------------
 Symbol: OCEANUSDT
 priceChange: -0.01420000
-lastPrice: 0.35530000
+lastPrice: 0.34020000
 prevClosePrice: 0.36200000
 volume: 2570443.97000000
 count: 4311
 ----------------------------------
 Symbol: NMRBNB
 priceChange: -0.04220000
-lastPrice: 0.59000000
+lastPrice: 0.60480000
 prevClosePrice: 1.03640000
 volume: 430.80000000
 count: 221
 ----------------------------------
 Symbol: NMRBTC
 priceChange: -0.00002600
-lastPrice: 0.00078000
+lastPrice: 0.00077900
 prevClosePrice: 0.00270900
 volume: 2172.16700000
 count: 913
 ----------------------------------
 Symbol: NMRBUSD
 priceChange: -0.27800000
-lastPrice: 22.83900000
+lastPrice: 22.90000000
 prevClosePrice: 28.54100000
 volume: 466.02100000
 count: 132
 ----------------------------------
 Symbol: NMRUSDT
 priceChange: -0.29700000
-lastPrice: 22.77900000
+lastPrice: 22.86500000
 prevClosePrice: 28.58400000
 volume: 3562.70900000
 count: 1004
 ----------------------------------
 Symbol: DOTBNB
 priceChange: -0.00608000
-lastPrice: 0.22978000
+lastPrice: 0.22157000
 prevClosePrice: 0.14977000
 volume: 136976.90000000
 count: 1972
 ----------------------------------
 Symbol: DOTBTC
 priceChange: -0.00000524
-lastPrice: 0.00030217
+lastPrice: 0.00028092
 prevClosePrice: 0.00038805
 volume: 613579.80000000
 count: 8314
 ----------------------------------
 Symbol: DOTBUSD
 priceChange: -0.05360000
-lastPrice: 8.85420000
+lastPrice: 8.34210000
 prevClosePrice: 4.09200000
 volume: 267834.83000000
 count: 3890
 ----------------------------------
 Symbol: DOTUSDT
 priceChange: -0.05040000
-lastPrice: 8.83040000
+lastPrice: 8.31410000
 prevClosePrice: 4.08380000
 volume: 2531847.05000000
 count: 23662
 ----------------------------------
 Symbol: LUNABNB
 priceChange: -0.00060000
-lastPrice: 0.01689000
+lastPrice: 0.01685000
 prevClosePrice: 0.01164000
 volume: 71269.80000000
 count: 696
 ----------------------------------
 Symbol: LUNABTC
 priceChange: -0.00000079
-lastPrice: 0.00002225
+lastPrice: 0.00002140
 prevClosePrice: 0.00003018
 volume: 721549.00000000
 count: 4206
 ----------------------------------
 Symbol: LUNABUSD
 priceChange: -0.00910000
-lastPrice: 0.65300000
+lastPrice: 0.63450000
 prevClosePrice: 0.31750000
 volume: 70212.06000000
 count: 429
 ----------------------------------
 Symbol: LUNAUSDT
 priceChange: -0.00790000
-lastPrice: 0.65060000
+lastPrice: 0.63300000
 prevClosePrice: 0.31820000
 volume: 1338841.41000000
 count: 4529
 ----------------------------------
 Symbol: IDEXBTC
 priceChange: 0.00000003
-lastPrice: 0.00000114
+lastPrice: 0.00000109
 prevClosePrice: 0.00000575
 volume: 387482.00000000
 count: 342
 ----------------------------------
 Symbol: IDEXBUSD
 priceChange: 0.00083000
-lastPrice: 0.03404000
+lastPrice: 0.03241000
 prevClosePrice: 0.06017000
 volume: 17673.40000000
 count: 11
 ----------------------------------
 Symbol: RSRBNB
 priceChange: 0.00001000
-lastPrice: 0.00057400
+lastPrice: 0.00070600
 prevClosePrice: 0.00031800
 volume: 17897279.00000000
 count: 1445
 ----------------------------------
 Symbol: RSRBTC
 priceChange: 0.00000005
-lastPrice: 0.00000076
+lastPrice: 0.00000090
 prevClosePrice: 0.00000082
 volume: 96197472.00000000
 count: 5109
 ----------------------------------
 Symbol: RSRBUSD
 priceChange: 0.00056000
-lastPrice: 0.02219000
+lastPrice: 0.02670000
 prevClosePrice: 0.00868000
 volume: 12095752.90000000
 count: 1040
 ----------------------------------
 Symbol: RSRUSDT
 priceChange: 0.00062000
-lastPrice: 0.02215000
+lastPrice: 0.02648000
 prevClosePrice: 0.00866000
 volume: 152536915.00000000
 count: 8550
 ----------------------------------
 Symbol: PAXGBNB
 priceChange: -2.14200000
-lastPrice: 50.10500000
+lastPrice: 51.70300000
 prevClosePrice: 70.03300000
 volume: 4.19300000
 count: 147
 ----------------------------------
 Symbol: PAXGBTC
 priceChange: 0.00038000
-lastPrice: 0.06598000
+lastPrice: 0.06570000
 prevClosePrice: 0.18172000
 volume: 10.57410000
 count: 598
 ----------------------------------
 Symbol: PAXGUSDT
 priceChange: 9.83000000
-lastPrice: 1930.39000000
+lastPrice: 1942.56000000
 prevClosePrice: 1906.52000000
 volume: 47.27102900
 count: 634
 ----------------------------------
 Symbol: WNXMBNB
 priceChange: -0.06700000
-lastPrice: 0.58100000
+lastPrice: 0.61200000
 prevClosePrice: 1.22700000
 volume: 417.56000000
 count: 180
 ----------------------------------
 Symbol: WNXMBTC
 priceChange: -0.00007900
-lastPrice: 0.00076700
+lastPrice: 0.00077800
 prevClosePrice: 0.00313500
 volume: 6170.63800000
 count: 2492
 ----------------------------------
 Symbol: WNXMUSDT
 priceChange: -0.84800000
-lastPrice: 22.40900000
+lastPrice: 23.01200000
 prevClosePrice: 33.00100000
 volume: 12304.64400000
 count: 1703
 ----------------------------------
 Symbol: TRBBNB
 priceChange: -0.08100000
-lastPrice: 0.46500000
+lastPrice: 0.46400000
 prevClosePrice: 0.73400000
 volume: 1442.67500000
 count: 311
 ----------------------------------
 Symbol: TRBBTC
 priceChange: -0.00018200
-lastPrice: 0.00061200
+lastPrice: 0.00058900
 prevClosePrice: 0.00189300
 volume: 32373.15400000
 count: 4518
 ----------------------------------
 Symbol: TRBBUSD
 priceChange: -1.51000000
-lastPrice: 18.05900000
+lastPrice: 17.40000000
 prevClosePrice: 19.94900000
 volume: 432.49200000
 count: 48
 ----------------------------------
 Symbol: TRBUSDT
 priceChange: -1.96200000
-lastPrice: 17.89800000
+lastPrice: 17.43400000
 prevClosePrice: 19.99400000
 volume: 75762.26700000
 count: 6113
 ----------------------------------
 Symbol: ETHNGN
 priceChange: 1552.00000000
-lastPrice: 346826.00000000
+lastPrice: 345493.00000000
 prevClosePrice: 159304.00000000
 volume: 189.23205000
 count: 624
 ----------------------------------
 Symbol: DOTBIDR
 priceChange: -155.00
-lastPrice: 124184.00
+lastPrice: 116933.00
 prevClosePrice: 61049.00
 volume: 71.93900000
 count: 11
 ----------------------------------
 Symbol: LINKAUD
 priceChange: -0.16100000
-lastPrice: 14.81200000
+lastPrice: 15.29000000
 prevClosePrice: 12.88700000
 volume: 316.05900000
 count: 19
 ----------------------------------
 Symbol: SXPAUD
 priceChange: -0.10300000
-lastPrice: 0.94400000
+lastPrice: 0.96000000
 prevClosePrice: 1.99500000
 volume: 3362.16500000
 count: 65
 ----------------------------------
 Symbol: BZRXBNB
 priceChange: -0.00025000
-lastPrice: 0.00418000
+lastPrice: 0.00422000
 prevClosePrice: 0.00606000
 volume: 85231.00000000
 count: 179
 ----------------------------------
 Symbol: BZRXBTC
 priceChange: -0.00000025
-lastPrice: 0.00000550
+lastPrice: 0.00000541
 prevClosePrice: 0.00001557
 volume: 2847363.00000000
 count: 3303
 ----------------------------------
 Symbol: BZRXBUSD
 priceChange: -0.00210000
-lastPrice: 0.16240000
+lastPrice: 0.15930000
 prevClosePrice: 0.16430000
 volume: 103707.53000000
 count: 274
 ----------------------------------
 Symbol: BZRXUSDT
 priceChange: -0.00270000
-lastPrice: 0.16100000
+lastPrice: 0.15990000
 prevClosePrice: 0.16380000
 volume: 8315794.27000000
 count: 6485
 ----------------------------------
 Symbol: WBTCBTC
 priceChange: 0.00113000
-lastPrice: 0.99978000
+lastPrice: 1.00000000
 prevClosePrice: 1.00115000
 volume: 150.43910000
 count: 1066
 ----------------------------------
 Symbol: WBTCETH
 priceChange: 0.14380000
-lastPrice: 39.72820000
+lastPrice: 40.41290000
 prevClosePrice: 30.45200000
 volume: 9.19680000
 count: 400
 ----------------------------------
 Symbol: SUSHIBNB
 priceChange: -0.00710000
-lastPrice: 0.07560000
+lastPrice: 0.08630000
 prevClosePrice: 0.04080000
 volume: 92931.69000000
 count: 816
 ----------------------------------
 Symbol: SUSHIBTC
 priceChange: -0.00001560
-lastPrice: 0.00009960
+lastPrice: 0.00010950
 prevClosePrice: 0.00010570
 volume: 2866706.81000000
 count: 12812
 ----------------------------------
 Symbol: SUSHIBUSD
 priceChange: -0.16300000
-lastPrice: 2.92000000
+lastPrice: 3.25400000
 prevClosePrice: 1.11600000
 volume: 347883.95100000
 count: 1082
 ----------------------------------
 Symbol: SUSHIUSDT
 priceChange: -0.16200000
-lastPrice: 2.90900000
+lastPrice: 3.23900000
 prevClosePrice: 1.11400000
 volume: 6786612.76600000
 count: 25086
 ----------------------------------
 Symbol: YFIIBNB
 priceChange: -20.71000000
-lastPrice: 41.79000000
+lastPrice: 40.83000000
 prevClosePrice: 95.79000000
 volume: 136.08270000
 count: 1592
 ----------------------------------
 Symbol: YFIIBTC
 priceChange: -0.04832000
-lastPrice: 0.05491000
+lastPrice: 0.05227000
 prevClosePrice: 0.24811000
 volume: 2377.06540000
 count: 26119
 ----------------------------------
 Symbol: YFIIBUSD
 priceChange: -541.17000000
-lastPrice: 1613.34000000
+lastPrice: 1552.30000000
 prevClosePrice: 2627.16000000
 volume: 80.12378300
 count: 1028
 ----------------------------------
 Symbol: YFIIUSDT
 priceChange: -505.75000000
-lastPrice: 1606.68000000
+lastPrice: 1546.59000000
 prevClosePrice: 2614.92000000
 volume: 7058.72698600
 count: 49296
 ----------------------------------
 Symbol: KSMBNB
 priceChange: -0.06060000
-lastPrice: 1.85050000
+lastPrice: 1.81110000
 prevClosePrice: 1.17610000
 volume: 983.22000000
 count: 361
 ----------------------------------
 Symbol: KSMBTC
 priceChange: -0.00005000
-lastPrice: 0.00244000
+lastPrice: 0.00229000
 prevClosePrice: 0.00306600
 volume: 6863.72000000
 count: 1704
 ----------------------------------
 Symbol: KSMBUSD
 priceChange: -0.81400000
-lastPrice: 71.21500000
+lastPrice: 68.06800000
 prevClosePrice: 32.00000000
 volume: 144.73800000
 count: 24
 ----------------------------------
 Symbol: KSMUSDT
 priceChange: -0.48500000
-lastPrice: 71.24900000
+lastPrice: 67.69300000
 prevClosePrice: 32.33300000
 volume: 12572.23800000
 count: 2307
 ----------------------------------
 Symbol: EGLDBNB
 priceChange: -0.02630000
-lastPrice: 0.66980000
+lastPrice: 0.68910000
 prevClosePrice: 0.34430000
 volume: 5176.88000000
 count: 648
 ----------------------------------
 Symbol: EGLDBTC
 priceChange: -0.00004400
-lastPrice: 0.00088300
+lastPrice: 0.00087400
 prevClosePrice: 0.00089200
 volume: 45720.38900000
 count: 2894
 ----------------------------------
 Symbol: EGLDBUSD
 priceChange: -0.45200000
-lastPrice: 25.91000000
+lastPrice: 25.96200000
 prevClosePrice: 9.37800000
 volume: 3923.15500000
 count: 314
 ----------------------------------
 Symbol: EGLDUSDT
 priceChange: -0.47400000
-lastPrice: 25.80600000
+lastPrice: 25.85900000
 prevClosePrice: 9.39000000
 volume: 129150.38700000
 count: 7787
 ----------------------------------
 Symbol: DIABNB
 priceChange: -0.00330000
-lastPrice: 0.03140000
+lastPrice: 0.03170000
 prevClosePrice: 0.04720000
 volume: 32036.89000000
 count: 390
 ----------------------------------
 Symbol: DIABTC
 priceChange: -0.00000580
-lastPrice: 0.00004130
+lastPrice: 0.00004060
 prevClosePrice: 0.00012230
 volume: 875867.93000000
 count: 10373
 ----------------------------------
 Symbol: DIABUSD
 priceChange: -0.06600000
-lastPrice: 1.21600000
+lastPrice: 1.20400000
 prevClosePrice: 1.27500000
 volume: 159311.78100000
 count: 1253
 ----------------------------------
 Symbol: DIAUSDT
 priceChange: -0.05600000
-lastPrice: 1.20700000
+lastPrice: 1.20200000
 prevClosePrice: 1.28500000
 volume: 1452756.24900000
 count: 7758
 ----------------------------------
 Symbol: RUNEUSDT
 priceChange: -0.01360000
-lastPrice: 1.38310000
+lastPrice: 1.28800000
 prevClosePrice: 0.45960000
 volume: 3972964.13000000
 count: 11667
 ----------------------------------
 Symbol: FIOUSDT
 priceChange: 0.00100000
-lastPrice: 0.06380000
+lastPrice: 0.06330000
 prevClosePrice: 0.11070000
 volume: 415600.92000000
 count: 290
 ----------------------------------
 Symbol: UMABTC
 priceChange: 0.00001500
-lastPrice: 0.00028000
+lastPrice: 0.00026900
 prevClosePrice: 0.00073300
 volume: 25983.99700000
 count: 1892
 ----------------------------------
 Symbol: UMAUSDT
 priceChange: 0.14700000
-lastPrice: 8.20400000
+lastPrice: 7.92100000
 prevClosePrice: 7.73200000
 volume: 43892.77900000
 count: 1504
 ----------------------------------
 Symbol: EOSUPUSDT
 priceChange: -0.08900000
-lastPrice: 2.98300000
+lastPrice: 2.96700000
 prevClosePrice: 6.73200000
 volume: 2115.48000000
 count: 53
 ----------------------------------
 Symbol: EOSDOWNUSDT
 priceChange: 0.18200000
-lastPrice: 4.60000000
+lastPrice: 4.61700000
 prevClosePrice: 13.21800000
 volume: 720.92000000
 count: 59
 ----------------------------------
 Symbol: TRXUPUSDT
 priceChange: 0.12900000
-lastPrice: 2.51800000
+lastPrice: 2.54400000
 prevClosePrice: 4.73000000
 volume: 91431.89000000
 count: 1168
 ----------------------------------
 Symbol: TRXDOWNUSDT
 priceChange: -0.71400000
-lastPrice: 4.92800000
+lastPrice: 4.94600000
 prevClosePrice: 14.56400000
 volume: 65694.29000000
 count: 1531
 ----------------------------------
 Symbol: XRPUPUSDT
 priceChange: -0.07300000
-lastPrice: 2.12300000
+lastPrice: 2.15300000
 prevClosePrice: 8.28000000
 volume: 13789.72000000
 count: 139
 ----------------------------------
 Symbol: XRPDOWNUSDT
 priceChange: 0.16200000
-lastPrice: 0.59000000
+lastPrice: 0.57500000
 prevClosePrice: 10.92800000
 volume: 1489.19000000
 count: 66
 ----------------------------------
 Symbol: DOTUPUSDT
 priceChange: -0.21300000
-lastPrice: 24.46000000
+lastPrice: 22.30800000
 prevClosePrice: 7.40000000
 volume: 32442.90000000
 count: 298
 ----------------------------------
 Symbol: DOTDOWNUSDT
 priceChange: 0.32400000
-lastPrice: 0.35400000
+lastPrice: 0.39400000
 prevClosePrice: 8.59200000
 volume: 39918.92000000
 count: 876
 ----------------------------------
 Symbol: SRMBIDR
 priceChange: -1329.00
-lastPrice: 15144.00
+lastPrice: 15879.00
 prevClosePrice: 24338.00
 volume: 516.33100000
 count: 18
 ----------------------------------
 Symbol: ONEBIDR
 priceChange: -0.07
-lastPrice: 59.01
+lastPrice: 57.45
 prevClosePrice: 83.04
 volume: 334845.00000000
 count: 65
 ----------------------------------
 Symbol: LINKTRY
 priceChange: -1.05200000
-lastPrice: 84.76200000
+lastPrice: 87.23900000
 prevClosePrice: 71.55300000
 volume: 2060.65000000
 count: 154
 ----------------------------------
 Symbol: USDTNGN
 priceChange: 8.04000000
-lastPrice: 470.15000000
+lastPrice: 471.78000000
 prevClosePrice: 462.17000000
 volume: 649629.00000000
 count: 1686
 ----------------------------------
 Symbol: BELBNB
 priceChange: -0.00406000
-lastPrice: 0.02291000
+lastPrice: 0.02369000
 prevClosePrice: 0.05099000
 volume: 274041.20000000
 count: 6049
 ----------------------------------
 Symbol: BELBTC
 priceChange: -0.00000750
-lastPrice: 0.00003007
+lastPrice: 0.00003020
 prevClosePrice: 0.00013208
 volume: 3012728.00000000
 count: 35394
 ----------------------------------
 Symbol: BELBUSD
 priceChange: -0.08920000
-lastPrice: 0.88490000
+lastPrice: 0.89190000
 prevClosePrice: 1.38470000
 volume: 174451.96000000
 count: 1745
 ----------------------------------
 Symbol: BELUSDT
 priceChange: -0.07090000
-lastPrice: 0.88040000
+lastPrice: 0.89050000
 prevClosePrice: 1.39990000
 volume: 7029024.18000000
 count: 43778
 ----------------------------------
 Symbol: WINGBNB
 priceChange: -0.07690000
-lastPrice: 0.33970000
+lastPrice: 0.36980000
 prevClosePrice: 0.86900000
 volume: 24308.98000000
 count: 7456
 ----------------------------------
 Symbol: WINGBTC
 priceChange: -0.00017600
-lastPrice: 0.00044900
+lastPrice: 0.00046500
 prevClosePrice: 0.00226800
 volume: 269074.50000000
 count: 57371
 ----------------------------------
 Symbol: SWRVBNB
 priceChange: -0.00180000
-lastPrice: 0.01050000
+lastPrice: 0.01170000
 prevClosePrice: 0.04080000
 volume: 21710.03000000
 count: 580
 ----------------------------------
 Symbol: SWRVBUSD
 priceChange: 0.00000000
-lastPrice: 0.40800000
+lastPrice: 0.44000000
 prevClosePrice: 1.10700000
 volume: 36979.39100000
 count: 365
 ----------------------------------
 Symbol: WINGBUSD
 priceChange: -1.65000000
-lastPrice: 13.11000000
+lastPrice: 13.64700000
 prevClosePrice: 23.71100000
 volume: 12202.13300000
 count: 2045
 ----------------------------------
 Symbol: WINGUSDT
 priceChange: -1.86800000
-lastPrice: 13.15000000
+lastPrice: 13.77400000
 prevClosePrice: 23.81700000
 volume: 533754.75400000
 count: 65215
 ----------------------------------
 Symbol: LTCUPUSDT
 priceChange: 0.31500000
-lastPrice: 42.33500000
+lastPrice: 40.40000000
 prevClosePrice: 8.22000000
 volume: 2760.19000000
 count: 137
 ----------------------------------
 Symbol: LTCDOWNUSDT
 priceChange: -0.22800000
-lastPrice: 0.18800000
+lastPrice: 0.19700000
 prevClosePrice: 11.48600000
 volume: 686.73000000
 count: 117
 ----------------------------------
 Symbol: SXPEUR
 priceChange: -0.07500000
-lastPrice: 0.59100000
+lastPrice: 0.60400000
 prevClosePrice: 1.22400000
 volume: 38729.32800000
 count: 543
 ----------------------------------
 Symbol: CREAMBNB
 priceChange: -0.10570000
-lastPrice: 1.64250000
+lastPrice: 1.83160000
 prevClosePrice: 1.54350000
 volume: 1708.98000000
 count: 1123
 ----------------------------------
 Symbol: CREAMBUSD
 priceChange: -1.75000000
-lastPrice: 63.70000000
+lastPrice: 69.11600000
 prevClosePrice: 42.15100000
 volume: 8434.24900000
 count: 1572
 ----------------------------------
 Symbol: UNIBNB
 priceChange: -0.00345000
-lastPrice: 0.13130000
+lastPrice: 0.12933000
 prevClosePrice: 0.14082000
 volume: 91006.70000000
 count: 1967
 ----------------------------------
 Symbol: UNIBTC
 priceChange: -0.00000080
-lastPrice: 0.00017225
+lastPrice: 0.00016383
 prevClosePrice: 0.00036539
 volume: 2329671.00000000
 count: 17031
 ----------------------------------
 Symbol: UNIBUSD
 priceChange: -0.01280000
-lastPrice: 5.05000000
+lastPrice: 4.85930000
 prevClosePrice: 3.84690000
 volume: 177694.56000000
 count: 3866
 ----------------------------------
 Symbol: UNIUSDT
 priceChange: 0.00040000
-lastPrice: 5.04210000
+lastPrice: 4.84300000
 prevClosePrice: 3.84650000
 volume: 6817174.78000000
 count: 51428
 ----------------------------------
 Symbol: NBSBTC
 priceChange: -0.00000009
-lastPrice: 0.00000052
+lastPrice: 0.00000049
 prevClosePrice: 0.00000081
 volume: 66524084.00000000
 count: 3635
 ----------------------------------
 Symbol: NBSUSDT
 priceChange: -0.00096000
-lastPrice: 0.01505000
+lastPrice: 0.01454000
 prevClosePrice: 0.00853000
 volume: 58650065.00000000
 count: 4794
 ----------------------------------
 Symbol: OXTBTC
 priceChange: -0.00000011
-lastPrice: 0.00000787
+lastPrice: 0.00000782
 prevClosePrice: 0.00002560
 volume: 482849.00000000
 count: 976
 ----------------------------------
 Symbol: OXTUSDT
 priceChange: -0.00020000
-lastPrice: 0.23050000
+lastPrice: 0.23030000
 prevClosePrice: 0.26880000
 volume: 1083809.78000000
 count: 1415
 ----------------------------------
 Symbol: SUNBTC
 priceChange: -0.00000400
-lastPrice: 0.00021200
+lastPrice: 0.00020800
 prevClosePrice: 0.00151800
 volume: 18000.84600000
 count: 2691
 ----------------------------------
 Symbol: SUNUSDT
 priceChange: 0.00400000
-lastPrice: 6.24300000
+lastPrice: 6.15700000
 prevClosePrice: 15.99600000
 volume: 49891.00800000
 count: 5015
 ----------------------------------
 Symbol: AVAXBNB
 priceChange: -0.00529000
-lastPrice: 0.08270000
+lastPrice: 0.10011000
 prevClosePrice: 0.14376000
 volume: 9169.60000000
 count: 350
 ----------------------------------
 Symbol: AVAXBTC
 priceChange: 0.00000061
-lastPrice: 0.00010930
+lastPrice: 0.00012707
 prevClosePrice: 0.00037123
 volume: 179719.20000000
 count: 4020
 ----------------------------------
 Symbol: AVAXBUSD
 priceChange: 0.00800000
-lastPrice: 3.20700000
+lastPrice: 3.76400000
 prevClosePrice: 3.90070000
 volume: 131325.32000000
 count: 2760
 ----------------------------------
 Symbol: AVAXUSDT
 priceChange: 0.01240000
-lastPrice: 3.18300000
+lastPrice: 3.75200000
 prevClosePrice: 3.91040000
 volume: 746289.56000000
 count: 8163
 ----------------------------------
 Symbol: HNTBTC
 priceChange: -0.00001260
-lastPrice: 0.00004770
+lastPrice: 0.00004720
 prevClosePrice: 0.00014710
 volume: 83837.04000000
 count: 1820
 ----------------------------------
 Symbol: HNTUSDT
 priceChange: -0.13100000
-lastPrice: 1.39300000
+lastPrice: 1.38900000
 prevClosePrice: 1.54800000
 volume: 243410.72300000
 count: 3220
 ----------------------------------
 Symbol: BAKEBNB
 priceChange: -0.00002100
-lastPrice: 0.00038300
+lastPrice: 0.00041400
 prevClosePrice: 0.00127800
 volume: 58784598.00000000
 count: 21418
 ----------------------------------
 Symbol: BURGERBNB
 priceChange: 0.00361000
-lastPrice: 0.01660000
+lastPrice: 0.01619000
 prevClosePrice: 0.01563000
 volume: 530899.50000000
 count: 1968
 ----------------------------------
 Symbol: SXPBIDR
 priceChange: -1037.00
-lastPrice: 9968.00
+lastPrice: 10290.00
 prevClosePrice: 21251.00
 volume: 10112.50000000
 count: 416
 ----------------------------------
 Symbol: LINKBKRW
 priceChange: 45.14000000
-lastPrice: 12360.72000000
+lastPrice: 12987.35000000
 prevClosePrice: 10796.30000000
 volume: 446.00000000
 count: 23
 ----------------------------------
 Symbol: FLMBNB
 priceChange: -0.00195000
-lastPrice: 0.00325000
+lastPrice: 0.00351000
 prevClosePrice: 0.01594000
 volume: 361106.40000000
 count: 2760
 ----------------------------------
 Symbol: FLMBTC
 priceChange: -0.00000353
-lastPrice: 0.00000428
+lastPrice: 0.00000445
 prevClosePrice: 0.00004127
 volume: 4738378.00000000
 count: 19081
 ----------------------------------
 Symbol: FLMBUSD
 priceChange: -0.04510000
-lastPrice: 0.12630000
+lastPrice: 0.13150000
 prevClosePrice: 0.42980000
 volume: 475714.80000000
 count: 1349
 ----------------------------------
 Symbol: FLMUSDT
 priceChange: -0.03550000
-lastPrice: 0.12560000
+lastPrice: 0.13130000
 prevClosePrice: 0.43500000
 volume: 19652450.97000000
 count: 36230
 ----------------------------------
 Symbol: SCRTBTC
 priceChange: 0.00000522
-lastPrice: 0.00002153
+lastPrice: 0.00002042
 prevClosePrice: 0.00004120
 volume: 3442588.00000000
 count: 15102
 ----------------------------------
 Symbol: SCRTETH
 priceChange: 0.00014900
-lastPrice: 0.00086300
+lastPrice: 0.00082400
 prevClosePrice: 0.00125900
 volume: 247973.12000000
 count: 2327
 ----------------------------------
 Symbol: CAKEBNB
 priceChange: 0.00596000
-lastPrice: 0.01661000
+lastPrice: 0.01703000
 prevClosePrice: 0.01825000
 volume: 1217632.40000000
 count: 7963
 ----------------------------------
 Symbol: CAKEBUSD
 priceChange: 0.18260000
-lastPrice: 0.64580000
+lastPrice: 0.64140000
 prevClosePrice: 0.50000000
 volume: 711522.35000000
 count: 5139
 ----------------------------------
 Symbol: SPARTABNB
 priceChange: -0.00009500
-lastPrice: 0.00349900
+lastPrice: 0.00403100
 prevClosePrice: 0.00331300
 volume: 1744145.00000000
 count: 1738
 ----------------------------------
 Symbol: UNIUPUSDT
 priceChange: -0.06000000
-lastPrice: 6.00000000
+lastPrice: 5.63400000
 prevClosePrice: 8.81400000
 volume: 37524.59000000
 count: 680
 ----------------------------------
 Symbol: UNIDOWNUSDT
 priceChange: 0.11100000
-lastPrice: 0.83000000
+lastPrice: 0.89000000
 prevClosePrice: 10.78100000
 volume: 12469.83000000
 count: 388
 ----------------------------------
 Symbol: ORNBTC
 priceChange: -0.00001320
-lastPrice: 0.00007370
+lastPrice: 0.00007200
 prevClosePrice: 0.00024160
 volume: 104666.12000000
 count: 6768
 ----------------------------------
 Symbol: ORNUSDT
 priceChange: -0.13970000
-lastPrice: 2.15690000
+lastPrice: 2.13210000
 prevClosePrice: 2.54830000
 volume: 425866.01000000
 count: 6454
 ----------------------------------
 Symbol: TRXNGN
 priceChange: 0.60000000
-lastPrice: 12.63000000
+lastPrice: 12.75000000
 prevClosePrice: 12.27000000
 volume: 1110913.90000000
 count: 432
 ----------------------------------
 Symbol: SXPTRY
 priceChange: -0.86700000
-lastPrice: 5.38000000
+lastPrice: 5.55000000
 prevClosePrice: 11.00400000
 volume: 6204.44000000
 count: 78
 ----------------------------------
 Symbol: UTKBTC
 priceChange: -0.00000397
-lastPrice: 0.00000426
+lastPrice: 0.00000409
 prevClosePrice: 0.00001694
 volume: 8082012.00000000
 count: 12978
 ----------------------------------
 Symbol: UTKUSDT
 priceChange: -0.04090000
-lastPrice: 0.12500000
+lastPrice: 0.12130000
 prevClosePrice: 0.17750000
 volume: 10651211.81000000
 count: 9093
