@@ -1,0 +1,6483 @@
+General overview: 
+Largest count: null, Count: null
+Largest volume: null, Volume: null
+Largest priceChange: null, priceChange: null
+----------------------------------
+
+Individual trade pair overview: 
+----------------------------------
+Symbol: null
+priceChange: -0.00200400
+lastPrice: 0.03028400
+prevClosePrice: 0.03228600
+volume: 549780.22800000
+count: 497312
+----------------------------------
+Symbol: null
+priceChange: -0.00024300
+lastPrice: 0.00416600
+prevClosePrice: 0.00440700
+volume: 761472.62000000
+count: 157707
+----------------------------------
+Symbol: null
+priceChange: -0.00012410
+lastPrice: 0.00103270
+prevClosePrice: 0.00115700
+volume: 1043255.45000000
+count: 154478
+----------------------------------
+Symbol: null
+priceChange: -0.00003000
+lastPrice: 0.00050700
+prevClosePrice: 0.00053600
+volume: 905869.35000000
+count: 37292
+----------------------------------
+Symbol: null
+priceChange: -0.00018000
+lastPrice: 0.00231600
+prevClosePrice: 0.00249600
+volume: 51242.58000000
+count: 713
+----------------------------------
+Symbol: null
+priceChange: -0.00020400
+lastPrice: 0.00251600
+prevClosePrice: 0.00271500
+volume: 1890953.18000000
+count: 12870
+----------------------------------
+Symbol: null
+priceChange: -0.00000651
+lastPrice: 0.00004927
+prevClosePrice: 0.00005597
+volume: 17701157.00000000
+count: 8170
+----------------------------------
+Symbol: null
+priceChange: -0.00006600
+lastPrice: 0.00127300
+prevClosePrice: 0.00133200
+volume: 65435.29000000
+count: 769
+----------------------------------
+Symbol: null
+priceChange: -0.00000470
+lastPrice: 0.00003950
+prevClosePrice: 0.00004430
+volume: 366360.76000000
+count: 5122
+----------------------------------
+Symbol: null
+priceChange: -0.00165100
+lastPrice: 0.03414800
+prevClosePrice: 0.03588800
+volume: 243108.91000000
+count: 29560
+----------------------------------
+Symbol: null
+priceChange: 3386.34000000
+lastPrice: 41315.66000000
+prevClosePrice: 37930.29000000
+volume: 148967.61442400
+count: 3115476
+----------------------------------
+Symbol: null
+priceChange: 26.36000000
+lastPrice: 1251.05000000
+prevClosePrice: 1224.61000000
+volume: 2353189.23943000
+count: 1747175
+----------------------------------
+Symbol: null
+priceChange: -0.00000170
+lastPrice: 0.00000790
+prevClosePrice: 0.00000960
+volume: 2116583.68000000
+count: 4152
+----------------------------------
+Symbol: null
+priceChange: -0.00003400
+lastPrice: 0.00026200
+prevClosePrice: 0.00029500
+volume: 289242.11000000
+count: 1791
+----------------------------------
+Symbol: null
+priceChange: -0.00000230
+lastPrice: 0.00000918
+prevClosePrice: 0.00001148
+volume: 26357642.00000000
+count: 32529
+----------------------------------
+Symbol: null
+priceChange: -0.00004628
+lastPrice: 0.00030662
+prevClosePrice: 0.00035700
+volume: 3949519.00000000
+count: 4261
+----------------------------------
+Symbol: null
+priceChange: -0.00001110
+lastPrice: 0.00006950
+prevClosePrice: 0.00008050
+volume: 1154890.66000000
+count: 9972
+----------------------------------
+Symbol: null
+priceChange: -0.00000005
+lastPrice: 0.00000022
+prevClosePrice: 0.00000027
+volume: 18719601.00000000
+count: 728
+----------------------------------
+Symbol: null
+priceChange: -0.00001330
+lastPrice: 0.00008500
+prevClosePrice: 0.00009810
+volume: 2057196.97000000
+count: 20348
+----------------------------------
+Symbol: null
+priceChange: -0.00023600
+lastPrice: 0.00281000
+prevClosePrice: 0.00304600
+volume: 205749.48000000
+count: 2209
+----------------------------------
+Symbol: null
+priceChange: -0.00000172
+lastPrice: 0.00001084
+prevClosePrice: 0.00001259
+volume: 5355819.00000000
+count: 10608
+----------------------------------
+Symbol: null
+priceChange: -0.00002804
+lastPrice: 0.00035994
+prevClosePrice: 0.00039121
+volume: 398743.00000000
+count: 1159
+----------------------------------
+Symbol: null
+priceChange: -0.00000001
+lastPrice: 0.00000013
+prevClosePrice: 0.00000014
+volume: 35081961.00000000
+count: 638
+----------------------------------
+Symbol: null
+priceChange: 0.00000494
+lastPrice: 0.00001132
+prevClosePrice: 0.00000638
+volume: 40984660.00000000
+count: 70845
+----------------------------------
+Symbol: null
+priceChange: 0.00017930
+lastPrice: 0.00037460
+prevClosePrice: 0.00019810
+volume: 3793246.00000000
+count: 9678
+----------------------------------
+Symbol: null
+priceChange: -0.00000361
+lastPrice: 0.00002717
+prevClosePrice: 0.00003083
+volume: 5332445.00000000
+count: 19658
+----------------------------------
+Symbol: null
+priceChange: -0.00007150
+lastPrice: 0.00089240
+prevClosePrice: 0.00095210
+volume: 408857.00000000
+count: 2295
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000031
+prevClosePrice: 0.00000033
+volume: 307296117.00000000
+count: 25352
+----------------------------------
+Symbol: null
+priceChange: -0.00000006
+lastPrice: 0.00001001
+prevClosePrice: 0.00001004
+volume: 42200983.00000000
+count: 2764
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000021
+prevClosePrice: 0.00000025
+volume: 27388669.00000000
+count: 987
+----------------------------------
+Symbol: null
+priceChange: 0.00027100
+lastPrice: 0.01686100
+prevClosePrice: 0.01654700
+volume: 85825.63000000
+count: 4068
+----------------------------------
+Symbol: null
+priceChange: -0.00000148
+lastPrice: 0.00000913
+prevClosePrice: 0.00001059
+volume: 12236581.00000000
+count: 16557
+----------------------------------
+Symbol: null
+priceChange: -0.00002462
+lastPrice: 0.00030373
+prevClosePrice: 0.00033040
+volume: 1272329.00000000
+count: 2505
+----------------------------------
+Symbol: null
+priceChange: -0.00005592
+lastPrice: 0.00038171
+prevClosePrice: 0.00043786
+volume: 4138676.30000000
+count: 114661
+----------------------------------
+Symbol: null
+priceChange: -0.00096000
+lastPrice: 0.01260700
+prevClosePrice: 0.01355900
+volume: 312761.21000000
+count: 13347
+----------------------------------
+Symbol: null
+priceChange: -0.00000001
+lastPrice: 0.00000038
+prevClosePrice: 0.00000040
+volume: 1329215006.00000000
+count: 30632
+----------------------------------
+Symbol: null
+priceChange: 0.00000036
+lastPrice: 0.00001275
+prevClosePrice: 0.00001232
+volume: 206054690.00000000
+count: 14190
+----------------------------------
+Symbol: null
+priceChange: -0.00000073
+lastPrice: 0.00001440
+prevClosePrice: 0.00001511
+volume: 1960963.00000000
+count: 5524
+----------------------------------
+Symbol: null
+priceChange: -0.00000099
+lastPrice: 0.00001032
+prevClosePrice: 0.00001127
+volume: 2162964.00000000
+count: 7843
+----------------------------------
+Symbol: null
+priceChange: -0.00000700
+lastPrice: 0.00034200
+prevClosePrice: 0.00035200
+volume: 181896.02000000
+count: 1152
+----------------------------------
+Symbol: null
+priceChange: -0.00001170
+lastPrice: 0.00007620
+prevClosePrice: 0.00008790
+volume: 9798440.27000000
+count: 45607
+----------------------------------
+Symbol: null
+priceChange: -0.00000031
+lastPrice: 0.00000149
+prevClosePrice: 0.00000179
+volume: 84501200.00000000
+count: 26097
+----------------------------------
+Symbol: null
+priceChange: -0.00049300
+lastPrice: 0.00560100
+prevClosePrice: 0.00610200
+volume: 69711.01000000
+count: 2676
+----------------------------------
+Symbol: null
+priceChange: -0.00002750
+lastPrice: 0.00016980
+prevClosePrice: 0.00019720
+volume: 727571.96000000
+count: 21215
+----------------------------------
+Symbol: null
+priceChange: -0.00000001
+lastPrice: 0.00000021
+prevClosePrice: 0.00000023
+volume: 17982801.00000000
+count: 535
+----------------------------------
+Symbol: null
+priceChange: 0.00000107
+lastPrice: 0.00000386
+prevClosePrice: 0.00000279
+volume: 301348371.00000000
+count: 180473
+----------------------------------
+Symbol: null
+priceChange: -0.00030500
+lastPrice: 0.00164400
+prevClosePrice: 0.00195000
+volume: 128213.07100000
+count: 20305
+----------------------------------
+Symbol: null
+priceChange: -0.00619000
+lastPrice: 0.05418000
+prevClosePrice: 0.06048000
+volume: 6767.02600000
+count: 1648
+----------------------------------
+Symbol: null
+priceChange: -0.00000435
+lastPrice: 0.00003871
+prevClosePrice: 0.00004280
+volume: 631377.00000000
+count: 5360
+----------------------------------
+Symbol: null
+priceChange: -0.00000055
+lastPrice: 0.00000269
+prevClosePrice: 0.00000324
+volume: 22640688.00000000
+count: 14512
+----------------------------------
+Symbol: null
+priceChange: -0.00043000
+lastPrice: 0.00236300
+prevClosePrice: 0.00279500
+volume: 69119.10700000
+count: 20850
+----------------------------------
+Symbol: null
+priceChange: -0.00835000
+lastPrice: 0.07815000
+prevClosePrice: 0.08654000
+volume: 9947.55000000
+count: 3115
+----------------------------------
+Symbol: null
+priceChange: -0.00000023
+lastPrice: 0.00000314
+prevClosePrice: 0.00000339
+volume: 8279768.00000000
+count: 6036
+----------------------------------
+Symbol: null
+priceChange: -0.00001600
+lastPrice: 0.00027300
+prevClosePrice: 0.00028900
+volume: 172264.68000000
+count: 12464
+----------------------------------
+Symbol: null
+priceChange: 0.00000028
+lastPrice: 0.00000988
+prevClosePrice: 0.00000962
+volume: 2373546.00000000
+count: 4683
+----------------------------------
+Symbol: null
+priceChange: -0.00000005
+lastPrice: 0.00000069
+prevClosePrice: 0.00000075
+volume: 8968832.00000000
+count: 1871
+----------------------------------
+Symbol: null
+priceChange: 0.00000001
+lastPrice: 0.00000054
+prevClosePrice: 0.00000053
+volume: 37033168.00000000
+count: 2982
+----------------------------------
+Symbol: null
+priceChange: 0.00000123
+lastPrice: 0.00001773
+prevClosePrice: 0.00001655
+volume: 9771709.00000000
+count: 1423
+----------------------------------
+Symbol: null
+priceChange: -0.00000011
+lastPrice: 0.00000075
+prevClosePrice: 0.00000087
+volume: 436962998.00000000
+count: 27296
+----------------------------------
+Symbol: null
+priceChange: -0.00000208
+lastPrice: 0.00002464
+prevClosePrice: 0.00002679
+volume: 94955987.00000000
+count: 19799
+----------------------------------
+Symbol: null
+priceChange: -0.00000036
+lastPrice: 0.00000266
+prevClosePrice: 0.00000300
+volume: 7187582.00000000
+count: 6190
+----------------------------------
+Symbol: null
+priceChange: -0.00000583
+lastPrice: 0.00008719
+prevClosePrice: 0.00009437
+volume: 1372903.00000000
+count: 1326
+----------------------------------
+Symbol: null
+priceChange: -0.00000144
+lastPrice: 0.00000945
+prevClosePrice: 0.00001083
+volume: 1697193.00000000
+count: 5932
+----------------------------------
+Symbol: null
+priceChange: -0.00000113
+lastPrice: 0.00000771
+prevClosePrice: 0.00000885
+volume: 662308884.00000000
+count: 310714
+----------------------------------
+Symbol: null
+priceChange: -0.00001804
+lastPrice: 0.00025556
+prevClosePrice: 0.00027360
+volume: 49678956.00000000
+count: 29459
+----------------------------------
+Symbol: null
+priceChange: 0.00000096
+lastPrice: 0.00000554
+prevClosePrice: 0.00000458
+volume: 113069145.00000000
+count: 82949
+----------------------------------
+Symbol: null
+priceChange: 0.00003957
+lastPrice: 0.00018244
+prevClosePrice: 0.00014152
+volume: 17923863.00000000
+count: 9192
+----------------------------------
+Symbol: null
+priceChange: -0.00000082
+lastPrice: 0.00000905
+prevClosePrice: 0.00000984
+volume: 4546153.00000000
+count: 8386
+----------------------------------
+Symbol: null
+priceChange: -1.20780000
+lastPrice: 42.67770000
+prevClosePrice: 43.88290000
+volume: 4187404.67800000
+count: 484978
+----------------------------------
+Symbol: null
+priceChange: -0.00000200
+lastPrice: 0.00001340
+prevClosePrice: 0.00001530
+volume: 1199223.93000000
+count: 3734
+----------------------------------
+Symbol: null
+priceChange: -0.00003300
+lastPrice: 0.00044100
+prevClosePrice: 0.00047600
+volume: 191406.39000000
+count: 1246
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000126
+prevClosePrice: 0.00000126
+volume: 47782873.00000000
+count: 13949
+----------------------------------
+Symbol: null
+priceChange: -0.00000123
+lastPrice: 0.00000616
+prevClosePrice: 0.00000741
+volume: 1797855.00000000
+count: 3111
+----------------------------------
+Symbol: null
+priceChange: -0.00000091
+lastPrice: 0.00000462
+prevClosePrice: 0.00000554
+volume: 1746240.00000000
+count: 1787
+----------------------------------
+Symbol: null
+priceChange: -0.00048000
+lastPrice: 0.00350300
+prevClosePrice: 0.00398300
+volume: 188815.64700000
+count: 47309
+----------------------------------
+Symbol: null
+priceChange: -0.00763000
+lastPrice: 0.11556000
+prevClosePrice: 0.12286000
+volume: 6501.72700000
+count: 2653
+----------------------------------
+Symbol: null
+priceChange: -0.00056000
+lastPrice: 0.00768000
+prevClosePrice: 0.00822000
+volume: 248037.70000000
+count: 2388
+----------------------------------
+Symbol: null
+priceChange: -0.00000005
+lastPrice: 0.00000113
+prevClosePrice: 0.00000118
+volume: 9231779.00000000
+count: 2544
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000039
+prevClosePrice: 0.00000043
+volume: 29371843.00000000
+count: 2001
+----------------------------------
+Symbol: null
+priceChange: -0.00000086
+lastPrice: 0.00000621
+prevClosePrice: 0.00000706
+volume: 30073423.00000000
+count: 18351
+----------------------------------
+Symbol: null
+priceChange: -0.00001551
+lastPrice: 0.00020445
+prevClosePrice: 0.00021841
+volume: 1600813.00000000
+count: 1782
+----------------------------------
+Symbol: null
+priceChange: -0.00013000
+lastPrice: 0.00600000
+prevClosePrice: 0.00612000
+volume: 392838.80000000
+count: 1516
+----------------------------------
+Symbol: null
+priceChange: -0.00000007
+lastPrice: 0.00000057
+prevClosePrice: 0.00000064
+volume: 29627898.00000000
+count: 1692
+----------------------------------
+Symbol: null
+priceChange: 0.00000900
+lastPrice: 0.00007150
+prevClosePrice: 0.00006220
+volume: 337098.41000000
+count: 4733
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000018
+prevClosePrice: 0.00000020
+volume: 19356420.00000000
+count: 532
+----------------------------------
+Symbol: null
+priceChange: -0.00000014
+lastPrice: 0.00000599
+prevClosePrice: 0.00000622
+volume: 3084929.00000000
+count: 359
+----------------------------------
+Symbol: null
+priceChange: -0.00000118
+lastPrice: 0.00000773
+prevClosePrice: 0.00000890
+volume: 425673.00000000
+count: 1810
+----------------------------------
+Symbol: null
+priceChange: -0.00002100
+lastPrice: 0.00025500
+prevClosePrice: 0.00027700
+volume: 474062.13000000
+count: 4423
+----------------------------------
+Symbol: null
+priceChange: 0.57800000
+lastPrice: 20.93100000
+prevClosePrice: 20.35200000
+volume: 4348764.88400000
+count: 199353
+----------------------------------
+Symbol: null
+priceChange: 0.02640000
+lastPrice: 0.49130000
+prevClosePrice: 0.46650000
+volume: 20221.15000000
+count: 2488
+----------------------------------
+Symbol: null
+priceChange: -0.00000008
+lastPrice: 0.00000072
+prevClosePrice: 0.00000080
+volume: 9801431.00000000
+count: 3470
+----------------------------------
+Symbol: null
+priceChange: -0.00000100
+lastPrice: 0.00002400
+prevClosePrice: 0.00002500
+volume: 4603833.00000000
+count: 2998
+----------------------------------
+Symbol: null
+priceChange: -0.00000005
+lastPrice: 0.00000070
+prevClosePrice: 0.00000076
+volume: 39104062.00000000
+count: 5664
+----------------------------------
+Symbol: null
+priceChange: 0.00000160
+lastPrice: 0.00008800
+prevClosePrice: 0.00008640
+volume: 306954.80000000
+count: 7579
+----------------------------------
+Symbol: null
+priceChange: 0.00022100
+lastPrice: 0.00291400
+prevClosePrice: 0.00267900
+volume: 45368.39000000
+count: 1543
+----------------------------------
+Symbol: null
+priceChange: -0.00000550
+lastPrice: 0.00003170
+prevClosePrice: 0.00003700
+volume: 1027354.93000000
+count: 6895
+----------------------------------
+Symbol: null
+priceChange: -0.00009600
+lastPrice: 0.00106000
+prevClosePrice: 0.00116000
+volume: 92130.63000000
+count: 805
+----------------------------------
+Symbol: null
+priceChange: 0.00000032
+lastPrice: 0.00000316
+prevClosePrice: 0.00000283
+volume: 127421173.00000000
+count: 84559
+----------------------------------
+Symbol: null
+priceChange: 0.00001673
+lastPrice: 0.00010473
+prevClosePrice: 0.00008800
+volume: 10256556.00000000
+count: 7620
+----------------------------------
+Symbol: null
+priceChange: -0.00000167
+lastPrice: 0.00001226
+prevClosePrice: 0.00001393
+volume: 935839.00000000
+count: 3870
+----------------------------------
+Symbol: null
+priceChange: -0.00031000
+lastPrice: 0.00883000
+prevClosePrice: 0.00917000
+volume: 532636.20000000
+count: 3597
+----------------------------------
+Symbol: null
+priceChange: -0.00000094
+lastPrice: 0.00000939
+prevClosePrice: 0.00001032
+volume: 5361726.00000000
+count: 6540
+----------------------------------
+Symbol: null
+priceChange: -0.00000790
+lastPrice: 0.00031150
+prevClosePrice: 0.00032050
+volume: 505269.00000000
+count: 1681
+----------------------------------
+Symbol: null
+priceChange: -0.00000099
+lastPrice: 0.00000736
+prevClosePrice: 0.00000836
+volume: 414606753.00000000
+count: 175496
+----------------------------------
+Symbol: null
+priceChange: -0.00001494
+lastPrice: 0.00024365
+prevClosePrice: 0.00025859
+volume: 44928826.00000000
+count: 38797
+----------------------------------
+Symbol: null
+priceChange: 0.00000407
+lastPrice: 0.00002280
+prevClosePrice: 0.00001889
+volume: 3521271.00000000
+count: 16935
+----------------------------------
+Symbol: null
+priceChange: -0.00000001
+lastPrice: 0.00000025
+prevClosePrice: 0.00000027
+volume: 20856591.00000000
+count: 1368
+----------------------------------
+Symbol: null
+priceChange: 0.00000002
+lastPrice: 0.00000827
+prevClosePrice: 0.00000824
+volume: 6018995.00000000
+count: 838
+----------------------------------
+Symbol: null
+priceChange: -0.00000134
+lastPrice: 0.00000734
+prevClosePrice: 0.00000866
+volume: 389673738.00000000
+count: 170902
+----------------------------------
+Symbol: null
+priceChange: -0.00002704
+lastPrice: 0.00024194
+prevClosePrice: 0.00026898
+volume: 26139847.00000000
+count: 27629
+----------------------------------
+Symbol: null
+priceChange: -0.00042500
+lastPrice: 0.00707400
+prevClosePrice: 0.00747800
+volume: 4867268.00000000
+count: 8543
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000024
+prevClosePrice: 0.00000027
+volume: 22388737.00000000
+count: 1345
+----------------------------------
+Symbol: null
+priceChange: -0.00000014
+lastPrice: 0.00000214
+prevClosePrice: 0.00000227
+volume: 6974683.00000000
+count: 4021
+----------------------------------
+Symbol: null
+priceChange: 0.00009300
+lastPrice: 0.00207800
+prevClosePrice: 0.00196400
+volume: 1390051.00000000
+count: 3865
+----------------------------------
+Symbol: null
+priceChange: 0.00131000
+lastPrice: 0.13747000
+prevClosePrice: 0.13616000
+volume: 43566.12800000
+count: 17877
+----------------------------------
+Symbol: null
+priceChange: 4.88000000
+lastPrice: 172.10000000
+prevClosePrice: 167.23000000
+volume: 2855558.25149000
+count: 943110
+----------------------------------
+Symbol: null
+priceChange: 0.22000000
+lastPrice: 4.03100000
+prevClosePrice: 3.80500000
+volume: 13489.25900000
+count: 17033
+----------------------------------
+Symbol: null
+priceChange: -0.00000001
+lastPrice: 0.00000005
+prevClosePrice: 0.00000005
+volume: 27530954.00000000
+count: 383
+----------------------------------
+Symbol: null
+priceChange: -0.00003280
+lastPrice: 0.00013730
+prevClosePrice: 0.00017020
+volume: 1032202.69000000
+count: 24250
+----------------------------------
+Symbol: null
+priceChange: -0.00073800
+lastPrice: 0.00453900
+prevClosePrice: 0.00527700
+volume: 53266.12000000
+count: 1708
+----------------------------------
+Symbol: null
+priceChange: -0.01491000
+lastPrice: 0.13275000
+prevClosePrice: 0.14710000
+volume: 16256.50000000
+count: 664
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000025
+prevClosePrice: 0.00000026
+volume: 16289379.00000000
+count: 1192
+----------------------------------
+Symbol: null
+priceChange: -0.00000103
+lastPrice: 0.00001478
+prevClosePrice: 0.00001582
+volume: 8749618.00000000
+count: 21474
+----------------------------------
+Symbol: null
+priceChange: -0.00000400
+lastPrice: 0.00048600
+prevClosePrice: 0.00048900
+volume: 1004366.18000000
+count: 2940
+----------------------------------
+Symbol: null
+priceChange: 0.00060000
+lastPrice: 0.01430000
+prevClosePrice: 0.01370000
+volume: 244180.50000000
+count: 1158
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000032
+prevClosePrice: 0.00000036
+volume: 21175232.00000000
+count: 1390
+----------------------------------
+Symbol: null
+priceChange: -0.00000046
+lastPrice: 0.00001055
+prevClosePrice: 0.00001111
+volume: 5253232.00000000
+count: 737
+----------------------------------
+Symbol: null
+priceChange: -0.00000038
+lastPrice: 0.00000289
+prevClosePrice: 0.00000328
+volume: 4620490.00000000
+count: 4464
+----------------------------------
+Symbol: null
+priceChange: -0.00000600
+lastPrice: 0.00009559
+prevClosePrice: 0.00010159
+volume: 960900.00000000
+count: 1646
+----------------------------------
+Symbol: null
+priceChange: -0.00000025
+lastPrice: 0.00000189
+prevClosePrice: 0.00000213
+volume: 18799638.00000000
+count: 9794
+----------------------------------
+Symbol: null
+priceChange: -0.00000300
+lastPrice: 0.00006300
+prevClosePrice: 0.00006700
+volume: 1779579.99000000
+count: 1411
+----------------------------------
+Symbol: null
+priceChange: -0.00000336
+lastPrice: 0.00001467
+prevClosePrice: 0.00001803
+volume: 2569437.00000000
+count: 9096
+----------------------------------
+Symbol: null
+priceChange: -0.00007400
+lastPrice: 0.00048600
+prevClosePrice: 0.00055500
+volume: 323309.26000000
+count: 1979
+----------------------------------
+Symbol: null
+priceChange: -0.00000035
+lastPrice: 0.00000162
+prevClosePrice: 0.00000197
+volume: 6606906.00000000
+count: 3788
+----------------------------------
+Symbol: null
+priceChange: -0.00000760
+lastPrice: 0.00005340
+prevClosePrice: 0.00006070
+volume: 974283.00000000
+count: 1150
+----------------------------------
+Symbol: null
+priceChange: -0.00000039
+lastPrice: 0.00000355
+prevClosePrice: 0.00000391
+volume: 1590595.00000000
+count: 1681
+----------------------------------
+Symbol: null
+priceChange: -0.00000010
+lastPrice: 0.00000067
+prevClosePrice: 0.00000077
+volume: 5812412.00000000
+count: 1392
+----------------------------------
+Symbol: null
+priceChange: -0.00000001
+lastPrice: 0.00000048
+prevClosePrice: 0.00000049
+volume: 20146778.00000000
+count: 1232
+----------------------------------
+Symbol: null
+priceChange: -0.00000292
+lastPrice: 0.00003001
+prevClosePrice: 0.00003282
+volume: 2527184.00000000
+count: 12315
+----------------------------------
+Symbol: null
+priceChange: -0.00002900
+lastPrice: 0.00099500
+prevClosePrice: 0.00101600
+volume: 348662.05000000
+count: 2606
+----------------------------------
+Symbol: null
+priceChange: -0.00000077
+lastPrice: 0.00000828
+prevClosePrice: 0.00000911
+volume: 683054.00000000
+count: 2330
+----------------------------------
+Symbol: null
+priceChange: -0.00001400
+lastPrice: 0.00027100
+prevClosePrice: 0.00028300
+volume: 160618.57000000
+count: 610
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000017
+prevClosePrice: 0.00000017
+volume: 548706841.00000000
+count: 6725
+----------------------------------
+Symbol: null
+priceChange: 0.00000060
+lastPrice: 0.00000593
+prevClosePrice: 0.00000531
+volume: 53923059.00000000
+count: 2069
+----------------------------------
+Symbol: null
+priceChange: -0.00000070
+lastPrice: 0.00000430
+prevClosePrice: 0.00000500
+volume: 3024083.00000000
+count: 5098
+----------------------------------
+Symbol: null
+priceChange: -0.00001300
+lastPrice: 0.00014200
+prevClosePrice: 0.00015500
+volume: 1210653.93000000
+count: 5877
+----------------------------------
+Symbol: null
+priceChange: -0.00016000
+lastPrice: 0.00416000
+prevClosePrice: 0.00431000
+volume: 253090.90000000
+count: 1331
+----------------------------------
+Symbol: null
+priceChange: 0.00000280
+lastPrice: 0.00010240
+prevClosePrice: 0.00009920
+volume: 17870931.22000000
+count: 201271
+----------------------------------
+Symbol: null
+priceChange: 0.00029600
+lastPrice: 0.00338000
+prevClosePrice: 0.00306000
+volume: 2463881.74000000
+count: 26011
+----------------------------------
+Symbol: null
+priceChange: -0.00000119
+lastPrice: 0.00000809
+prevClosePrice: 0.00000929
+volume: 398623.00000000
+count: 1281
+----------------------------------
+Symbol: null
+priceChange: -0.00000044
+lastPrice: 0.00000196
+prevClosePrice: 0.00000241
+volume: 14637290.00000000
+count: 6160
+----------------------------------
+Symbol: null
+priceChange: -0.00000889
+lastPrice: 0.00006520
+prevClosePrice: 0.00007425
+volume: 1818853.00000000
+count: 1216
+----------------------------------
+Symbol: null
+priceChange: -0.00016700
+lastPrice: 0.00191000
+prevClosePrice: 0.00207500
+volume: 960275.00000000
+count: 1078
+----------------------------------
+Symbol: null
+priceChange: 0.00000006
+lastPrice: 0.00000081
+prevClosePrice: 0.00000075
+volume: 414348428.00000000
+count: 2215
+----------------------------------
+Symbol: null
+priceChange: -0.00000008
+lastPrice: 0.00000057
+prevClosePrice: 0.00000065
+volume: 15011426.00000000
+count: 1437
+----------------------------------
+Symbol: null
+priceChange: -0.00000040
+lastPrice: 0.00000178
+prevClosePrice: 0.00000218
+volume: 189859601.00000000
+count: 40436
+----------------------------------
+Symbol: null
+priceChange: -0.00000881
+lastPrice: 0.00005900
+prevClosePrice: 0.00006758
+volume: 14784992.00000000
+count: 6091
+----------------------------------
+Symbol: null
+priceChange: -0.00017090
+lastPrice: 0.00172000
+prevClosePrice: 0.00189370
+volume: 4787998.00000000
+count: 3355
+----------------------------------
+Symbol: null
+priceChange: -0.00000250
+lastPrice: 0.00001320
+prevClosePrice: 0.00001570
+volume: 6094420.23000000
+count: 9826
+----------------------------------
+Symbol: null
+priceChange: -0.00004600
+lastPrice: 0.00043800
+prevClosePrice: 0.00048600
+volume: 713947.84000000
+count: 1912
+----------------------------------
+Symbol: null
+priceChange: -0.00068000
+lastPrice: 0.01286000
+prevClosePrice: 0.01353000
+volume: 582751.50000000
+count: 2852
+----------------------------------
+Symbol: null
+priceChange: -0.18400000
+lastPrice: 2.87200000
+prevClosePrice: 3.05700000
+volume: 6196158.28600000
+count: 54482
+----------------------------------
+Symbol: null
+priceChange: -0.00000107
+lastPrice: 0.00000567
+prevClosePrice: 0.00000674
+volume: 69172366.00000000
+count: 34378
+----------------------------------
+Symbol: null
+priceChange: -0.00002275
+lastPrice: 0.00018693
+prevClosePrice: 0.00020844
+volume: 3924231.00000000
+count: 4575
+----------------------------------
+Symbol: null
+priceChange: -0.00000118
+lastPrice: 0.00000854
+prevClosePrice: 0.00000970
+volume: 3241689.00000000
+count: 7868
+----------------------------------
+Symbol: null
+priceChange: -0.00001500
+lastPrice: 0.00028300
+prevClosePrice: 0.00030200
+volume: 550518.89000000
+count: 1674
+----------------------------------
+Symbol: null
+priceChange: -0.00011000
+lastPrice: 0.00829000
+prevClosePrice: 0.00840000
+volume: 234696.20000000
+count: 3069
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000030
+prevClosePrice: 0.00000029
+volume: 69033636.00000000
+count: 9580
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000039
+prevClosePrice: 0.00000042
+volume: 17544264.00000000
+count: 2096
+----------------------------------
+Symbol: null
+priceChange: 0.00000029
+lastPrice: 0.00001325
+prevClosePrice: 0.00001296
+volume: 5505427.00000000
+count: 3477
+----------------------------------
+Symbol: null
+priceChange: -0.00000021
+lastPrice: 0.00000192
+prevClosePrice: 0.00000212
+volume: 13378226.00000000
+count: 6006
+----------------------------------
+Symbol: null
+priceChange: -0.00000284
+lastPrice: 0.00000939
+prevClosePrice: 0.00001227
+volume: 3933659.00000000
+count: 10688
+----------------------------------
+Symbol: null
+priceChange: -0.01206000
+lastPrice: 0.30446000
+prevClosePrice: 0.31684000
+volume: 1431745440.50000000
+count: 629667
+----------------------------------
+Symbol: null
+priceChange: -0.00007700
+lastPrice: 0.00714200
+prevClosePrice: 0.00724700
+volume: 6540827.00000000
+count: 18183
+----------------------------------
+Symbol: null
+priceChange: -0.00000024
+lastPrice: 0.00000112
+prevClosePrice: 0.00000137
+volume: 145156333.00000000
+count: 38693
+----------------------------------
+Symbol: null
+priceChange: -0.00000509
+lastPrice: 0.00003739
+prevClosePrice: 0.00004232
+volume: 23466287.00000000
+count: 9666
+----------------------------------
+Symbol: null
+priceChange: -0.01631000
+lastPrice: 0.31903000
+prevClosePrice: 0.33547000
+volume: 2851891205.30000000
+count: 1298102
+----------------------------------
+Symbol: null
+priceChange: -0.00007300
+lastPrice: 0.00045700
+prevClosePrice: 0.00053100
+volume: 46282.08500000
+count: 7093
+----------------------------------
+Symbol: null
+priceChange: -0.00137000
+lastPrice: 0.01511000
+prevClosePrice: 0.01661000
+volume: 8426.87900000
+count: 1084
+----------------------------------
+Symbol: null
+priceChange: 3375.74000000
+lastPrice: 41355.43000000
+prevClosePrice: 37975.77000000
+volume: 626.58728400
+count: 18450
+----------------------------------
+Symbol: null
+priceChange: 27.35000000
+lastPrice: 1252.35000000
+prevClosePrice: 1230.00000000
+volume: 5722.25074000
+count: 6477
+----------------------------------
+Symbol: null
+priceChange: -0.00005540
+lastPrice: 0.00035270
+prevClosePrice: 0.00040940
+volume: 72681.31000000
+count: 7160
+----------------------------------
+Symbol: null
+priceChange: -0.00102000
+lastPrice: 0.01171000
+prevClosePrice: 0.01262000
+volume: 7875.02200000
+count: 1087
+----------------------------------
+Symbol: null
+priceChange: -0.01070000
+lastPrice: 0.34240000
+prevClosePrice: 0.35300000
+volume: 4760.31000000
+count: 795
+----------------------------------
+Symbol: null
+priceChange: -0.00000153
+lastPrice: 0.00001425
+prevClosePrice: 0.00001591
+volume: 934221.00000000
+count: 5091
+----------------------------------
+Symbol: null
+priceChange: -0.18310000
+lastPrice: 3.15110000
+prevClosePrice: 3.33490000
+volume: 59774942.59000000
+count: 297653
+----------------------------------
+Symbol: null
+priceChange: -0.00210000
+lastPrice: 0.07360000
+prevClosePrice: 0.07600000
+volume: 169492.00000000
+count: 5391
+----------------------------------
+Symbol: null
+priceChange: 0.00000032
+lastPrice: 0.00000423
+prevClosePrice: 0.00000389
+volume: 170813113.00000000
+count: 82931
+----------------------------------
+Symbol: null
+priceChange: 0.00001840
+lastPrice: 0.00014005
+prevClosePrice: 0.00012117
+volume: 14984447.00000000
+count: 8103
+----------------------------------
+Symbol: null
+priceChange: -0.00000737
+lastPrice: 0.00004725
+prevClosePrice: 0.00005462
+volume: 9844666.00000000
+count: 55892
+----------------------------------
+Symbol: null
+priceChange: -0.00012845
+lastPrice: 0.00156762
+prevClosePrice: 0.00168782
+volume: 760062.00000000
+count: 5943
+----------------------------------
+Symbol: null
+priceChange: -0.00156600
+lastPrice: 0.04590600
+prevClosePrice: 0.04701800
+volume: 184272.00000000
+count: 2716
+----------------------------------
+Symbol: null
+priceChange: -0.00018000
+lastPrice: 0.00748000
+prevClosePrice: 0.00767000
+volume: 11637095.40000000
+count: 24546
+----------------------------------
+Symbol: null
+priceChange: 0.00030000
+lastPrice: 0.99870000
+prevClosePrice: 0.99840000
+volume: 22350205.16000000
+count: 24739
+----------------------------------
+Symbol: null
+priceChange: -0.02420000
+lastPrice: 0.37740000
+prevClosePrice: 0.40160000
+volume: 37964738.08000000
+count: 58117
+----------------------------------
+Symbol: null
+priceChange: -0.02570000
+lastPrice: 0.30311000
+prevClosePrice: 0.32889000
+volume: 1149481504.60000000
+count: 551598
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000018
+prevClosePrice: 0.00000020
+volume: 53014099.00000000
+count: 1311
+----------------------------------
+Symbol: null
+priceChange: -0.00000040
+lastPrice: 0.00000571
+prevClosePrice: 0.00000607
+volume: 29751062.00000000
+count: 1633
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000015
+prevClosePrice: 0.00000016
+volume: 43909844.00000000
+count: 1786
+----------------------------------
+Symbol: null
+priceChange: -0.00000011
+lastPrice: 0.00000484
+prevClosePrice: 0.00000495
+volume: 13714984.00000000
+count: 654
+----------------------------------
+Symbol: null
+priceChange: -0.00000046
+lastPrice: 0.00000179
+prevClosePrice: 0.00000225
+volume: 13632536.00000000
+count: 8638
+----------------------------------
+Symbol: null
+priceChange: 0.00000194
+lastPrice: 0.00001024
+prevClosePrice: 0.00000831
+volume: 1830715.00000000
+count: 4478
+----------------------------------
+Symbol: null
+priceChange: 0.00139600
+lastPrice: 0.00537100
+prevClosePrice: 0.00398700
+volume: 2664021.00000000
+count: 4165
+----------------------------------
+Symbol: null
+priceChange: -0.00000006
+lastPrice: 0.00000118
+prevClosePrice: 0.00000124
+volume: 28840751.00000000
+count: 7454
+----------------------------------
+Symbol: null
+priceChange: 0.00000027
+lastPrice: 0.00003873
+prevClosePrice: 0.00003847
+volume: 4711856.00000000
+count: 1487
+----------------------------------
+Symbol: null
+priceChange: -0.04420000
+lastPrice: 0.54870000
+prevClosePrice: 0.59290000
+volume: 48463992.45000000
+count: 78341
+----------------------------------
+Symbol: null
+priceChange: -0.00002390
+lastPrice: 0.00072060
+prevClosePrice: 0.00074710
+volume: 25147149.00000000
+count: 8428
+----------------------------------
+Symbol: null
+priceChange: -0.00203000
+lastPrice: 0.03075000
+prevClosePrice: 0.03277000
+volume: 3666355641.70000000
+count: 241819
+----------------------------------
+Symbol: null
+priceChange: -0.48120000
+lastPrice: 7.00780000
+prevClosePrice: 7.48830000
+volume: 5596018.93000000
+count: 109831
+----------------------------------
+Symbol: null
+priceChange: -0.00450000
+lastPrice: 0.16480000
+prevClosePrice: 0.17050000
+volume: 14640.27000000
+count: 827
+----------------------------------
+Symbol: null
+priceChange: 0.00910000
+lastPrice: 0.60920000
+prevClosePrice: 0.60000000
+volume: 24824135.60000000
+count: 73423
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000012
+prevClosePrice: 0.00000014
+volume: 560144814.00000000
+count: 4179
+----------------------------------
+Symbol: null
+priceChange: -0.00000012
+lastPrice: 0.00000397
+prevClosePrice: 0.00000408
+volume: 143069604.00000000
+count: 3513
+----------------------------------
+Symbol: null
+priceChange: 0.00000260
+lastPrice: 0.00011620
+prevClosePrice: 0.00011360
+volume: 36567597.00000000
+count: 2532
+----------------------------------
+Symbol: null
+priceChange: 0.00000001
+lastPrice: 0.00000016
+prevClosePrice: 0.00000016
+volume: 1021012778.00000000
+count: 1308
+----------------------------------
+Symbol: null
+priceChange: -0.00000008
+lastPrice: 0.00000184
+prevClosePrice: 0.00000193
+volume: 70188964.00000000
+count: 2625
+----------------------------------
+Symbol: null
+priceChange: -0.00000030
+lastPrice: 0.00000710
+prevClosePrice: 0.00000730
+volume: 868006.52000000
+count: 4401
+----------------------------------
+Symbol: null
+priceChange: 0.00000900
+lastPrice: 0.00023700
+prevClosePrice: 0.00022700
+volume: 1228521.36000000
+count: 3088
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000208
+prevClosePrice: 0.00000213
+volume: 88598993.00000000
+count: 2107
+----------------------------------
+Symbol: null
+priceChange: 0.00000100
+lastPrice: 0.00006010
+prevClosePrice: 0.00005920
+volume: 27935877.00000000
+count: 1480
+----------------------------------
+Symbol: null
+priceChange: 0.00000001
+lastPrice: 0.00000020
+prevClosePrice: 0.00000020
+volume: 637901110.00000000
+count: 1394
+----------------------------------
+Symbol: null
+priceChange: -0.00000035
+lastPrice: 0.00000200
+prevClosePrice: 0.00000234
+volume: 8503175.00000000
+count: 7809
+----------------------------------
+Symbol: null
+priceChange: -0.02340000
+lastPrice: 0.25670000
+prevClosePrice: 0.28150000
+volume: 2837956.58000000
+count: 7366
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000002
+prevClosePrice: 0.00000002
+volume: 1399130424.00000000
+count: 2190
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000066
+prevClosePrice: 0.00000065
+volume: 642081741.00000000
+count: 2529
+----------------------------------
+Symbol: null
+priceChange: -0.00000010
+lastPrice: 0.00000067
+prevClosePrice: 0.00000077
+volume: 931719206.00000000
+count: 27997
+----------------------------------
+Symbol: null
+priceChange: -0.00000167
+lastPrice: 0.00002243
+prevClosePrice: 0.00002413
+volume: 116584542.00000000
+count: 12863
+----------------------------------
+Symbol: null
+priceChange: -0.00151900
+lastPrice: 0.02799600
+prevClosePrice: 0.02952700
+volume: 3565353485.00000000
+count: 227527
+----------------------------------
+Symbol: null
+priceChange: -0.00001500
+lastPrice: 0.00065610
+prevClosePrice: 0.00067090
+volume: 38985279.00000000
+count: 6110
+----------------------------------
+Symbol: null
+priceChange: -0.00000008
+lastPrice: 0.00000046
+prevClosePrice: 0.00000055
+volume: 50818692.00000000
+count: 3914
+----------------------------------
+Symbol: null
+priceChange: -0.00000049
+lastPrice: 0.00000243
+prevClosePrice: 0.00000292
+volume: 11992367.00000000
+count: 13885
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000020
+prevClosePrice: 0.00000022
+volume: 35326033.00000000
+count: 1185
+----------------------------------
+Symbol: null
+priceChange: 0.00020000
+lastPrice: 0.99870000
+prevClosePrice: 0.99850000
+volume: 17126872.39000000
+count: 13867
+----------------------------------
+Symbol: null
+priceChange: -0.00000006
+lastPrice: 0.00000037
+prevClosePrice: 0.00000042
+volume: 86669053.00000000
+count: 4671
+----------------------------------
+Symbol: null
+priceChange: -0.00000400
+lastPrice: 0.00036200
+prevClosePrice: 0.00036600
+volume: 5233006.00000000
+count: 1158
+----------------------------------
+Symbol: null
+priceChange: 0.00019300
+lastPrice: 0.00164000
+prevClosePrice: 0.00144800
+volume: 83053.29400000
+count: 31723
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000024
+prevClosePrice: 0.00000026
+volume: 40940045.00000000
+count: 1304
+----------------------------------
+Symbol: null
+priceChange: 0.00000300
+lastPrice: 0.00023100
+prevClosePrice: 0.00022800
+volume: 12718343.00000000
+count: 6334
+----------------------------------
+Symbol: null
+priceChange: 0.24480000
+lastPrice: 42.59360000
+prevClosePrice: 42.15730000
+volume: 734.98000000
+count: 137
+----------------------------------
+Symbol: null
+priceChange: 3425.56000000
+lastPrice: 41362.03000000
+prevClosePrice: 37993.22000000
+volume: 970.03289900
+count: 13268
+----------------------------------
+Symbol: null
+priceChange: 27.42000000
+lastPrice: 1251.98000000
+prevClosePrice: 1225.29000000
+volume: 7291.62145000
+count: 6808
+----------------------------------
+Symbol: null
+priceChange: -0.02469000
+lastPrice: 0.31893000
+prevClosePrice: 0.33981000
+volume: 543590.50000000
+count: 488
+----------------------------------
+Symbol: null
+priceChange: -0.00000150
+lastPrice: 0.00000935
+prevClosePrice: 0.00001085
+volume: 17606278.00000000
+count: 20606
+----------------------------------
+Symbol: null
+priceChange: -1.30110000
+lastPrice: 42.62020000
+prevClosePrice: 43.91980000
+volume: 5561.36000000
+count: 886
+----------------------------------
+Symbol: null
+priceChange: -0.01653000
+lastPrice: 0.31895000
+prevClosePrice: 0.33744000
+volume: 3348106.40000000
+count: 2059
+----------------------------------
+Symbol: null
+priceChange: -0.21760000
+lastPrice: 3.11380000
+prevClosePrice: 3.34200000
+volume: 158937.56000000
+count: 1231
+----------------------------------
+Symbol: null
+priceChange: -1.22370000
+lastPrice: 42.69560000
+prevClosePrice: 43.95010000
+volume: 44761.69000000
+count: 3267
+----------------------------------
+Symbol: null
+priceChange: 3346.84000000
+lastPrice: 41337.84000000
+prevClosePrice: 37971.30000000
+volume: 4294.31251700
+count: 78472
+----------------------------------
+Symbol: null
+priceChange: 26.10000000
+lastPrice: 1252.00000000
+prevClosePrice: 1225.48000000
+volume: 64996.01392000
+count: 35993
+----------------------------------
+Symbol: null
+priceChange: -0.01602000
+lastPrice: 0.31953000
+prevClosePrice: 0.33650000
+volume: 16989682.30000000
+count: 8399
+----------------------------------
+Symbol: null
+priceChange: -0.17510000
+lastPrice: 3.15320000
+prevClosePrice: 3.33990000
+volume: 572752.97000000
+count: 3694
+----------------------------------
+Symbol: null
+priceChange: 0.00050000
+lastPrice: 0.99910000
+prevClosePrice: 0.99860000
+volume: 193965383.19000000
+count: 72975
+----------------------------------
+Symbol: null
+priceChange: -0.01048000
+lastPrice: 0.30518000
+prevClosePrice: 0.31599000
+volume: 2741184.00000000
+count: 1262
+----------------------------------
+Symbol: null
+priceChange: -0.00199000
+lastPrice: 0.03047000
+prevClosePrice: 0.03296000
+volume: 4266227.20000000
+count: 341
+----------------------------------
+Symbol: null
+priceChange: -0.00087000
+lastPrice: 0.09650000
+prevClosePrice: 0.09683000
+volume: 24708857.00000000
+count: 12840
+----------------------------------
+Symbol: null
+priceChange: -0.82020000
+lastPrice: 15.77910000
+prevClosePrice: 16.60000000
+volume: 18903162.65000000
+count: 457471
+----------------------------------
+Symbol: null
+priceChange: -0.91600000
+lastPrice: 15.78060000
+prevClosePrice: 16.69720000
+volume: 12662.67000000
+count: 518
+----------------------------------
+Symbol: null
+priceChange: -0.80740000
+lastPrice: 15.80260000
+prevClosePrice: 16.64640000
+volume: 193307.83000000
+count: 6244
+----------------------------------
+Symbol: null
+priceChange: -0.79580000
+lastPrice: 5.67130000
+prevClosePrice: 6.45950000
+volume: 3851159.62000000
+count: 80754
+----------------------------------
+Symbol: null
+priceChange: 3.53000000
+lastPrice: 171.93000000
+prevClosePrice: 167.28000000
+volume: 3512.01167000
+count: 654
+----------------------------------
+Symbol: null
+priceChange: 3.25000000
+lastPrice: 173.20000000
+prevClosePrice: 168.26000000
+volume: 586.06858000
+count: 310
+----------------------------------
+Symbol: null
+priceChange: 4.83000000
+lastPrice: 172.12000000
+prevClosePrice: 167.63000000
+volume: 29121.49142000
+count: 5964
+----------------------------------
+Symbol: null
+priceChange: -0.00226000
+lastPrice: 0.03069000
+prevClosePrice: 0.03278000
+volume: 2302903.30000000
+count: 2075
+----------------------------------
+Symbol: null
+priceChange: -0.00213000
+lastPrice: 0.03068000
+prevClosePrice: 0.03293000
+volume: 54288947.90000000
+count: 2632
+----------------------------------
+Symbol: null
+priceChange: -0.00000018
+lastPrice: 0.00000772
+prevClosePrice: 0.00000790
+volume: 979352572.00000000
+count: 7213
+----------------------------------
+Symbol: null
+priceChange: -0.00001950
+lastPrice: 0.00032770
+prevClosePrice: 0.00034710
+volume: 12239014369.00000000
+count: 26264
+----------------------------------
+Symbol: null
+priceChange: -0.00001910
+lastPrice: 0.00032810
+prevClosePrice: 0.00034990
+volume: 139137761.00000000
+count: 2630
+----------------------------------
+Symbol: null
+priceChange: -0.00002020
+lastPrice: 0.00032640
+prevClosePrice: 0.00034720
+volume: 155918969.00000000
+count: 1520
+----------------------------------
+Symbol: null
+priceChange: -0.00000082
+lastPrice: 0.00000512
+prevClosePrice: 0.00000594
+volume: 5574895.00000000
+count: 8429
+----------------------------------
+Symbol: null
+priceChange: -0.01290000
+lastPrice: 0.21200000
+prevClosePrice: 0.22620000
+volume: 7630306.61000000
+count: 17526
+----------------------------------
+Symbol: null
+priceChange: 0.00000109
+lastPrice: 0.00001938
+prevClosePrice: 0.00001821
+volume: 143789862.00000000
+count: 4232
+----------------------------------
+Symbol: null
+priceChange: 0.00003170
+lastPrice: 0.00083000
+prevClosePrice: 0.00080230
+volume: 4437572129.00000000
+count: 17799
+----------------------------------
+Symbol: null
+priceChange: -0.00927000
+lastPrice: 0.07361000
+prevClosePrice: 0.08284000
+volume: 600781874.80000000
+count: 134483
+----------------------------------
+Symbol: null
+priceChange: -0.02950000
+lastPrice: 0.44750000
+prevClosePrice: 0.47720000
+volume: 16831513.35000000
+count: 39582
+----------------------------------
+Symbol: null
+priceChange: 0.00011200
+lastPrice: 0.00182000
+prevClosePrice: 0.00170700
+volume: 2788091.00000000
+count: 2900
+----------------------------------
+Symbol: null
+priceChange: -0.00000010
+lastPrice: 0.00000188
+prevClosePrice: 0.00000197
+volume: 31790885.00000000
+count: 12994
+----------------------------------
+Symbol: null
+priceChange: 0.00272000
+lastPrice: 0.07747000
+prevClosePrice: 0.07476000
+volume: 68878514.80000000
+count: 28330
+----------------------------------
+Symbol: null
+priceChange: -0.01130000
+lastPrice: 0.25680000
+prevClosePrice: 0.26810000
+volume: 61449990.34000000
+count: 62031
+----------------------------------
+Symbol: null
+priceChange: -0.04500000
+lastPrice: 3.39000000
+prevClosePrice: 3.44100000
+volume: 1660.44300000
+count: 2557
+----------------------------------
+Symbol: null
+priceChange: -6.42000000
+lastPrice: 144.61000000
+prevClosePrice: 150.94000000
+volume: 268469.43602000
+count: 87972
+----------------------------------
+Symbol: null
+priceChange: -0.09700000
+lastPrice: 1.58700000
+prevClosePrice: 1.69000000
+volume: 1536.94100000
+count: 1218
+----------------------------------
+Symbol: null
+priceChange: -6.13000000
+lastPrice: 67.84000000
+prevClosePrice: 73.96000000
+volume: 732124.64104000
+count: 147707
+----------------------------------
+Symbol: null
+priceChange: -5.89000000
+lastPrice: 67.91000000
+prevClosePrice: 74.23000000
+volume: 13959.09452000
+count: 2904
+----------------------------------
+Symbol: null
+priceChange: 0.00002350
+lastPrice: 0.00017240
+prevClosePrice: 0.00014730
+volume: 27694541.00000000
+count: 1346
+----------------------------------
+Symbol: null
+priceChange: 0.00090800
+lastPrice: 0.00741300
+prevClosePrice: 0.00650600
+volume: 2046495429.00000000
+count: 49385
+----------------------------------
+Symbol: null
+priceChange: -0.00000420
+lastPrice: 0.00015690
+prevClosePrice: 0.00016090
+volume: 13580223.00000000
+count: 683
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000016
+prevClosePrice: 0.00000018
+volume: 72213995.00000000
+count: 1193
+----------------------------------
+Symbol: null
+priceChange: -0.00042000
+lastPrice: 0.00665000
+prevClosePrice: 0.00707000
+volume: 148293216.60000000
+count: 7294
+----------------------------------
+Symbol: null
+priceChange: -0.01379000
+lastPrice: 0.30288000
+prevClosePrice: 0.31694000
+volume: 9062068.50000000
+count: 6041
+----------------------------------
+Symbol: null
+priceChange: 0.70200000
+lastPrice: 20.93600000
+prevClosePrice: 20.39300000
+volume: 19768.05500000
+count: 1149
+----------------------------------
+Symbol: null
+priceChange: -0.13000000
+lastPrice: 2.27000000
+prevClosePrice: 2.42100000
+volume: 1645.57800000
+count: 1099
+----------------------------------
+Symbol: null
+priceChange: -8.47000000
+lastPrice: 97.60000000
+prevClosePrice: 106.06000000
+volume: 318454.42205000
+count: 81574
+----------------------------------
+Symbol: null
+priceChange: 0.45580000
+lastPrice: 4.21800000
+prevClosePrice: 3.76320000
+volume: 34866256.43000000
+count: 333355
+----------------------------------
+Symbol: null
+priceChange: -0.21230000
+lastPrice: 3.51340000
+prevClosePrice: 3.72090000
+volume: 8942161.22000000
+count: 97209
+----------------------------------
+Symbol: null
+priceChange: -0.12081000
+lastPrice: 1.95263000
+prevClosePrice: 2.07382000
+volume: 21860782.10000000
+count: 110680
+----------------------------------
+Symbol: null
+priceChange: 0.05458000
+lastPrice: 0.22827000
+prevClosePrice: 0.17417000
+volume: 275409950.60000000
+count: 201501
+----------------------------------
+Symbol: null
+priceChange: -0.00019000
+lastPrice: 0.00986000
+prevClosePrice: 0.01003000
+volume: 144998450.50000000
+count: 13127
+----------------------------------
+Symbol: null
+priceChange: -0.00006370
+lastPrice: 0.00074580
+prevClosePrice: 0.00080890
+volume: 6808818.00000000
+count: 1708
+----------------------------------
+Symbol: null
+priceChange: -0.00000017
+lastPrice: 0.00000077
+prevClosePrice: 0.00000093
+volume: 347340612.00000000
+count: 18974
+----------------------------------
+Symbol: null
+priceChange: -0.00343000
+lastPrice: 0.03214000
+prevClosePrice: 0.03551000
+volume: 754654866.60000000
+count: 78858
+----------------------------------
+Symbol: null
+priceChange: -0.00920000
+lastPrice: 0.14550000
+prevClosePrice: 0.15500000
+volume: 17044.62000000
+count: 1426
+----------------------------------
+Symbol: null
+priceChange: -0.00002910
+lastPrice: 0.00015000
+prevClosePrice: 0.00017890
+volume: 1939146.94000000
+count: 28573
+----------------------------------
+Symbol: null
+priceChange: -0.59400000
+lastPrice: 6.19600000
+prevClosePrice: 6.79000000
+volume: 4999546.64600000
+count: 102574
+----------------------------------
+Symbol: null
+priceChange: -0.59500000
+lastPrice: 6.17700000
+prevClosePrice: 6.77200000
+volume: 64395.56500000
+count: 1121
+----------------------------------
+Symbol: null
+priceChange: -0.01160000
+lastPrice: 0.25680000
+prevClosePrice: 0.26840000
+volume: 235393.05000000
+count: 455
+----------------------------------
+Symbol: null
+priceChange: -0.00000001
+lastPrice: 0.00000007
+prevClosePrice: 0.00000008
+volume: 57677938.00000000
+count: 780
+----------------------------------
+Symbol: null
+priceChange: 0.00004000
+lastPrice: 0.00311000
+prevClosePrice: 0.00305000
+volume: 40642801.00000000
+count: 1502
+----------------------------------
+Symbol: null
+priceChange: -0.00000013
+lastPrice: 0.00000065
+prevClosePrice: 0.00000077
+volume: 100993483.00000000
+count: 6704
+----------------------------------
+Symbol: null
+priceChange: -0.00239700
+lastPrice: 0.02686600
+prevClosePrice: 0.02935100
+volume: 190434812.00000000
+count: 26852
+----------------------------------
+Symbol: null
+priceChange: 0.00000500
+lastPrice: 0.00014440
+prevClosePrice: 0.00013930
+volume: 18834031.00000000
+count: 2088
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000015
+prevClosePrice: 0.00000016
+volume: 131886035.00000000
+count: 2236
+----------------------------------
+Symbol: null
+priceChange: 0.00003000
+lastPrice: 0.00615000
+prevClosePrice: 0.00612000
+volume: 610261583.70000000
+count: 23922
+----------------------------------
+Symbol: null
+priceChange: -0.00002200
+lastPrice: 0.00059300
+prevClosePrice: 0.00061300
+volume: 2455950.00000000
+count: 520
+----------------------------------
+Symbol: null
+priceChange: -0.00000011
+lastPrice: 0.00000060
+prevClosePrice: 0.00000071
+volume: 73673349.00000000
+count: 4858
+----------------------------------
+Symbol: null
+priceChange: -0.00184000
+lastPrice: 0.02510000
+prevClosePrice: 0.02694000
+volume: 204457734.40000000
+count: 27525
+----------------------------------
+Symbol: null
+priceChange: -0.00056000
+lastPrice: 0.01082000
+prevClosePrice: 0.01137000
+volume: 1106712.60000000
+count: 4704
+----------------------------------
+Symbol: null
+priceChange: -0.00000195
+lastPrice: 0.00001122
+prevClosePrice: 0.00001316
+volume: 21953973.00000000
+count: 44494
+----------------------------------
+Symbol: null
+priceChange: -0.03640000
+lastPrice: 0.46330000
+prevClosePrice: 0.49920000
+volume: 61498106.02000000
+count: 117044
+----------------------------------
+Symbol: null
+priceChange: -0.03900000
+lastPrice: 0.46000000
+prevClosePrice: 0.49870000
+volume: 191409.93000000
+count: 252
+----------------------------------
+Symbol: null
+priceChange: 0.00019000
+lastPrice: 0.01006000
+prevClosePrice: 0.00990000
+volume: 43222781.20000000
+count: 4091
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000024
+prevClosePrice: 0.00000028
+volume: 745776166.00000000
+count: 12107
+----------------------------------
+Symbol: null
+priceChange: -0.00071540
+lastPrice: 0.00954760
+prevClosePrice: 0.01026980
+volume: 3083097681.00000000
+count: 96289
+----------------------------------
+Symbol: null
+priceChange: -0.00000007
+lastPrice: 0.00000140
+prevClosePrice: 0.00000146
+volume: 8507659.00000000
+count: 4840
+----------------------------------
+Symbol: null
+priceChange: 0.00220000
+lastPrice: 0.05790000
+prevClosePrice: 0.05570000
+volume: 19974554.88000000
+count: 11836
+----------------------------------
+Symbol: null
+priceChange: -0.00000310
+lastPrice: 0.00020350
+prevClosePrice: 0.00020810
+volume: 9671870.00000000
+count: 836
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000021
+prevClosePrice: 0.00000024
+volume: 118006348.00000000
+count: 2455
+----------------------------------
+Symbol: null
+priceChange: -0.00040200
+lastPrice: 0.00870000
+prevClosePrice: 0.00909400
+volume: 342408485.00000000
+count: 22942
+----------------------------------
+Symbol: null
+priceChange: 0.00000003
+lastPrice: 0.00000180
+prevClosePrice: 0.00000177
+volume: 2493465238.00000000
+count: 6138
+----------------------------------
+Symbol: null
+priceChange: -0.00000080
+lastPrice: 0.00007683
+prevClosePrice: 0.00007763
+volume: 11655849650.00000000
+count: 16212
+----------------------------------
+Symbol: null
+priceChange: -0.00000150
+lastPrice: 0.00007660
+prevClosePrice: 0.00007770
+volume: 433589889.00000000
+count: 1318
+----------------------------------
+Symbol: null
+priceChange: -0.00001200
+lastPrice: 0.00018100
+prevClosePrice: 0.00019300
+volume: 6140527.00000000
+count: 2110
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000019
+prevClosePrice: 0.00000023
+volume: 27649249.00000000
+count: 1641
+----------------------------------
+Symbol: null
+priceChange: -0.00067000
+lastPrice: 0.00783000
+prevClosePrice: 0.00850000
+volume: 53753842.50000000
+count: 5990
+----------------------------------
+Symbol: null
+priceChange: -0.00000140
+lastPrice: 0.00019250
+prevClosePrice: 0.00019340
+volume: 3308790607.00000000
+count: 7193
+----------------------------------
+Symbol: null
+priceChange: 0.00000120
+lastPrice: 0.00000740
+prevClosePrice: 0.00000620
+volume: 687041288.00000000
+count: 1675
+----------------------------------
+Symbol: null
+priceChange: 0.00004500
+lastPrice: 0.00031500
+prevClosePrice: 0.00026900
+volume: 4254467575.00000000
+count: 7640
+----------------------------------
+Symbol: null
+priceChange: -0.00230000
+lastPrice: 0.42770000
+prevClosePrice: 0.42970000
+volume: 3005825.47000000
+count: 11223
+----------------------------------
+Symbol: null
+priceChange: -0.00092000
+lastPrice: 0.02162000
+prevClosePrice: 0.02244000
+volume: 102782.80000000
+count: 956
+----------------------------------
+Symbol: null
+priceChange: -0.00000356
+lastPrice: 0.00002232
+prevClosePrice: 0.00002588
+volume: 2365384.00000000
+count: 8457
+----------------------------------
+Symbol: null
+priceChange: -0.06160000
+lastPrice: 0.92130000
+prevClosePrice: 0.98250000
+volume: 6812699.97000000
+count: 30516
+----------------------------------
+Symbol: null
+priceChange: 0.00002100
+lastPrice: 0.00067200
+prevClosePrice: 0.00065200
+volume: 1835604.00000000
+count: 1833
+----------------------------------
+Symbol: null
+priceChange: -0.00000006
+lastPrice: 0.00000069
+prevClosePrice: 0.00000076
+volume: 14768086.00000000
+count: 2469
+----------------------------------
+Symbol: null
+priceChange: 0.00018000
+lastPrice: 0.02881000
+prevClosePrice: 0.02860000
+volume: 36655849.60000000
+count: 11344
+----------------------------------
+Symbol: null
+priceChange: 0.00000640
+lastPrice: 0.00024560
+prevClosePrice: 0.00023920
+volume: 1466507177.00000000
+count: 6226
+----------------------------------
+Symbol: null
+priceChange: -0.00002700
+lastPrice: 0.00257300
+prevClosePrice: 0.00260100
+volume: 260027466.00000000
+count: 7206
+----------------------------------
+Symbol: null
+priceChange: -0.00009100
+lastPrice: 0.00228000
+prevClosePrice: 0.00237100
+volume: 369217829.00000000
+count: 10058
+----------------------------------
+Symbol: null
+priceChange: -0.00188300
+lastPrice: 0.01860700
+prevClosePrice: 0.02049200
+volume: 43358607.00000000
+count: 8572
+----------------------------------
+Symbol: null
+priceChange: -0.01490000
+lastPrice: 0.35370000
+prevClosePrice: 0.36740000
+volume: 5361685.31000000
+count: 15239
+----------------------------------
+Symbol: null
+priceChange: 0.00024600
+lastPrice: 0.01255200
+prevClosePrice: 0.01232300
+volume: 305384146.00000000
+count: 22191
+----------------------------------
+Symbol: null
+priceChange: 0.02720000
+lastPrice: 0.17459000
+prevClosePrice: 0.14799000
+volume: 328600039.10000000
+count: 207689
+----------------------------------
+Symbol: null
+priceChange: 0.00009000
+lastPrice: 0.01067000
+prevClosePrice: 0.01057000
+volume: 2192735685.00000000
+count: 6109
+----------------------------------
+Symbol: null
+priceChange: 0.00012000
+lastPrice: 0.00250000
+prevClosePrice: 0.00237000
+volume: 5031793896.40000000
+count: 9327
+----------------------------------
+Symbol: null
+priceChange: -0.00002000
+lastPrice: 0.00045720
+prevClosePrice: 0.00047510
+volume: 16825684.00000000
+count: 2711
+----------------------------------
+Symbol: null
+priceChange: -0.00000009
+lastPrice: 0.00000047
+prevClosePrice: 0.00000055
+volume: 186528011.00000000
+count: 7024
+----------------------------------
+Symbol: null
+priceChange: -0.00150200
+lastPrice: 0.01944500
+prevClosePrice: 0.02097100
+volume: 423265108.00000000
+count: 40317
+----------------------------------
+Symbol: null
+priceChange: 0.02079000
+lastPrice: 0.22604000
+prevClosePrice: 0.20780000
+volume: 28633.90000000
+count: 2330
+----------------------------------
+Symbol: null
+priceChange: -0.00000890
+lastPrice: 0.00023121
+prevClosePrice: 0.00024010
+volume: 888147.50000000
+count: 25712
+----------------------------------
+Symbol: null
+priceChange: 0.44590000
+lastPrice: 9.55170000
+prevClosePrice: 9.10330000
+volume: 3067236.98000000
+count: 91229
+----------------------------------
+Symbol: null
+priceChange: -1.20000000
+lastPrice: 42.72520000
+prevClosePrice: 43.93290000
+volume: 882812.76000000
+count: 114043
+----------------------------------
+Symbol: null
+priceChange: 3389.12000000
+lastPrice: 41368.67000000
+prevClosePrice: 37982.20000000
+volume: 31100.18041700
+count: 852992
+----------------------------------
+Symbol: null
+priceChange: -0.00010000
+lastPrice: 0.99870000
+prevClosePrice: 0.99870000
+volume: 570683191.64000000
+count: 522190
+----------------------------------
+Symbol: null
+priceChange: -0.00000120
+lastPrice: 0.00000770
+prevClosePrice: 0.00000900
+volume: 1202408.07000000
+count: 3170
+----------------------------------
+Symbol: null
+priceChange: -0.02280000
+lastPrice: 0.31760000
+prevClosePrice: 0.34000000
+volume: 2961326.99000000
+count: 9038
+----------------------------------
+Symbol: null
+priceChange: -0.00347000
+lastPrice: 0.05809000
+prevClosePrice: 0.06150000
+volume: 73292.50000000
+count: 2557
+----------------------------------
+Symbol: null
+priceChange: -0.00001100
+lastPrice: 0.00006020
+prevClosePrice: 0.00007120
+volume: 4814227.80000000
+count: 27353
+----------------------------------
+Symbol: null
+priceChange: -0.21290000
+lastPrice: 2.48690000
+prevClosePrice: 2.69980000
+volume: 12629317.56000000
+count: 132114
+----------------------------------
+Symbol: null
+priceChange: -0.02563000
+lastPrice: 0.38679000
+prevClosePrice: 0.41186000
+volume: 39295603.70000000
+count: 62398
+----------------------------------
+Symbol: null
+priceChange: -0.00060000
+lastPrice: 0.01544000
+prevClosePrice: 0.01602000
+volume: 152185591.10000000
+count: 15064
+----------------------------------
+Symbol: null
+priceChange: 0.00034200
+lastPrice: 0.00123000
+prevClosePrice: 0.00088800
+volume: 18983030.00000000
+count: 5311
+----------------------------------
+Symbol: null
+priceChange: 0.00000024
+lastPrice: 0.00000127
+prevClosePrice: 0.00000102
+volume: 306333406.00000000
+count: 40538
+----------------------------------
+Symbol: null
+priceChange: 0.01373000
+lastPrice: 0.05272000
+prevClosePrice: 0.03895000
+volume: 709191507.40000000
+count: 134402
+----------------------------------
+Symbol: null
+priceChange: -0.00000005
+lastPrice: 0.00000052
+prevClosePrice: 0.00000057
+volume: 8519020.00000000
+count: 1518
+----------------------------------
+Symbol: null
+priceChange: -0.00008000
+lastPrice: 0.02159000
+prevClosePrice: 0.02169000
+volume: 11720448.90000000
+count: 3744
+----------------------------------
+Symbol: null
+priceChange: -0.01621000
+lastPrice: 0.31961000
+prevClosePrice: 0.33604000
+volume: 223289030.10000000
+count: 233782
+----------------------------------
+Symbol: null
+priceChange: 26.48000000
+lastPrice: 1252.83000000
+prevClosePrice: 1226.64000000
+volume: 603746.41223000
+count: 800347
+----------------------------------
+Symbol: null
+priceChange: 4.82000000
+lastPrice: 172.19000000
+prevClosePrice: 167.35000000
+volume: 231247.18473000
+count: 120538
+----------------------------------
+Symbol: null
+priceChange: -0.82160000
+lastPrice: 15.81020000
+prevClosePrice: 16.63650000
+volume: 1013124.79000000
+count: 56868
+----------------------------------
+Symbol: null
+priceChange: -0.47970000
+lastPrice: 7.01480000
+prevClosePrice: 7.50000000
+volume: 207288.30000000
+count: 11633
+----------------------------------
+Symbol: null
+priceChange: -0.00002000
+lastPrice: 0.01228000
+prevClosePrice: 0.01223000
+volume: 808243.20000000
+count: 1781
+----------------------------------
+Symbol: null
+priceChange: -0.00000155
+lastPrice: 0.00001262
+prevClosePrice: 0.00001417
+volume: 7465147.00000000
+count: 11400
+----------------------------------
+Symbol: null
+priceChange: -0.01660000
+lastPrice: 0.52150000
+prevClosePrice: 0.53800000
+volume: 11067029.03000000
+count: 20983
+----------------------------------
+Symbol: null
+priceChange: -0.00176000
+lastPrice: 0.03870000
+prevClosePrice: 0.04030000
+volume: 64348.50000000
+count: 994
+----------------------------------
+Symbol: null
+priceChange: -0.00000722
+lastPrice: 0.00003967
+prevClosePrice: 0.00004692
+volume: 1365333.00000000
+count: 8563
+----------------------------------
+Symbol: null
+priceChange: -0.13310000
+lastPrice: 1.64380000
+prevClosePrice: 1.77750000
+volume: 7519741.12000000
+count: 67281
+----------------------------------
+Symbol: null
+priceChange: 5.42000000
+lastPrice: 484.06000000
+prevClosePrice: 478.64000000
+volume: 2023362.52000000
+count: 10243
+----------------------------------
+Symbol: null
+priceChange: -348.00000000
+lastPrice: 20738.00000000
+prevClosePrice: 21086.00000000
+volume: 5472.70900000
+count: 2454
+----------------------------------
+Symbol: null
+priceChange: 1833608.00000000
+lastPrice: 20000000.00000000
+prevClosePrice: 18162685.00000000
+volume: 846.31496900
+count: 73198
+----------------------------------
+Symbol: null
+priceChange: -0.00002800
+lastPrice: 0.00053400
+prevClosePrice: 0.00056300
+volume: 2791793.00000000
+count: 3403
+----------------------------------
+Symbol: null
+priceChange: -0.00000010
+lastPrice: 0.00000055
+prevClosePrice: 0.00000066
+volume: 30838413.00000000
+count: 3254
+----------------------------------
+Symbol: null
+priceChange: -0.00199000
+lastPrice: 0.02276000
+prevClosePrice: 0.02474000
+volume: 203516981.70000000
+count: 16457
+----------------------------------
+Symbol: null
+priceChange: -0.00214000
+lastPrice: 0.03079000
+prevClosePrice: 0.03291000
+volume: 111839477.80000000
+count: 20659
+----------------------------------
+Symbol: null
+priceChange: -0.18460000
+lastPrice: 3.15370000
+prevClosePrice: 3.34000000
+volume: 4472839.01000000
+count: 69269
+----------------------------------
+Symbol: null
+priceChange: -0.00030100
+lastPrice: 0.00715100
+prevClosePrice: 0.00744800
+volume: 84696439.00000000
+count: 7267
+----------------------------------
+Symbol: null
+priceChange: -0.00370000
+lastPrice: 1.24230000
+prevClosePrice: 1.24580000
+volume: 5674127.96000000
+count: 42382
+----------------------------------
+Symbol: null
+priceChange: -0.02553000
+lastPrice: 0.30411000
+prevClosePrice: 0.32938000
+volume: 63461609.00000000
+count: 106105
+----------------------------------
+Symbol: null
+priceChange: -0.01197000
+lastPrice: 0.30507000
+prevClosePrice: 0.31697000
+volume: 77908175.70000000
+count: 90001
+----------------------------------
+Symbol: null
+priceChange: 0.00000042
+lastPrice: 0.00000276
+prevClosePrice: 0.00000234
+volume: 33856672.00000000
+count: 18263
+----------------------------------
+Symbol: null
+priceChange: 0.02410000
+lastPrice: 0.11290000
+prevClosePrice: 0.08890000
+volume: 48642945.44000000
+count: 38815
+----------------------------------
+Symbol: null
+priceChange: 0.14100000
+lastPrice: 10.40100000
+prevClosePrice: 10.26000000
+volume: 3417.93700000
+count: 5264
+----------------------------------
+Symbol: null
+priceChange: -0.00113200
+lastPrice: 0.01073300
+prevClosePrice: 0.01186800
+volume: 133034.47000000
+count: 90637
+----------------------------------
+Symbol: null
+priceChange: -6.69000000
+lastPrice: 443.39000000
+prevClosePrice: 450.04000000
+volume: 504444.04970000
+count: 286095
+----------------------------------
+Symbol: null
+priceChange: -8.10000000
+lastPrice: 443.47000000
+prevClosePrice: 450.57000000
+volume: 6308.71120000
+count: 3999
+----------------------------------
+Symbol: null
+priceChange: -8.87000000
+lastPrice: 444.18000000
+prevClosePrice: 450.20000000
+volume: 546.08017000
+count: 389
+----------------------------------
+Symbol: null
+priceChange: -9.00000000
+lastPrice: 443.00000000
+prevClosePrice: 449.00000000
+volume: 266.50641000
+count: 488
+----------------------------------
+Symbol: null
+priceChange: -6.76000000
+lastPrice: 443.86000000
+prevClosePrice: 450.65000000
+volume: 25524.84811000
+count: 46742
+----------------------------------
+Symbol: null
+priceChange: 253978.00000000
+lastPrice: 2997993.00000000
+prevClosePrice: 2745875.00000000
+volume: 111.00564100
+count: 26786
+----------------------------------
+Symbol: null
+priceChange: 2224.40000000
+lastPrice: 90711.00000000
+prevClosePrice: 88488.20000000
+volume: 1163.90679000
+count: 10609
+----------------------------------
+Symbol: null
+priceChange: -1.14300000
+lastPrice: 23.20700000
+prevClosePrice: 24.43700000
+volume: 1910247.70000000
+count: 7742
+----------------------------------
+Symbol: null
+priceChange: -90.25000000
+lastPrice: 3096.45000000
+prevClosePrice: 3174.00000000
+volume: 3868.50000000
+count: 3401
+----------------------------------
+Symbol: null
+priceChange: 0.00000890
+lastPrice: 0.00007790
+prevClosePrice: 0.00006890
+volume: 11992333.00000000
+count: 1586
+----------------------------------
+Symbol: null
+priceChange: 0.00000002
+lastPrice: 0.00000009
+prevClosePrice: 0.00000008
+volume: 80674212.00000000
+count: 597
+----------------------------------
+Symbol: null
+priceChange: 0.00029970
+lastPrice: 0.00330000
+prevClosePrice: 0.00300040
+volume: 233781400.00000000
+count: 6764
+----------------------------------
+Symbol: null
+priceChange: 0.30000000
+lastPrice: 72.50000000
+prevClosePrice: 72.46100000
+volume: 177312.80000000
+count: 1586
+----------------------------------
+Symbol: null
+priceChange: -0.18600000
+lastPrice: 2.87200000
+prevClosePrice: 3.05800000
+volume: 118050.21600000
+count: 2772
+----------------------------------
+Symbol: null
+priceChange: -0.00157800
+lastPrice: 0.02801600
+prevClosePrice: 0.02958300
+volume: 173408100.00000000
+count: 16667
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000038
+prevClosePrice: 0.00000040
+volume: 7265055.00000000
+count: 941
+----------------------------------
+Symbol: null
+priceChange: 0.00084000
+lastPrice: 0.01573000
+prevClosePrice: 0.01491000
+volume: 12029889.90000000
+count: 2338
+----------------------------------
+Symbol: null
+priceChange: 0.00510000
+lastPrice: 0.22590000
+prevClosePrice: 0.21890000
+volume: 15023.38000000
+count: 618
+----------------------------------
+Symbol: null
+priceChange: -0.00002070
+lastPrice: 0.00023260
+prevClosePrice: 0.00025310
+volume: 179236.02000000
+count: 5223
+----------------------------------
+Symbol: null
+priceChange: -0.00700000
+lastPrice: 9.60900000
+prevClosePrice: 9.60700000
+volume: 589873.60100000
+count: 16143
+----------------------------------
+Symbol: null
+priceChange: 30699.00000000
+lastPrice: 311999.00000000
+prevClosePrice: 281301.00000000
+volume: 746.07149400
+count: 74440
+----------------------------------
+Symbol: null
+priceChange: -3.04000000
+lastPrice: 322.47000000
+prevClosePrice: 325.51000000
+volume: 19068.16000000
+count: 6712
+----------------------------------
+Symbol: null
+priceChange: 0.11300000
+lastPrice: 7.52500000
+prevClosePrice: 7.39900000
+volume: 4593920.14000000
+count: 7911
+----------------------------------
+Symbol: null
+priceChange: 315.88000000
+lastPrice: 9445.88000000
+prevClosePrice: 9130.00000000
+volume: 8726.31278000
+count: 26754
+----------------------------------
+Symbol: null
+priceChange: -0.08800000
+lastPrice: 2.40600000
+prevClosePrice: 2.49700000
+volume: 9196420.05000000
+count: 20980
+----------------------------------
+Symbol: null
+priceChange: 0.13500000
+lastPrice: 7.55300000
+prevClosePrice: 7.41800000
+volume: 18292423.07000000
+count: 38569
+----------------------------------
+Symbol: null
+priceChange: 0.12700000
+lastPrice: 72.52700000
+prevClosePrice: 72.40000000
+volume: 1563579.80000000
+count: 13871
+----------------------------------
+Symbol: null
+priceChange: 2853.30000000
+lastPrice: 33815.55000000
+prevClosePrice: 30952.00000000
+volume: 7939.38051600
+count: 411771
+----------------------------------
+Symbol: null
+priceChange: 24.79000000
+lastPrice: 1024.25000000
+prevClosePrice: 999.45000000
+volume: 91246.51706000
+count: 155924
+----------------------------------
+Symbol: null
+priceChange: -0.88190000
+lastPrice: 34.91810000
+prevClosePrice: 35.82020000
+volume: 121420.74600000
+count: 29916
+----------------------------------
+Symbol: null
+priceChange: -0.01250000
+lastPrice: 0.26119000
+prevClosePrice: 0.27374000
+volume: 64417028.80000000
+count: 109014
+----------------------------------
+Symbol: null
+priceChange: -0.00360000
+lastPrice: 1.22350000
+prevClosePrice: 1.22710000
+volume: 17016951.22000000
+count: 68442
+----------------------------------
+Symbol: null
+priceChange: -0.00380000
+lastPrice: 1.22180000
+prevClosePrice: 1.22570000
+volume: 66626320.24000000
+count: 188259
+----------------------------------
+Symbol: null
+priceChange: -0.00012000
+lastPrice: 0.00371000
+prevClosePrice: 0.00383000
+volume: 3666589.90000000
+count: 11143
+----------------------------------
+Symbol: null
+priceChange: -0.00000058
+lastPrice: 0.00000384
+prevClosePrice: 0.00000440
+volume: 9522646.00000000
+count: 8596
+----------------------------------
+Symbol: null
+priceChange: -0.00910000
+lastPrice: 0.15870000
+prevClosePrice: 0.16750000
+volume: 29540851.57000000
+count: 37152
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000012
+prevClosePrice: 0.00000013
+volume: 83672714.00000000
+count: 789
+----------------------------------
+Symbol: null
+priceChange: -0.00044500
+lastPrice: 0.00472800
+prevClosePrice: 0.00517300
+volume: 45994890.00000000
+count: 3053
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000023
+prevClosePrice: 0.00000025
+volume: 35705570.00000000
+count: 1144
+----------------------------------
+Symbol: null
+priceChange: -0.00059600
+lastPrice: 0.00915800
+prevClosePrice: 0.00975500
+volume: 38355391.00000000
+count: 4004
+----------------------------------
+Symbol: null
+priceChange: 0.00007700
+lastPrice: 0.00192300
+prevClosePrice: 0.00182000
+volume: 163588.00000000
+count: 254
+----------------------------------
+Symbol: null
+priceChange: -0.00000013
+lastPrice: 0.00000200
+prevClosePrice: 0.00000213
+volume: 6851682.00000000
+count: 5603
+----------------------------------
+Symbol: null
+priceChange: 0.00151000
+lastPrice: 0.08241000
+prevClosePrice: 0.08080000
+volume: 15883056.60000000
+count: 13000
+----------------------------------
+Symbol: null
+priceChange: 0.00950000
+lastPrice: 0.60950000
+prevClosePrice: 0.60260000
+volume: 1740761.63000000
+count: 8167
+----------------------------------
+Symbol: null
+priceChange: 0.00042000
+lastPrice: 0.02890000
+prevClosePrice: 0.02847000
+volume: 67835424.50000000
+count: 15128
+----------------------------------
+Symbol: null
+priceChange: -0.10950000
+lastPrice: 1.30470000
+prevClosePrice: 1.41430000
+volume: 1254820.90000000
+count: 13267
+----------------------------------
+Symbol: null
+priceChange: -0.03360000
+lastPrice: 1.59830000
+prevClosePrice: 1.63450000
+volume: 1652645.48000000
+count: 15164
+----------------------------------
+Symbol: null
+priceChange: -0.03550000
+lastPrice: 1.59870000
+prevClosePrice: 1.63430000
+volume: 57505.42000000
+count: 1574
+----------------------------------
+Symbol: null
+priceChange: 0.00000027
+lastPrice: 0.00000519
+prevClosePrice: 0.00000492
+volume: 34252618.00000000
+count: 18062
+----------------------------------
+Symbol: null
+priceChange: 0.02782000
+lastPrice: 0.21450000
+prevClosePrice: 0.18666000
+volume: 16692011.40000000
+count: 20814
+----------------------------------
+Symbol: null
+priceChange: -0.58700000
+lastPrice: 6.20100000
+prevClosePrice: 6.80600000
+volume: 159098.73500000
+count: 6424
+----------------------------------
+Symbol: null
+priceChange: -8.47000000
+lastPrice: 97.69000000
+prevClosePrice: 106.08000000
+volume: 11001.08540000
+count: 5408
+----------------------------------
+Symbol: null
+priceChange: 0.61800000
+lastPrice: 20.97900000
+prevClosePrice: 20.40100000
+volume: 147927.83700000
+count: 16898
+----------------------------------
+Symbol: null
+priceChange: -0.77940000
+lastPrice: 5.66770000
+prevClosePrice: 6.46250000
+volume: 161808.41000000
+count: 5325
+----------------------------------
+Symbol: null
+priceChange: -0.21240000
+lastPrice: 2.48920000
+prevClosePrice: 2.70740000
+volume: 1201198.29000000
+count: 17420
+----------------------------------
+Symbol: null
+priceChange: -0.01170000
+lastPrice: 0.25700000
+prevClosePrice: 0.26880000
+volume: 2026381.15000000
+count: 6778
+----------------------------------
+Symbol: null
+priceChange: 0.05533000
+lastPrice: 0.22888000
+prevClosePrice: 0.17400000
+volume: 17137171.20000000
+count: 16251
+----------------------------------
+Symbol: null
+priceChange: 0.43730000
+lastPrice: 4.21150000
+prevClosePrice: 3.77420000
+volume: 2677957.78000000
+count: 43861
+----------------------------------
+Symbol: null
+priceChange: -0.04480000
+lastPrice: 0.54790000
+prevClosePrice: 0.59270000
+volume: 2042185.77000000
+count: 3339
+----------------------------------
+Symbol: null
+priceChange: -0.00059000
+lastPrice: 0.01547000
+prevClosePrice: 0.01605000
+volume: 8834537.90000000
+count: 2118
+----------------------------------
+Symbol: null
+priceChange: -0.00320000
+lastPrice: 0.07810000
+prevClosePrice: 0.08130000
+volume: 27997633.52000000
+count: 17025
+----------------------------------
+Symbol: null
+priceChange: -0.00000020
+lastPrice: 0.00003460
+prevClosePrice: 0.00003480
+volume: 10827691.00000000
+count: 389
+----------------------------------
+Symbol: null
+priceChange: 0.00000000
+lastPrice: 0.00000004
+prevClosePrice: 0.00000005
+volume: 84670609.00000000
+count: 564
+----------------------------------
+Symbol: null
+priceChange: -0.00004600
+lastPrice: 0.00148400
+prevClosePrice: 0.00153100
+volume: 367544018.00000000
+count: 4938
+----------------------------------
+Symbol: null
+priceChange: 0.00012000
+lastPrice: 0.00136700
+prevClosePrice: 0.00124500
+volume: 5333925.00000000
+count: 7880
+----------------------------------
+Symbol: null
+priceChange: -0.00000002
+lastPrice: 0.00000141
+prevClosePrice: 0.00000145
+volume: 94978698.00000000
+count: 18668
+----------------------------------
+Symbol: null
+priceChange: 0.00386000
+lastPrice: 0.05848000
+prevClosePrice: 0.05462000
+volume: 159438776.10000000
+count: 48135
+----------------------------------
+Symbol: null
+priceChange: -0.03630000
+lastPrice: 0.46390000
+prevClosePrice: 0.49960000
+volume: 5027671.24000000
+count: 13324
+----------------------------------
+Symbol: null
+priceChange: -0.00001900
+lastPrice: 0.00032800
+prevClosePrice: 0.00034800
+volume: 362763988.00000000
+count: 3003
+----------------------------------
+Symbol: null
+priceChange: -0.06590000
+lastPrice: 0.92410000
+prevClosePrice: 0.98290000
+volume: 192305.97000000
+count: 1586
+----------------------------------
+Symbol: null
+priceChange: -6.46000000
+lastPrice: 144.74000000
+prevClosePrice: 151.20000000
+volume: 8190.19577000
+count: 5068
+----------------------------------
+Symbol: null
+priceChange: -6.08000000
+lastPrice: 68.00000000
+prevClosePrice: 74.00000000
+volume: 17848.57569000
+count: 7648
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000042
+prevClosePrice: 0.00000045
+volume: 6314797.00000000
+count: 1116
+----------------------------------
+Symbol: null
+priceChange: 0.00036000
+lastPrice: 0.01741000
+prevClosePrice: 0.01705000
+volume: 18504103.80000000
+count: 3583
+----------------------------------
+Symbol: null
+priceChange: 47602.00000000
+lastPrice: 647786.00000000
+prevClosePrice: 601373.00000000
+volume: 33.19228400
+count: 8759
+----------------------------------
+Symbol: null
+priceChange: 152.80000000
+lastPrice: 19528.20000000
+prevClosePrice: 19114.40000000
+volume: 309.07470000
+count: 743
+----------------------------------
+Symbol: null
+priceChange: -25.56000000
+lastPrice: 666.94000000
+prevClosePrice: 689.66000000
+volume: 767.30000000
+count: 303
+----------------------------------
+Symbol: null
+priceChange: -0.15400000
+lastPrice: 15.67300000
+prevClosePrice: 15.81600000
+volume: 292663.20000000
+count: 2004
+----------------------------------
+Symbol: null
+priceChange: -0.13500000
+lastPrice: 15.64700000
+prevClosePrice: 15.78200000
+volume: 229932.30000000
+count: 1534
+----------------------------------
+Symbol: null
+priceChange: 3973331.00000000
+lastPrice: 47247821.00000000
+prevClosePrice: 42671636.00000000
+volume: 1.07309500
+count: 613
+----------------------------------
+Symbol: null
+priceChange: 33984.00000000
+lastPrice: 1413984.00000000
+prevClosePrice: 1373081.00000000
+volume: 13.02981000
+count: 152
+----------------------------------
+Symbol: null
+priceChange: -540.00000000
+lastPrice: 48656.00000000
+prevClosePrice: 49098.00000000
+volume: 215.24600000
+count: 124
+----------------------------------
+Symbol: null
+priceChange: -0.03610000
+lastPrice: 0.32580000
+prevClosePrice: 0.36090000
+volume: 3076484.22000000
+count: 13108
+----------------------------------
+Symbol: null
+priceChange: 0.00132000
+lastPrice: 0.04848000
+prevClosePrice: 0.04729000
+volume: 1255150.50000000
+count: 682
+----------------------------------
+Symbol: null
+priceChange: 0.00110000
+lastPrice: 0.04831000
+prevClosePrice: 0.04721000
+volume: 33684061.40000000
+count: 15874
+----------------------------------
+Symbol: null
+priceChange: 0.33600000
+lastPrice: 3.61700000
+prevClosePrice: 3.29700000
+volume: 667308.42500000
+count: 16925
+----------------------------------
+Symbol: null
+priceChange: 0.02693000
+lastPrice: 0.08502000
+prevClosePrice: 0.05781000
+volume: 733708.10000000
+count: 19440
+----------------------------------
+Symbol: null
+priceChange: 0.00002129
+lastPrice: 0.00008821
+prevClosePrice: 0.00006688
+volume: 8013879.00000000
+count: 48078
+----------------------------------
+Symbol: null
+priceChange: 1.10180000
+lastPrice: 3.64580000
+prevClosePrice: 2.53870000
+volume: 34767555.69000000
+count: 268306
+----------------------------------
+Symbol: null
+priceChange: 1.10140000
+lastPrice: 3.64600000
+prevClosePrice: 2.54460000
+volume: 2553443.59000000
+count: 29835
+----------------------------------
+Symbol: null
+priceChange: 46999986.00
+lastPrice: 579415567.00
+prevClosePrice: 534415153.00
+volume: 15.31298100
+count: 5220
+----------------------------------
+Symbol: null
+priceChange: -12979.00
+lastPrice: 601004.00
+prevClosePrice: 613857.00
+volume: 5245.36500000
+count: 3460
+----------------------------------
+Symbol: null
+priceChange: 124.00
+lastPrice: 14131.00
+prevClosePrice: 13979.00
+volume: 370126.12000000
+count: 3634
+----------------------------------
+Symbol: null
+priceChange: 132.00
+lastPrice: 14102.00
+prevClosePrice: 14038.00
+volume: 58420.23000000
+count: 667
+----------------------------------
+Symbol: null
+priceChange: -0.00000006
+lastPrice: 0.00000117
+prevClosePrice: 0.00000124
+volume: 10823660.00000000
+count: 3761
+----------------------------------
+Symbol: null
+priceChange: 0.00178000
+lastPrice: 0.04868000
+prevClosePrice: 0.04690000
+volume: 27310904.80000000
+count: 11834
+----------------------------------
+Symbol: null
+priceChange: 0.00006700
+lastPrice: 0.00113800
+prevClosePrice: 0.00107200
+volume: 3939290.00000000
+count: 7124
+----------------------------------
+Symbol: null
+priceChange: 0.00157000
+lastPrice: 0.04861000
+prevClosePrice: 0.04701000
+volume: 9110175.20000000
+count: 8555
+----------------------------------
+Symbol: null
+priceChange: -0.00000038
+lastPrice: 0.00000291
+prevClosePrice: 0.00000328
+volume: 1574056.00000000
+count: 3220
+----------------------------------
+Symbol: null
+priceChange: -0.00490000
+lastPrice: 0.11980000
+prevClosePrice: 0.12470000
+volume: 4228296.71000000
+count: 5664
+----------------------------------
+Symbol: null
+priceChange: -0.00001200
+lastPrice: 0.00058000
+prevClosePrice: 0.00059400
+volume: 3047180.00000000
+count: 911
+----------------------------------
+Symbol: null
+priceChange: -0.00000008
+lastPrice: 0.00000061
+prevClosePrice: 0.00000069
+volume: 27182175.00000000
+count: 3188
+----------------------------------
+Symbol: null
+priceChange: -0.00122000
+lastPrice: 0.02470000
+prevClosePrice: 0.02583000
+volume: 51713056.90000000
+count: 11524
+----------------------------------
+Symbol: null
+priceChange: 17.41400000
+lastPrice: 120.84400000
+prevClosePrice: 103.43000000
+volume: 416867.84000000
+count: 52376
+----------------------------------
+Symbol: null
+priceChange: -0.04900000
+lastPrice: 0.18400000
+prevClosePrice: 0.23200000
+volume: 123456297.33000000
+count: 38692
+----------------------------------
+Symbol: null
+priceChange: -0.01960000
+lastPrice: 0.31880000
+prevClosePrice: 0.33780000
+volume: 438124.49000000
+count: 2812
+----------------------------------
+Symbol: null
+priceChange: -0.00696000
+lastPrice: 0.08213000
+prevClosePrice: 0.08909000
+volume: 7168087.80000000
+count: 6732
+----------------------------------
+Symbol: null
+priceChange: 0.01375000
+lastPrice: 0.05276000
+prevClosePrice: 0.03901000
+volume: 55744363.20000000
+count: 23519
+----------------------------------
+Symbol: null
+priceChange: -0.00354000
+lastPrice: 0.03208000
+prevClosePrice: 0.03538000
+volume: 32859929.30000000
+count: 4769
+----------------------------------
+Symbol: null
+priceChange: 0.00120000
+lastPrice: 0.08234000
+prevClosePrice: 0.08122000
+volume: 1767395.60000000
+count: 1563
+----------------------------------
+Symbol: null
+priceChange: -0.00926000
+lastPrice: 0.07367000
+prevClosePrice: 0.08277000
+volume: 31784115.40000000
+count: 8798
+----------------------------------
+Symbol: null
+priceChange: -0.00000017
+lastPrice: 0.00000054
+prevClosePrice: 0.00000072
+volume: 31431826.00000000
+count: 2557
+----------------------------------
+Symbol: null
+priceChange: -0.00495000
+lastPrice: 0.02225000
+prevClosePrice: 0.02720000
+volume: 34321180.60000000
+count: 6902
+----------------------------------
+Symbol: null
+priceChange: -0.00000200
+lastPrice: 0.00005890
+prevClosePrice: 0.00006090
+volume: 5102387.00000000
+count: 384
+----------------------------------
+Symbol: null
+priceChange: 0.00000001
+lastPrice: 0.00000007
+prevClosePrice: 0.00000007
+volume: 54726974.00000000
+count: 497
+----------------------------------
+Symbol: null
+priceChange: -0.00000012
+lastPrice: 0.00000205
+prevClosePrice: 0.00000217
+volume: 44692111.00000000
+count: 3496
+----------------------------------
+Symbol: null
+priceChange: -0.00008600
+lastPrice: 0.00255500
+prevClosePrice: 0.00264300
+volume: 215204154.00000000
+count: 10508
+----------------------------------
+Symbol: null
+priceChange: -0.03900000
+lastPrice: 1.12400000
+prevClosePrice: 1.16200000
+volume: 440593.93000000
+count: 5724
+----------------------------------
+Symbol: null
+priceChange: -0.04700000
+lastPrice: 1.12100000
+prevClosePrice: 1.16600000
+volume: 10049597.32100000
+count: 56153
+----------------------------------
+Symbol: null
+priceChange: -1.31900000
+lastPrice: 18.81900000
+prevClosePrice: 20.13100000
+volume: 108239.09600000
+count: 17589
+----------------------------------
+Symbol: null
+priceChange: -0.05561000
+lastPrice: 0.38087000
+prevClosePrice: 0.43946000
+volume: 1796881.00000000
+count: 2880
+----------------------------------
+Symbol: null
+priceChange: -0.05733000
+lastPrice: 0.37884000
+prevClosePrice: 0.43600000
+volume: 80625136.40000000
+count: 113476
+----------------------------------
+Symbol: null
+priceChange: -0.00000340
+lastPrice: 0.00008710
+prevClosePrice: 0.00009040
+volume: 67124096.00000000
+count: 3984
+----------------------------------
+Symbol: null
+priceChange: -0.00028000
+lastPrice: 0.00370400
+prevClosePrice: 0.00398000
+volume: 78464012.00000000
+count: 5832
+----------------------------------
+Symbol: null
+priceChange: -0.00000157
+lastPrice: 0.00000947
+prevClosePrice: 0.00001107
+volume: 1335692.00000000
+count: 4961
+----------------------------------
+Symbol: null
+priceChange: -0.03180000
+lastPrice: 0.39000000
+prevClosePrice: 0.42340000
+volume: 1921850.52000000
+count: 6350
+----------------------------------
+Symbol: null
+priceChange: 2494.60000000
+lastPrice: 30500.61000000
+prevClosePrice: 28004.11000000
+volume: 1621.55044600
+count: 100729
+----------------------------------
+Symbol: null
+priceChange: 19.12000000
+lastPrice: 923.27000000
+prevClosePrice: 904.15000000
+volume: 19700.13118000
+count: 34863
+----------------------------------
+Symbol: null
+priceChange: -0.01198000
+lastPrice: 0.23578000
+prevClosePrice: 0.24786000
+volume: 16617190.10000000
+count: 28303
+----------------------------------
+Symbol: null
+priceChange: -0.91300000
+lastPrice: 31.49800000
+prevClosePrice: 32.45400000
+volume: 30180.37900000
+count: 3971
+----------------------------------
+Symbol: null
+priceChange: 0.00070000
+lastPrice: 1.35700000
+prevClosePrice: 1.35630000
+volume: 5726703.69000000
+count: 16983
+----------------------------------
+Symbol: null
+priceChange: -0.00000500
+lastPrice: 0.00072700
+prevClosePrice: 0.00073200
+volume: 5189718.00000000
+count: 1177
+----------------------------------
+Symbol: null
+priceChange: -0.00000010
+lastPrice: 0.00000075
+prevClosePrice: 0.00000085
+volume: 115533775.00000000
+count: 10844
+----------------------------------
+Symbol: null
+priceChange: -0.00134000
+lastPrice: 0.03077000
+prevClosePrice: 0.03224000
+volume: 8219192.10000000
+count: 2049
+----------------------------------
+Symbol: null
+priceChange: 88253.00000000
+lastPrice: 1149199.00000000
+prevClosePrice: 1062191.00000000
+volume: 35.39023000
+count: 8906
+----------------------------------
+Symbol: null
+priceChange: -0.19700000
+lastPrice: 27.78900000
+prevClosePrice: 27.98600000
+volume: 368248.20000000
+count: 5750
+----------------------------------
+Symbol: null
+priceChange: -0.00041900
+lastPrice: 0.00424400
+prevClosePrice: 0.00467400
+volume: 23383.23900000
+count: 14547
+----------------------------------
+Symbol: null
+priceChange: 0.05400000
+lastPrice: 4.10700000
+prevClosePrice: 4.02400000
+volume: 271.70200000
+count: 713
+----------------------------------
+Symbol: null
+priceChange: -1.70000000
+lastPrice: 175.18000000
+prevClosePrice: 177.75000000
+volume: 4515.65969000
+count: 5231
+----------------------------------
+Symbol: null
+priceChange: -2.24000000
+lastPrice: 175.17000000
+prevClosePrice: 177.45000000
+volume: 91174.27285000
+count: 67148
+----------------------------------
+Symbol: null
+priceChange: 50771664.00
+lastPrice: 582585667.00
+prevClosePrice: 532667714.00
+volume: 26.83925900
+count: 3707
+----------------------------------
+Symbol: null
+priceChange: 350918.00
+lastPrice: 17518687.00
+prevClosePrice: 17158725.00
+volume: 250.64581000
+count: 1400
+----------------------------------
+Symbol: null
+priceChange: -13911.00
+lastPrice: 600149.00
+prevClosePrice: 613637.00
+volume: 945.46400000
+count: 555
+----------------------------------
+Symbol: null
+priceChange: 134.00
+lastPrice: 14114.00
+prevClosePrice: 14004.00
+volume: 186475.24000000
+count: 545
+----------------------------------
+Symbol: null
+priceChange: 121.00
+lastPrice: 14121.00
+prevClosePrice: 14024.00
+volume: 611952.53000000
+count: 2389
+----------------------------------
+Symbol: null
+priceChange: -0.00002700
+lastPrice: 0.00495800
+prevClosePrice: 0.00498500
+volume: 1026996671.00000000
+count: 32500
+----------------------------------
+Symbol: null
+priceChange: -0.93500000
+lastPrice: 14.61100000
+prevClosePrice: 15.50000000
+volume: 254668.24100000
+count: 24398
+----------------------------------
+Symbol: null
+priceChange: -0.00000069
+lastPrice: 0.00002214
+prevClosePrice: 0.00002284
+volume: 13754082.00000000
+count: 38474
+----------------------------------
+Symbol: null
+priceChange: 0.00169000
+lastPrice: 0.02142000
+prevClosePrice: 0.01973000
+volume: 895028.60000000
+count: 6959
+----------------------------------
+Symbol: null
+priceChange: 0.04620000
+lastPrice: 0.91490000
+prevClosePrice: 0.86910000
+volume: 5291796.15000000
+count: 46910
+----------------------------------
+Symbol: null
+priceChange: -0.00002200
+lastPrice: 0.00029700
+prevClosePrice: 0.00031900
+volume: 1030613.51000000
+count: 38769
+----------------------------------
+Symbol: null
+priceChange: 0.01150000
+lastPrice: 0.28830000
+prevClosePrice: 0.27560000
+volume: 22633.41000000
+count: 2170
+----------------------------------
+Symbol: null
+priceChange: 0.17100000
+lastPrice: 12.29500000
+prevClosePrice: 12.12300000
+volume: 180897.06600000
+count: 9290
+----------------------------------
+Symbol: null
+priceChange: 0.18100000
+lastPrice: 12.28300000
+prevClosePrice: 12.09200000
+volume: 2232038.35300000
+count: 92044
+----------------------------------
+Symbol: null
+priceChange: -0.25500000
+lastPrice: 124.71200000
+prevClosePrice: 124.54700000
+volume: 384604.93000000
+count: 51895
+----------------------------------
+Symbol: null
+priceChange: -0.00260000
+lastPrice: 0.03140000
+prevClosePrice: 0.03380000
+volume: 351460538.22000000
+count: 20744
+----------------------------------
+Symbol: null
+priceChange: -2.79200000
+lastPrice: 15.38600000
+prevClosePrice: 18.17800000
+volume: 604293.09000000
+count: 29226
+----------------------------------
+Symbol: null
+priceChange: -0.00900000
+lastPrice: 0.09800000
+prevClosePrice: 0.10600000
+volume: 48016219.72000000
+count: 11380
+----------------------------------
+Symbol: null
+priceChange: -1.10700000
+lastPrice: 8.87300000
+prevClosePrice: 9.98800000
+volume: 689568.52000000
+count: 23825
+----------------------------------
+Symbol: null
+priceChange: 0.00160000
+lastPrice: 0.01720000
+prevClosePrice: 0.01540000
+volume: 176309948.56000000
+count: 10743
+----------------------------------
+Symbol: null
+priceChange: 0.00000033
+lastPrice: 0.00001885
+prevClosePrice: 0.00001852
+volume: 52925147.00000000
+count: 970
+----------------------------------
+Symbol: null
+priceChange: -0.00001000
+lastPrice: 0.00080300
+prevClosePrice: 0.00081800
+volume: 506910061.00000000
+count: 5964
+----------------------------------
+Symbol: null
+priceChange: -0.00121000
+lastPrice: 0.03088000
+prevClosePrice: 0.03215000
+volume: 132176160.50000000
+count: 25408
+----------------------------------
+Symbol: null
+priceChange: 0.00060000
+lastPrice: 1.35490000
+prevClosePrice: 1.35410000
+volume: 22020320.01000000
+count: 75808
+----------------------------------
+Symbol: null
+priceChange: 0.04800000
+lastPrice: 0.91400000
+prevClosePrice: 0.86700000
+volume: 72217430.67900000
+count: 196996
+----------------------------------
+Symbol: null
+priceChange: -0.00000015
+lastPrice: 0.00000101
+prevClosePrice: 0.00000116
+volume: 8058490.00000000
+count: 2765
+----------------------------------
+Symbol: null
+priceChange: 1.74700000
+lastPrice: 25.70400000
+prevClosePrice: 23.95700000
+volume: 221.27800000
+count: 2749
+----------------------------------
+Symbol: null
+priceChange: -0.00116800
+lastPrice: 0.02661400
+prevClosePrice: 0.02777500
+volume: 2209.85100000
+count: 12112
+----------------------------------
+Symbol: null
+priceChange: 41.69000000
+lastPrice: 1097.51000000
+prevClosePrice: 1053.57000000
+volume: 12089.97550000
+count: 58333
+----------------------------------
+Symbol: null
+priceChange: 44.35000000
+lastPrice: 1100.40000000
+prevClosePrice: 1056.99000000
+volume: 2581.79162000
+count: 20919
+----------------------------------
+Symbol: null
+priceChange: 0.00016000
+lastPrice: 0.03355000
+prevClosePrice: 0.03360000
+volume: 509940.90000000
+count: 2606
+----------------------------------
+Symbol: null
+priceChange: -0.00000410
+lastPrice: 0.00003474
+prevClosePrice: 0.00003874
+volume: 3302116.00000000
+count: 12204
+----------------------------------
+Symbol: null
+priceChange: -0.03710000
+lastPrice: 1.43550000
+prevClosePrice: 1.47250000
+volume: 548855.59000000
+count: 3227
+----------------------------------
+Symbol: null
+priceChange: 0.02334000
+lastPrice: 0.13112000
+prevClosePrice: 0.10766000
+volume: 26736747.50000000
+count: 21038
+----------------------------------
+Symbol: null
+priceChange: -0.00072700
+lastPrice: 0.00954900
+prevClosePrice: 0.01028400
+volume: 142400388.00000000
+count: 7541
+----------------------------------
+Symbol: null
+priceChange: -0.02760000
+lastPrice: 0.44880000
+prevClosePrice: 0.47820000
+volume: 704601.17000000
+count: 2908
+----------------------------------
+Symbol: null
+priceChange: 12.52400000
+lastPrice: 67.50600000
+prevClosePrice: 55.17500000
+volume: 57522.52000000
+count: 18406
+----------------------------------
+Symbol: null
+priceChange: -0.00010000
+lastPrice: 0.37390000
+prevClosePrice: 0.37400000
+volume: 11654906.99000000
+count: 34684
+----------------------------------
+Symbol: null
+priceChange: -17.38000000
+lastPrice: 364.80000000
+prevClosePrice: 378.29000000
+volume: 22087.70000000
+count: 155
+----------------------------------
+Symbol: null
+priceChange: -13.96000000
+lastPrice: 342.82000000
+prevClosePrice: 353.77000000
+volume: 26738.90000000
+count: 106
+----------------------------------
+Symbol: null
+priceChange: 4187.92000000
+lastPrice: 53449.61000000
+prevClosePrice: 49250.51000000
+volume: 606.96025900
+count: 41195
+----------------------------------
+Symbol: null
+priceChange: 26.17000000
+lastPrice: 1616.00000000
+prevClosePrice: 1594.44000000
+volume: 4407.93060000
+count: 8968
+----------------------------------
+Symbol: null
+priceChange: 0.00321000
+lastPrice: 0.77409000
+prevClosePrice: 0.77074000
+volume: 5602035.40000000
+count: 10318
+----------------------------------
+Symbol: null
+priceChange: 0.00002000
+lastPrice: 0.00152000
+prevClosePrice: 0.00150000
+volume: 598136.20000000
+count: 437
+----------------------------------
+Symbol: null
+priceChange: -0.00000017
+lastPrice: 0.00000157
+prevClosePrice: 0.00000174
+volume: 4032072.00000000
+count: 2498
+----------------------------------
+Symbol: null
+priceChange: -0.00110000
+lastPrice: 0.06490000
+prevClosePrice: 0.06600000
+volume: 1195616.38000000
+count: 1353
+----------------------------------
+Symbol: null
+priceChange: -2.31200000
+lastPrice: 35.89000000
+prevClosePrice: 38.27100000
+volume: 40458.32000000
+count: 4967
+----------------------------------
+Symbol: null
+priceChange: 0.03600000
+lastPrice: 0.45500000
+prevClosePrice: 0.41800000
+volume: 370360.77000000
+count: 1504
+----------------------------------
+Symbol: null
+priceChange: -0.35100000
+lastPrice: 1.34500000
+prevClosePrice: 1.69100000
+volume: 1682819.79000000
+count: 6341
+----------------------------------
+Symbol: null
+priceChange: 0.22500000
+lastPrice: 2.36000000
+prevClosePrice: 2.08600000
+volume: 235556.44000000
+count: 4848
+----------------------------------
+Symbol: null
+priceChange: 0.00002000
+lastPrice: 0.02147000
+prevClosePrice: 0.02142000
+volume: 120222.90000000
+count: 2293
+----------------------------------
+Symbol: null
+priceChange: -0.00000250
+lastPrice: 0.00002220
+prevClosePrice: 0.00002480
+volume: 669320.54000000
+count: 4918
+----------------------------------
+Symbol: null
+priceChange: -0.02870000
+lastPrice: 0.91420000
+prevClosePrice: 0.94290000
+volume: 119267.45000000
+count: 1911
+----------------------------------
+Symbol: null
+priceChange: 21.44000000
+lastPrice: 1143.94000000
+prevClosePrice: 1122.50000000
+volume: 196932.60000000
+count: 725
+----------------------------------
+Symbol: null
+priceChange: 21.10000000
+lastPrice: 1141.75000000
+prevClosePrice: 1120.41000000
+volume: 112104.10000000
+count: 1055
+----------------------------------
+Symbol: null
+priceChange: -0.02600000
+lastPrice: 0.37680000
+prevClosePrice: 0.40340000
+volume: 1509222.43000000
+count: 6421
+----------------------------------
+Symbol: null
+priceChange: 0.02368000
+lastPrice: 0.13121000
+prevClosePrice: 0.10752000
+volume: 313290671.60000000
+count: 174679
+----------------------------------
+Symbol: null
+priceChange: -0.02205000
+lastPrice: 0.41334000
+prevClosePrice: 0.45897000
+volume: 2882396.00000000
+count: 4065
+----------------------------------
+Symbol: null
+priceChange: -2.24200000
+lastPrice: 54.86800000
+prevClosePrice: 57.14500000
+volume: 12118.88900000
+count: 1871
+----------------------------------
+Symbol: null
+priceChange: 0.00346000
+lastPrice: 0.77321000
+prevClosePrice: 0.76974000
+volume: 8237620.10000000
+count: 8432
+----------------------------------
+Symbol: null
+priceChange: -0.00003560
+lastPrice: 0.00044400
+prevClosePrice: 0.00047970
+volume: 91369.40000000
+count: 5689
+----------------------------------
+Symbol: null
+priceChange: 0.13400000
+lastPrice: 18.36600000
+prevClosePrice: 18.21000000
+volume: 26348.69900000
+count: 3954
+----------------------------------
+Symbol: null
+priceChange: 45.76000000
+lastPrice: 807.02000000
+prevClosePrice: 761.53000000
+volume: 37.08650000
+count: 4141
+----------------------------------
+Symbol: null
+priceChange: -0.03985000
+lastPrice: 0.83987000
+prevClosePrice: 0.88056000
+volume: 2648.67990000
+count: 117829
+----------------------------------
+Symbol: null
+priceChange: 1328.30000000
+lastPrice: 34763.86000000
+prevClosePrice: 33459.28000000
+volume: 529.44269900
+count: 50854
+----------------------------------
+Symbol: null
+priceChange: 1308.96000000
+lastPrice: 34673.38000000
+prevClosePrice: 33380.95000000
+volume: 8808.45661200
+count: 419181
+----------------------------------
+Symbol: null
+priceChange: 0.19900000
+lastPrice: 18.38100000
+prevClosePrice: 18.18500000
+volume: 488016.15200000
+count: 37441
+----------------------------------
+Symbol: null
+priceChange: -0.00973000
+lastPrice: 0.08127000
+prevClosePrice: 0.09133000
+volume: 40401295.70000000
+count: 22330
+----------------------------------
+Symbol: null
+priceChange: -0.00210000
+lastPrice: 0.04190000
+prevClosePrice: 0.04420000
+volume: 12448598.40000000
+count: 6233
+----------------------------------
+Symbol: null
+priceChange: -0.03100000
+lastPrice: 0.55160000
+prevClosePrice: 0.58260000
+volume: 991202.10000000
+count: 4948
+----------------------------------
+Symbol: null
+priceChange: 3372.56000000
+lastPrice: 41320.72000000
+prevClosePrice: 37922.60000000
+volume: 387.26667500
+count: 37147
+----------------------------------
+Symbol: null
+priceChange: 22.80000000
+lastPrice: 1250.66000000
+prevClosePrice: 1236.19000000
+volume: 24889.92387000
+count: 53867
+----------------------------------
+Symbol: null
+priceChange: -1.39200000
+lastPrice: 42.55900000
+prevClosePrice: 43.73500000
+volume: 9214.55700000
+count: 1047
+----------------------------------
+Symbol: null
+priceChange: -0.00010000
+lastPrice: 1.00070000
+prevClosePrice: 1.00050000
+volume: 29910862.80000000
+count: 24176
+----------------------------------
+Symbol: null
+priceChange: 0.00020000
+lastPrice: 0.99940000
+prevClosePrice: 0.99880000
+volume: 6731926.36000000
+count: 7975
+----------------------------------
+Symbol: null
+priceChange: 0.00005000
+lastPrice: 0.00063800
+prevClosePrice: 0.00058400
+volume: 1929000.00000000
+count: 1460
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000065
+prevClosePrice: 0.00000068
+volume: 18122005.00000000
+count: 3969
+----------------------------------
+Symbol: null
+priceChange: 0.00135000
+lastPrice: 0.02708000
+prevClosePrice: 0.02573000
+volume: 4806274.10000000
+count: 2360
+----------------------------------
+Symbol: null
+priceChange: 0.00142000
+lastPrice: 0.02715000
+prevClosePrice: 0.02568000
+volume: 163927245.10000000
+count: 32461
+----------------------------------
+Symbol: null
+priceChange: 0.00374500
+lastPrice: 0.03909500
+prevClosePrice: 0.03576500
+volume: 158039.00000000
+count: 1941
+----------------------------------
+Symbol: null
+priceChange: -0.00000076
+lastPrice: 0.00004052
+prevClosePrice: 0.00004134
+volume: 1424608.00000000
+count: 11238
+----------------------------------
+Symbol: null
+priceChange: 0.10820000
+lastPrice: 1.67720000
+prevClosePrice: 1.56930000
+volume: 534938.08000000
+count: 6340
+----------------------------------
+Symbol: null
+priceChange: 0.11150000
+lastPrice: 1.67900000
+prevClosePrice: 1.56750000
+volume: 12098532.84000000
+count: 80782
+----------------------------------
+Symbol: null
+priceChange: -0.00220000
+lastPrice: 0.08310000
+prevClosePrice: 0.08550000
+volume: 42496.02000000
+count: 661
+----------------------------------
+Symbol: null
+priceChange: -0.00001340
+lastPrice: 0.00008520
+prevClosePrice: 0.00009850
+volume: 181630.56000000
+count: 4617
+----------------------------------
+Symbol: null
+priceChange: -0.22150000
+lastPrice: 3.53390000
+prevClosePrice: 3.75920000
+volume: 62280.72000000
+count: 2279
+----------------------------------
+Symbol: null
+priceChange: -0.21080000
+lastPrice: 3.54450000
+prevClosePrice: 3.74870000
+volume: 560392.72000000
+count: 13520
+----------------------------------
+Symbol: null
+priceChange: -0.00020000
+lastPrice: 0.01670000
+prevClosePrice: 0.01700000
+volume: 100002.92000000
+count: 1151
+----------------------------------
+Symbol: null
+priceChange: -0.00000230
+lastPrice: 0.00001730
+prevClosePrice: 0.00001960
+volume: 4710128.63000000
+count: 9083
+----------------------------------
+Symbol: null
+priceChange: -0.03000000
+lastPrice: 0.71500000
+prevClosePrice: 0.74500000
+volume: 926823.53600000
+count: 7817
+----------------------------------
+Symbol: null
+priceChange: -0.03100000
+lastPrice: 0.71400000
+prevClosePrice: 0.74500000
+volume: 31404635.46200000
+count: 55171
+----------------------------------
+Symbol: null
+priceChange: 0.00008410
+lastPrice: 0.00107920
+prevClosePrice: 0.00101800
+volume: 1721965.00000000
+count: 967
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000112
+prevClosePrice: 0.00000115
+volume: 27643499.00000000
+count: 6391
+----------------------------------
+Symbol: null
+priceChange: 0.00205100
+lastPrice: 0.04604600
+prevClosePrice: 0.04397900
+volume: 88602083.00000000
+count: 24126
+----------------------------------
+Symbol: null
+priceChange: 0.00215600
+lastPrice: 0.04605900
+prevClosePrice: 0.04375700
+volume: 3260938.00000000
+count: 1170
+----------------------------------
+Symbol: null
+priceChange: -0.00063000
+lastPrice: 0.01022000
+prevClosePrice: 0.01085000
+volume: 984614.90000000
+count: 2477
+----------------------------------
+Symbol: null
+priceChange: -0.00000196
+lastPrice: 0.00001056
+prevClosePrice: 0.00001249
+volume: 10266999.00000000
+count: 19144
+----------------------------------
+Symbol: null
+priceChange: -0.03900000
+lastPrice: 0.43720000
+prevClosePrice: 0.47540000
+volume: 2136440.93000000
+count: 5549
+----------------------------------
+Symbol: null
+priceChange: -0.03910000
+lastPrice: 0.43630000
+prevClosePrice: 0.47530000
+volume: 29628638.85000000
+count: 46390
+----------------------------------
+Symbol: null
+priceChange: -0.00640000
+lastPrice: 0.64400000
+prevClosePrice: 0.64580000
+volume: 3552.07000000
+count: 1832
+----------------------------------
+Symbol: null
+priceChange: -0.00008600
+lastPrice: 0.00066600
+prevClosePrice: 0.00074400
+volume: 16412.83700000
+count: 5867
+----------------------------------
+Symbol: null
+priceChange: -0.59700000
+lastPrice: 27.65800000
+prevClosePrice: 28.18100000
+volume: 7546.84200000
+count: 4395
+----------------------------------
+Symbol: null
+priceChange: -0.50700000
+lastPrice: 27.67700000
+prevClosePrice: 28.16500000
+volume: 20890.57300000
+count: 8239
+----------------------------------
+Symbol: null
+priceChange: -0.00174000
+lastPrice: 0.22523000
+prevClosePrice: 0.22697000
+volume: 116543.20000000
+count: 5698
+----------------------------------
+Symbol: null
+priceChange: -0.00003103
+lastPrice: 0.00023208
+prevClosePrice: 0.00026279
+volume: 4841979.60000000
+count: 74901
+----------------------------------
+Symbol: null
+priceChange: -0.39580000
+lastPrice: 9.58370000
+prevClosePrice: 10.00000000
+volume: 1347983.76000000
+count: 51573
+----------------------------------
+Symbol: null
+priceChange: -0.38480000
+lastPrice: 9.58420000
+prevClosePrice: 9.97200000
+volume: 21687382.12000000
+count: 292898
+----------------------------------
+Symbol: null
+priceChange: -0.00023000
+lastPrice: 0.02022000
+prevClosePrice: 0.02043000
+volume: 1034917.40000000
+count: 3690
+----------------------------------
+Symbol: null
+priceChange: -0.00000278
+lastPrice: 0.00002088
+prevClosePrice: 0.00002366
+volume: 5869787.00000000
+count: 23597
+----------------------------------
+Symbol: null
+priceChange: -0.03490000
+lastPrice: 0.86330000
+prevClosePrice: 0.89800000
+volume: 1324003.04000000
+count: 3930
+----------------------------------
+Symbol: null
+priceChange: -0.03520000
+lastPrice: 0.86230000
+prevClosePrice: 0.89750000
+volume: 12681471.80000000
+count: 29975
+----------------------------------
+Symbol: null
+priceChange: 0.00000016
+lastPrice: 0.00000115
+prevClosePrice: 0.00000100
+volume: 18572046.00000000
+count: 5753
+----------------------------------
+Symbol: null
+priceChange: 0.00880000
+lastPrice: 0.04721000
+prevClosePrice: 0.03814000
+volume: 4238923.00000000
+count: 2577
+----------------------------------
+Symbol: null
+priceChange: 0.00007900
+lastPrice: 0.00099700
+prevClosePrice: 0.00091900
+volume: 11362823.00000000
+count: 5090
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000103
+prevClosePrice: 0.00000107
+volume: 221068668.00000000
+count: 18189
+----------------------------------
+Symbol: null
+priceChange: 0.00230000
+lastPrice: 0.04260000
+prevClosePrice: 0.04034000
+volume: 24909842.70000000
+count: 6216
+----------------------------------
+Symbol: null
+priceChange: 0.00240000
+lastPrice: 0.04266000
+prevClosePrice: 0.04027000
+volume: 616371907.30000000
+count: 107435
+----------------------------------
+Symbol: null
+priceChange: -0.10500000
+lastPrice: 44.99300000
+prevClosePrice: 44.93400000
+volume: 46.78300000
+count: 613
+----------------------------------
+Symbol: null
+priceChange: -0.00560000
+lastPrice: 0.04635000
+prevClosePrice: 0.05197000
+volume: 870.86210000
+count: 7246
+----------------------------------
+Symbol: null
+priceChange: -62.80000000
+lastPrice: 1912.96000000
+prevClosePrice: 1976.29000000
+volume: 2479.22922400
+count: 17260
+----------------------------------
+Symbol: null
+priceChange: -0.03900000
+lastPrice: 0.67200000
+prevClosePrice: 0.69800000
+volume: 905.38900000
+count: 416
+----------------------------------
+Symbol: null
+priceChange: -0.00011900
+lastPrice: 0.00069100
+prevClosePrice: 0.00081000
+volume: 18360.97000000
+count: 3230
+----------------------------------
+Symbol: null
+priceChange: -2.07400000
+lastPrice: 28.64900000
+prevClosePrice: 30.72500000
+volume: 44410.56800000
+count: 8633
+----------------------------------
+Symbol: null
+priceChange: -0.00100000
+lastPrice: 0.53400000
+prevClosePrice: 0.53800000
+volume: 1748.61200000
+count: 458
+----------------------------------
+Symbol: null
+priceChange: -0.00006300
+lastPrice: 0.00055500
+prevClosePrice: 0.00062300
+volume: 64321.86400000
+count: 5594
+----------------------------------
+Symbol: null
+priceChange: -0.57700000
+lastPrice: 23.00000000
+prevClosePrice: 23.42400000
+volume: 3901.18500000
+count: 513
+----------------------------------
+Symbol: null
+priceChange: -0.70300000
+lastPrice: 22.92900000
+prevClosePrice: 23.63300000
+volume: 320200.21000000
+count: 31409
+----------------------------------
+Symbol: null
+priceChange: 19500.00000000
+lastPrice: 605002.00000000
+prevClosePrice: 588000.00000000
+volume: 3027.85285000
+count: 20824
+----------------------------------
+Symbol: null
+priceChange: -5137.00
+lastPrice: 134208.00
+prevClosePrice: 138568.00
+volume: 3415.17000000
+count: 264
+----------------------------------
+Symbol: null
+priceChange: -1.43300000
+lastPrice: 20.13100000
+prevClosePrice: 21.53600000
+volume: 26557.17200000
+count: 1587
+----------------------------------
+Symbol: null
+priceChange: 0.04700000
+lastPrice: 1.17500000
+prevClosePrice: 1.11700000
+volume: 155959.63000000
+count: 1688
+----------------------------------
+Symbol: null
+priceChange: -0.00009000
+lastPrice: 0.00528000
+prevClosePrice: 0.00530000
+volume: 170640.50000000
+count: 353
+----------------------------------
+Symbol: null
+priceChange: -0.00000056
+lastPrice: 0.00000546
+prevClosePrice: 0.00000602
+volume: 6758063.00000000
+count: 6187
+----------------------------------
+Symbol: null
+priceChange: -0.00330000
+lastPrice: 0.22600000
+prevClosePrice: 0.22920000
+volume: 1156858.09000000
+count: 1404
+----------------------------------
+Symbol: null
+priceChange: -0.00280000
+lastPrice: 0.22560000
+prevClosePrice: 0.22840000
+volume: 28770999.39000000
+count: 38587
+----------------------------------
+Symbol: null
+priceChange: -0.00049000
+lastPrice: 0.99850000
+prevClosePrice: 0.99900000
+volume: 486.22640000
+count: 10094
+----------------------------------
+Symbol: null
+priceChange: 2.06380000
+lastPrice: 32.99940000
+prevClosePrice: 30.93870000
+volume: 116.53170000
+count: 20219
+----------------------------------
+Symbol: null
+priceChange: 0.01320000
+lastPrice: 0.10370000
+prevClosePrice: 0.09050000
+volume: 93362.72000000
+count: 4543
+----------------------------------
+Symbol: null
+priceChange: 0.00000210
+lastPrice: 0.00010700
+prevClosePrice: 0.00010480
+volume: 4016705.55000000
+count: 34421
+----------------------------------
+Symbol: null
+priceChange: 0.45800000
+lastPrice: 4.43200000
+prevClosePrice: 3.98000000
+volume: 1118058.00400000
+count: 29342
+----------------------------------
+Symbol: null
+priceChange: 0.46600000
+lastPrice: 4.43500000
+prevClosePrice: 3.96800000
+volume: 19380014.19200000
+count: 165060
+----------------------------------
+Symbol: null
+priceChange: -0.03000000
+lastPrice: 43.92000000
+prevClosePrice: 44.14000000
+volume: 300.86460000
+count: 2051
+----------------------------------
+Symbol: null
+priceChange: -0.00541000
+lastPrice: 0.04541000
+prevClosePrice: 0.05087000
+volume: 3285.57910000
+count: 17279
+----------------------------------
+Symbol: null
+priceChange: -56.85000000
+lastPrice: 1875.81000000
+prevClosePrice: 1933.72000000
+volume: 741.28711700
+count: 4158
+----------------------------------
+Symbol: null
+priceChange: -58.48000000
+lastPrice: 1872.67000000
+prevClosePrice: 1930.02000000
+volume: 25611.69776500
+count: 95854
+----------------------------------
+Symbol: null
+priceChange: 0.00470000
+lastPrice: 1.63310000
+prevClosePrice: 1.62320000
+volume: 1302.00000000
+count: 1092
+----------------------------------
+Symbol: null
+priceChange: -0.00018600
+lastPrice: 0.00169500
+prevClosePrice: 0.00188200
+volume: 45406.83600000
+count: 10043
+----------------------------------
+Symbol: null
+priceChange: -1.45900000
+lastPrice: 70.02900000
+prevClosePrice: 71.48800000
+volume: 5538.37400000
+count: 2996
+----------------------------------
+Symbol: null
+priceChange: -1.29100000
+lastPrice: 69.82500000
+prevClosePrice: 71.11600000
+volume: 192979.90600000
+count: 52147
+----------------------------------
+Symbol: null
+priceChange: 0.00530000
+lastPrice: 0.92320000
+prevClosePrice: 0.91500000
+volume: 49572.49000000
+count: 14980
+----------------------------------
+Symbol: null
+priceChange: -0.00010800
+lastPrice: 0.00095200
+prevClosePrice: 0.00106100
+volume: 400835.57900000
+count: 49710
+----------------------------------
+Symbol: null
+priceChange: -0.81900000
+lastPrice: 39.41600000
+prevClosePrice: 40.26900000
+volume: 274539.77300000
+count: 39282
+----------------------------------
+Symbol: null
+priceChange: -0.81300000
+lastPrice: 39.40000000
+prevClosePrice: 40.19200000
+volume: 1300137.24500000
+count: 131653
+----------------------------------
+Symbol: null
+priceChange: -0.00140000
+lastPrice: 0.03380000
+prevClosePrice: 0.03500000
+volume: 60937.94000000
+count: 686
+----------------------------------
+Symbol: null
+priceChange: -0.00000590
+lastPrice: 0.00003480
+prevClosePrice: 0.00004080
+volume: 1192816.26000000
+count: 9499
+----------------------------------
+Symbol: null
+priceChange: -0.10800000
+lastPrice: 1.43900000
+prevClosePrice: 1.54600000
+volume: 191104.90100000
+count: 2674
+----------------------------------
+Symbol: null
+priceChange: -0.10300000
+lastPrice: 1.44000000
+prevClosePrice: 1.54100000
+volume: 2433453.65500000
+count: 18108
+----------------------------------
+Symbol: null
+priceChange: -0.04020000
+lastPrice: 1.42930000
+prevClosePrice: 1.46780000
+volume: 7646559.38000000
+count: 37265
+----------------------------------
+Symbol: null
+priceChange: -0.00120000
+lastPrice: 0.06480000
+prevClosePrice: 0.06600000
+volume: 9800487.99000000
+count: 4894
+----------------------------------
+Symbol: null
+priceChange: -0.00004300
+lastPrice: 0.00023500
+prevClosePrice: 0.00027800
+volume: 43884.98900000
+count: 3284
+----------------------------------
+Symbol: null
+priceChange: -0.79900000
+lastPrice: 9.70100000
+prevClosePrice: 10.49800000
+volume: 103398.38300000
+count: 9973
+----------------------------------
+Symbol: null
+priceChange: -0.70800000
+lastPrice: 4.50900000
+prevClosePrice: 5.24500000
+volume: 818301.00000000
+count: 9185
+----------------------------------
+Symbol: null
+priceChange: 0.14000000
+lastPrice: 2.25400000
+prevClosePrice: 2.08500000
+volume: 576812.34000000
+count: 5906
+----------------------------------
+Symbol: null
+priceChange: -0.52000000
+lastPrice: 3.53800000
+prevClosePrice: 4.05800000
+volume: 719052.49000000
+count: 4311
+----------------------------------
+Symbol: null
+priceChange: 0.45100000
+lastPrice: 2.84300000
+prevClosePrice: 2.39200000
+volume: 285351.17000000
+count: 3127
+----------------------------------
+Symbol: null
+priceChange: -0.84300000
+lastPrice: 3.46600000
+prevClosePrice: 4.30000000
+volume: 16899849.57000000
+count: 85100
+----------------------------------
+Symbol: null
+priceChange: -0.01500000
+lastPrice: 0.19200000
+prevClosePrice: 0.20600000
+volume: 323738857.95000000
+count: 61829
+----------------------------------
+Symbol: null
+priceChange: -3.67200000
+lastPrice: 26.17700000
+prevClosePrice: 29.84900000
+volume: 168788.29000000
+count: 12947
+----------------------------------
+Symbol: null
+priceChange: 0.01300000
+lastPrice: 0.19900000
+prevClosePrice: 0.18600000
+volume: 21342349.89000000
+count: 3285
+----------------------------------
+Symbol: null
+priceChange: 1727.00
+lastPrice: 23636.00
+prevClosePrice: 21726.00
+volume: 11892.44100000
+count: 254
+----------------------------------
+Symbol: null
+priceChange: 1.11
+lastPrice: 86.71
+prevClosePrice: 85.16
+volume: 1463530.00000000
+count: 401
+----------------------------------
+Symbol: null
+priceChange: -3.77600000
+lastPrice: 119.22400000
+prevClosePrice: 123.00000000
+volume: 46655.67000000
+count: 4877
+----------------------------------
+Symbol: null
+priceChange: 5.98000000
+lastPrice: 484.60000000
+prevClosePrice: 478.62000000
+volume: 11112277.56000000
+count: 25635
+----------------------------------
+Symbol: null
+priceChange: -0.00141000
+lastPrice: 0.02302000
+prevClosePrice: 0.02441000
+volume: 86382.90000000
+count: 2564
+----------------------------------
+Symbol: null
+priceChange: -0.00000437
+lastPrice: 0.00002382
+prevClosePrice: 0.00002828
+volume: 536089.00000000
+count: 3206
+----------------------------------
+Symbol: null
+priceChange: -0.09360000
+lastPrice: 0.98010000
+prevClosePrice: 1.07260000
+volume: 159940.56000000
+count: 2046
+----------------------------------
+Symbol: null
+priceChange: -0.09280000
+lastPrice: 0.97930000
+prevClosePrice: 1.07220000
+volume: 3301085.21000000
+count: 22867
+----------------------------------
+Symbol: null
+priceChange: -0.01950000
+lastPrice: 0.32320000
+prevClosePrice: 0.33950000
+volume: 2699.64000000
+count: 414
+----------------------------------
+Symbol: null
+priceChange: -0.00005900
+lastPrice: 0.00033700
+prevClosePrice: 0.00039300
+volume: 23502.57500000
+count: 3197
+----------------------------------
+Symbol: null
+priceChange: -0.00060000
+lastPrice: 0.01030000
+prevClosePrice: 0.01090000
+volume: 157183.64000000
+count: 1026
+----------------------------------
+Symbol: null
+priceChange: -0.03400000
+lastPrice: 0.43900000
+prevClosePrice: 0.47900000
+volume: 244019.47600000
+count: 1226
+----------------------------------
+Symbol: null
+priceChange: -0.97700000
+lastPrice: 14.02300000
+prevClosePrice: 15.11100000
+volume: 2954.50600000
+count: 393
+----------------------------------
+Symbol: null
+priceChange: -1.17300000
+lastPrice: 13.88700000
+prevClosePrice: 14.95400000
+volume: 126082.56100000
+count: 10532
+----------------------------------
+Symbol: null
+priceChange: 3.42700000
+lastPrice: 81.92700000
+prevClosePrice: 78.25000000
+volume: 150634.37000000
+count: 15315
+----------------------------------
+Symbol: null
+priceChange: -0.00630000
+lastPrice: 0.06750000
+prevClosePrice: 0.07500000
+volume: 46696852.35000000
+count: 5516
+----------------------------------
+Symbol: null
+priceChange: 0.04400000
+lastPrice: 0.74900000
+prevClosePrice: 0.70800000
+volume: 1163575.48300000
+count: 7749
+----------------------------------
+Symbol: null
+priceChange: 0.33180000
+lastPrice: 2.03570000
+prevClosePrice: 1.67000000
+volume: 2941.96000000
+count: 3919
+----------------------------------
+Symbol: null
+priceChange: 13.27000000
+lastPrice: 86.87900000
+prevClosePrice: 73.60900000
+volume: 17922.17500000
+count: 6728
+----------------------------------
+Symbol: null
+priceChange: 0.00153000
+lastPrice: 0.14622000
+prevClosePrice: 0.14469000
+volume: 65958.60000000
+count: 3364
+----------------------------------
+Symbol: null
+priceChange: -0.00001631
+lastPrice: 0.00015100
+prevClosePrice: 0.00016726
+volume: 1830941.00000000
+count: 27047
+----------------------------------
+Symbol: null
+priceChange: -0.10320000
+lastPrice: 6.24500000
+prevClosePrice: 6.35640000
+volume: 541837.59000000
+count: 12145
+----------------------------------
+Symbol: null
+priceChange: -0.10030000
+lastPrice: 6.24390000
+prevClosePrice: 6.34350000
+volume: 9589037.41000000
+count: 123309
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000034
+prevClosePrice: 0.00000038
+volume: 36411483.00000000
+count: 3235
+----------------------------------
+Symbol: null
+priceChange: -0.00026000
+lastPrice: 0.01403000
+prevClosePrice: 0.01429000
+volume: 126800982.00000000
+count: 14760
+----------------------------------
+Symbol: null
+priceChange: -0.00000076
+lastPrice: 0.00000675
+prevClosePrice: 0.00000752
+volume: 2518887.00000000
+count: 3737
+----------------------------------
+Symbol: null
+priceChange: -0.00710000
+lastPrice: 0.27770000
+prevClosePrice: 0.28400000
+volume: 12150173.96000000
+count: 13285
+----------------------------------
+Symbol: null
+priceChange: -0.00002700
+lastPrice: 0.00017100
+prevClosePrice: 0.00019700
+volume: 18321.93200000
+count: 1634
+----------------------------------
+Symbol: null
+priceChange: -0.44300000
+lastPrice: 7.08600000
+prevClosePrice: 7.52900000
+volume: 133245.90000000
+count: 6715
+----------------------------------
+Symbol: null
+priceChange: 0.02514000
+lastPrice: 0.13200000
+prevClosePrice: 0.10709000
+volume: 70094.20000000
+count: 2934
+----------------------------------
+Symbol: null
+priceChange: 0.00001313
+lastPrice: 0.00013659
+prevClosePrice: 0.00012350
+volume: 731363.50000000
+count: 15666
+----------------------------------
+Symbol: null
+priceChange: 0.92860000
+lastPrice: 5.62620000
+prevClosePrice: 4.70600000
+volume: 127280.38000000
+count: 4181
+----------------------------------
+Symbol: null
+priceChange: 0.90830000
+lastPrice: 5.60650000
+prevClosePrice: 4.69320000
+volume: 2376156.26000000
+count: 48226
+----------------------------------
+Symbol: null
+priceChange: -0.00000440
+lastPrice: 0.00003380
+prevClosePrice: 0.00003830
+volume: 124249.15000000
+count: 2008
+----------------------------------
+Symbol: null
+priceChange: -0.05900000
+lastPrice: 1.39900000
+prevClosePrice: 1.45800000
+volume: 767722.99200000
+count: 9671
+----------------------------------
+Symbol: null
+priceChange: 0.00000700
+lastPrice: 0.00036900
+prevClosePrice: 0.00036000
+volume: 4435213.00000000
+count: 1014
+----------------------------------
+Symbol: null
+priceChange: -0.00043000
+lastPrice: 0.01475000
+prevClosePrice: 0.01522000
+volume: 47157.60000000
+count: 946
+----------------------------------
+Symbol: null
+priceChange: 796.00
+lastPrice: 12830.00
+prevClosePrice: 12000.00
+volume: 21125.06000000
+count: 253
+----------------------------------
+Symbol: null
+priceChange: -835.52000000
+lastPrice: 18035.78000000
+prevClosePrice: 18240.38000000
+volume: 279.60000000
+count: 40
+----------------------------------
+Symbol: null
+priceChange: -0.00000074
+lastPrice: 0.00000348
+prevClosePrice: 0.00000422
+volume: 1789468.00000000
+count: 2358
+----------------------------------
+Symbol: null
+priceChange: -0.01970000
+lastPrice: 0.14320000
+prevClosePrice: 0.15910000
+volume: 346554.57000000
+count: 402
+----------------------------------
+Symbol: null
+priceChange: -0.01640000
+lastPrice: 0.14390000
+prevClosePrice: 0.16010000
+volume: 25740941.70000000
+count: 20888
+----------------------------------
+Symbol: null
+priceChange: -0.00000285
+lastPrice: 0.00001651
+prevClosePrice: 0.00001922
+volume: 411343.00000000
+count: 2241
+----------------------------------
+Symbol: null
+priceChange: -0.00005500
+lastPrice: 0.00055000
+prevClosePrice: 0.00060000
+volume: 322864.36000000
+count: 947
+----------------------------------
+Symbol: null
+priceChange: -0.00051000
+lastPrice: 0.01419000
+prevClosePrice: 0.01470000
+volume: 726477.70000000
+count: 5038
+----------------------------------
+Symbol: null
+priceChange: -0.03670000
+lastPrice: 0.60690000
+prevClosePrice: 0.64670000
+volume: 1340266.37000000
+count: 4324
+----------------------------------
+Symbol: null
+priceChange: 0.00245100
+lastPrice: 0.00675200
+prevClosePrice: 0.00430600
+volume: 10024685.00000000
+count: 6547
+----------------------------------
+Symbol: null
+priceChange: -0.95800000
+lastPrice: 6.89100000
+prevClosePrice: 7.84000000
+volume: 416605.51000000
+count: 7088
+----------------------------------
+Symbol: null
+priceChange: -0.01300000
+lastPrice: 0.45100000
+prevClosePrice: 0.46500000
+volume: 1045729.21000000
+count: 1868
+----------------------------------
+Symbol: null
+priceChange: -0.00000680
+lastPrice: 0.00006150
+prevClosePrice: 0.00006810
+volume: 124508.28000000
+count: 3029
+----------------------------------
+Symbol: null
+priceChange: -0.05070000
+lastPrice: 2.52930000
+prevClosePrice: 2.58000000
+volume: 362954.85000000
+count: 5965
+----------------------------------
+Symbol: null
+priceChange: -0.76000000
+lastPrice: 14.88000000
+prevClosePrice: 15.73000000
+volume: 4558796.17000000
+count: 5176
+----------------------------------
+Symbol: null
+priceChange: 0.47000000
+lastPrice: 6.90000000
+prevClosePrice: 6.43000000
+volume: 512042.86000000
+count: 5104
+----------------------------------
+Symbol: null
+priceChange: -0.00000071
+lastPrice: 0.00000490
+prevClosePrice: 0.00000559
+volume: 8822956.00000000
+count: 11561
+----------------------------------
+Symbol: null
+priceChange: -0.01090000
+lastPrice: 0.20230000
+prevClosePrice: 0.21280000
+volume: 12286490.09000000
+count: 15419
+----------------------------------
+Symbol: null
+priceChange: 0.00220000
+lastPrice: 0.09270000
+prevClosePrice: 0.09050000
+volume: 85617.24000000
+count: 3944
+----------------------------------
+Symbol: null
+priceChange: -0.00000930
+lastPrice: 0.00009550
+prevClosePrice: 0.00010490
+volume: 237829.24000000
+count: 7334
+----------------------------------
+Symbol: null
+priceChange: -0.01500000
+lastPrice: 3.96700000
+prevClosePrice: 3.97300000
+volume: 85959.93800000
+count: 2383
+----------------------------------
+Symbol: null
+priceChange: -0.03000000
+lastPrice: 3.94100000
+prevClosePrice: 3.97100000
+volume: 881335.70900000
+count: 30570
+----------------------------------
+Symbol: null
+priceChange: 0.00107860
+lastPrice: 0.01000000
+prevClosePrice: 0.00892140
+volume: 3122207.00000000
+count: 10430
+----------------------------------
+Symbol: null
+priceChange: 0.00000013
+lastPrice: 0.00001031
+prevClosePrice: 0.00001024
+volume: 36820377.00000000
+count: 65342
+----------------------------------
+Symbol: null
+priceChange: 0.02846000
+lastPrice: 0.42450000
+prevClosePrice: 0.39895000
+volume: 4815306.70000000
+count: 6157
+----------------------------------
+Symbol: null
+priceChange: 0.03822000
+lastPrice: 0.42528000
+prevClosePrice: 0.38516000
+volume: 173297775.00000000
+count: 217910
+----------------------------------
+Symbol: null
+priceChange: -0.00000183
+lastPrice: 0.00001492
+prevClosePrice: 0.00001677
+volume: 3552174.00000000
+count: 12607
+----------------------------------
+Symbol: null
+priceChange: -0.01570000
+lastPrice: 0.61100000
+prevClosePrice: 0.62630000
+volume: 1680584.81000000
+count: 6032
+----------------------------------
+Symbol: null
+priceChange: -0.04310000
+lastPrice: 2.67400000
+prevClosePrice: 2.71500000
+volume: 2491.66000000
+count: 5315
+----------------------------------
+Symbol: null
+priceChange: 21150.00000000
+lastPrice: 225834.00000000
+prevClosePrice: 204458.00000000
+volume: 400.12696200
+count: 37483
+----------------------------------
+Symbol: null
+priceChange: 0.05000000
+lastPrice: 5.44400000
+prevClosePrice: 5.39400000
+volume: 3214693.95000000
+count: 10825
+----------------------------------
+Symbol: null
+priceChange: -0.00039000
+lastPrice: 0.00275200
+prevClosePrice: 0.00314600
+volume: 134359.22000000
+count: 36803
+----------------------------------
+Symbol: null
+priceChange: -0.00609000
+lastPrice: 0.09109000
+prevClosePrice: 0.09718000
+volume: 12923.22000000
+count: 3341
+----------------------------------
+Symbol: null
+priceChange: -5.43700000
+lastPrice: 113.95800000
+prevClosePrice: 119.50200000
+volume: 18126.28800000
+count: 8848
+----------------------------------
+Symbol: null
+priceChange: -5.40500000
+lastPrice: 113.71400000
+prevClosePrice: 119.23300000
+volume: 418831.07100000
+count: 131051
+----------------------------------
+Symbol: null
+priceChange: -9144.00000000
+lastPrice: 130460.00000000
+prevClosePrice: 132790.00000000
+volume: 41.86700000
+count: 95
+----------------------------------
+Symbol: null
+priceChange: 0.00170000
+lastPrice: 0.03697000
+prevClosePrice: 0.03527000
+volume: 384764.20000000
+count: 1446
+----------------------------------
+Symbol: null
+priceChange: -0.00000270
+lastPrice: 0.00003810
+prevClosePrice: 0.00004080
+volume: 1615954.51000000
+count: 4539
+----------------------------------
+Symbol: null
+priceChange: 0.03340000
+lastPrice: 1.58020000
+prevClosePrice: 1.55040000
+volume: 574481.80000000
+count: 1556
+----------------------------------
+Symbol: null
+priceChange: 0.03300000
+lastPrice: 1.57830000
+prevClosePrice: 1.54590000
+volume: 6604558.41000000
+count: 25916
+----------------------------------
+Symbol: null
+priceChange: 0.01300000
+lastPrice: 0.71400000
+prevClosePrice: 0.70100000
+volume: 39794161.67000000
+count: 25732
+----------------------------------
+Symbol: null
+priceChange: -0.02800000
+lastPrice: 0.06100000
+prevClosePrice: 0.08900000
+volume: 533122153.74000000
+count: 16604
+----------------------------------
+Symbol: null
+priceChange: -393.05000000
+lastPrice: 10786.95000000
+prevClosePrice: 11185.21000000
+volume: 420.90000000
+count: 54
+----------------------------------
+Symbol: null
+priceChange: 0.03320000
+lastPrice: 0.67110000
+prevClosePrice: 0.64060000
+volume: 308100.33000000
+count: 2332
+----------------------------------
+Symbol: null
+priceChange: 0.00375000
+lastPrice: 0.51750000
+prevClosePrice: 0.51404000
+volume: 8529.70000000
+count: 565
+----------------------------------
+Symbol: null
+priceChange: -0.00006130
+lastPrice: 0.00053230
+prevClosePrice: 0.00059330
+volume: 191533.50000000
+count: 12141
+----------------------------------
+Symbol: null
+priceChange: -0.57380000
+lastPrice: 21.99240000
+prevClosePrice: 22.55650000
+volume: 31705.29000000
+count: 1946
+----------------------------------
+Symbol: null
+priceChange: -0.52100000
+lastPrice: 21.99000000
+prevClosePrice: 22.50680000
+volume: 1035106.51000000
+count: 62038
+----------------------------------
+Symbol: null
+priceChange: -0.34500000
+lastPrice: 5.05500000
+prevClosePrice: 5.41100000
+volume: 121576.18000000
+count: 2447
+----------------------------------
+Symbol: null
+priceChange: 0.12100000
+lastPrice: 2.29100000
+prevClosePrice: 2.18500000
+volume: 27519.37000000
+count: 660
+----------------------------------
+Symbol: null
+priceChange: -6.33800000
+lastPrice: 18.08200000
+prevClosePrice: 24.45600000
+volume: 1073922.53000000
+count: 37248
+----------------------------------
+Symbol: null
+priceChange: -0.06600000
+lastPrice: 0.06700000
+prevClosePrice: 0.13400000
+volume: 414242175.86000000
+count: 39840
+----------------------------------
+Symbol: null
+priceChange: 0.00624000
+lastPrice: 0.10955000
+prevClosePrice: 0.10257000
+volume: 72538.70000000
+count: 1943
+----------------------------------
+Symbol: null
+priceChange: -0.00000509
+lastPrice: 0.00011375
+prevClosePrice: 0.00011895
+volume: 780135.10000000
+count: 21091
+----------------------------------
+Symbol: null
+priceChange: 0.16950000
+lastPrice: 4.69190000
+prevClosePrice: 4.50950000
+volume: 118691.76000000
+count: 3475
+----------------------------------
+Symbol: null
+priceChange: 0.19590000
+lastPrice: 4.69910000
+prevClosePrice: 4.50660000
+volume: 1484015.38000000
+count: 35775
+----------------------------------
+Symbol: null
+priceChange: -0.00000013
+lastPrice: 0.00000108
+prevClosePrice: 0.00000121
+volume: 5172252.00000000
+count: 3241
+----------------------------------
+Symbol: null
+priceChange: -0.00172000
+lastPrice: 0.04473000
+prevClosePrice: 0.04656000
+volume: 1867595.90000000
+count: 1412
+----------------------------------
+Symbol: null
+priceChange: -0.63300000
+lastPrice: 12.92000000
+prevClosePrice: 13.55300000
+volume: 179174.57400000
+count: 12261
+----------------------------------
+Symbol: null
+priceChange: -0.00000400
+lastPrice: 0.00615200
+prevClosePrice: 0.00611500
+volume: 25909583.00000000
+count: 1637
+----------------------------------
+Symbol: null
+priceChange: -0.00013300
+lastPrice: 0.00450900
+prevClosePrice: 0.00464200
+volume: 96903.60000000
+count: 2758
+----------------------------------
+Symbol: null
+priceChange: -0.00000014
+lastPrice: 0.00000438
+prevClosePrice: 0.00000452
+volume: 3102736.00000000
+count: 5615
+----------------------------------
+Symbol: null
+priceChange: 0.00729000
+lastPrice: 0.18076000
+prevClosePrice: 0.17276000
+volume: 671847.20000000
+count: 1238
+----------------------------------
+Symbol: null
+priceChange: 0.00804000
+lastPrice: 0.18103000
+prevClosePrice: 0.17309000
+volume: 9867622.80000000
+count: 10296
+----------------------------------
+Symbol: null
+priceChange: -0.00034000
+lastPrice: 0.02101000
+prevClosePrice: 0.02134000
+volume: 109091.20000000
+count: 7022
+----------------------------------
+Symbol: null
+priceChange: -0.00000289
+lastPrice: 0.00002176
+prevClosePrice: 0.00002474
+volume: 269442.20000000
+count: 2183
+----------------------------------
+Symbol: null
+priceChange: -0.04100000
+lastPrice: 0.89840000
+prevClosePrice: 0.93940000
+volume: 209817.70000000
+count: 6992
+----------------------------------
+Symbol: null
+priceChange: -0.04160000
+lastPrice: 0.89590000
+prevClosePrice: 0.93870000
+volume: 8312655.86000000
+count: 41201
+----------------------------------
+Symbol: null
+priceChange: -0.00124000
+lastPrice: 0.00989000
+prevClosePrice: 0.01113000
+volume: 270.93790000
+count: 1762
+----------------------------------
+Symbol: null
+priceChange: -14.03000000
+lastPrice: 405.97000000
+prevClosePrice: 420.00000000
+volume: 278.37937000
+count: 1339
+----------------------------------
+Symbol: null
+priceChange: 194.56000000
+lastPrice: 6801.65000000
+prevClosePrice: 6614.15000000
+volume: 2734.12212000
+count: 10887
+----------------------------------
+Symbol: null
+priceChange: -0.28200000
+lastPrice: 7.85000000
+prevClosePrice: 8.13100000
+volume: 324110.97100000
+count: 11296
+----------------------------------
+Symbol: null
+priceChange: -0.00000004
+lastPrice: 0.00000026
+prevClosePrice: 0.00000030
+volume: 29587672.00000000
+count: 1383
+----------------------------------
+Symbol: null
+priceChange: -0.00087000
+lastPrice: 0.01064400
+prevClosePrice: 0.01150600
+volume: 88067317.00000000
+count: 9225
+----------------------------------
+Symbol: null
+priceChange: -1.14800000
+lastPrice: 7.85900000
+prevClosePrice: 9.00700000
+volume: 1229.31000000
+count: 4042
+----------------------------------
+Symbol: null
+priceChange: -58.98000000
+lastPrice: 336.80000000
+prevClosePrice: 395.78000000
+volume: 18870.57236000
+count: 15492
+----------------------------------
+Symbol: null
+priceChange: -0.00188700
+lastPrice: 0.01449200
+prevClosePrice: 0.01646000
+volume: 191105.00000000
+count: 1637
+----------------------------------
+Symbol: null
+priceChange: -0.00000407
+lastPrice: 0.00001484
+prevClosePrice: 0.00001900
+volume: 2850589.00000000
+count: 8048
+----------------------------------
+Symbol: null
+priceChange: -0.10183000
+lastPrice: 0.61719000
+prevClosePrice: 0.71727000
+volume: 404661.40000000
+count: 2335
+----------------------------------
+Symbol: null
+priceChange: -0.09802000
+lastPrice: 0.61580000
+prevClosePrice: 0.71257000
+volume: 10962942.40000000
+count: 32005
+----------------------------------
+Symbol: null
+priceChange: -0.00066000
+lastPrice: 0.01214000
+prevClosePrice: 0.01267000
+volume: 130904.80000000
+count: 446
+----------------------------------
+Symbol: null
+priceChange: -0.00000202
+lastPrice: 0.00001259
+prevClosePrice: 0.00001462
+volume: 1166938.40000000
+count: 6302
+----------------------------------
+Symbol: null
+priceChange: -0.03640000
+lastPrice: 0.51990000
+prevClosePrice: 0.55770000
+volume: 256167.12000000
+count: 1183
+----------------------------------
+Symbol: null
+priceChange: -0.03610000
+lastPrice: 0.51980000
+prevClosePrice: 0.55590000
+volume: 13123517.81000000
+count: 23461
+----------------------------------
+Symbol: null
+priceChange: -3.43000000
+lastPrice: 233.30000000
+prevClosePrice: 236.53000000
+volume: 5984.74986000
+count: 2571
+----------------------------------
+Symbol: null
+priceChange: 4.35000000
+lastPrice: 140.81900000
+prevClosePrice: 136.45200000
+volume: 45167.87300000
+count: 28519
+----------------------------------
+Symbol: null
+priceChange: -0.00017000
+lastPrice: 0.99501000
+prevClosePrice: 0.99517000
+volume: 2.57940000
+count: 355
+----------------------------------
+Symbol: null
+priceChange: 1.28610000
+lastPrice: 32.89390000
+prevClosePrice: 30.92430000
+volume: 0.53340000
+count: 123
+----------------------------------
+Symbol: null
+priceChange: 0.05557000
+lastPrice: 0.16087000
+prevClosePrice: 0.10741000
+volume: 19849420.10000000
+count: 17294
+----------------------------------
+Symbol: null
+priceChange: 0.05366000
+lastPrice: 0.15986000
+prevClosePrice: 0.10630000
+volume: 462147281.80000000
+count: 237719
+----------------------------------
+Symbol: null
+priceChange: -0.00000149
+lastPrice: 0.00001176
+prevClosePrice: 0.00001352
+volume: 5775927.00000000
+count: 485
+----------------------------------
+Symbol: null
+priceChange: -0.00937000
+lastPrice: 0.24913000
+prevClosePrice: 0.25804000
+volume: 36983695.90000000
+count: 31071
+----------------------------------
+Symbol: null
+priceChange: 4044.00000000
+lastPrice: 83653.00000000
+prevClosePrice: 79609.00000000
+volume: 1946.64600000
+count: 2371
+----------------------------------
+Symbol: null
+priceChange: 0.00003300
+lastPrice: 0.00193000
+prevClosePrice: 0.00190000
+volume: 38515.06000000
+count: 813
+----------------------------------
+Symbol: null
+priceChange: 0.10700000
+lastPrice: 2.47390000
+prevClosePrice: 2.30110000
+volume: 48945.94000000
+count: 820
+----------------------------------
+Symbol: null
+priceChange: -0.00000149
+lastPrice: 0.00001197
+prevClosePrice: 0.00001345
+volume: 1698865.30000000
+count: 7384
+----------------------------------
+Symbol: null
+priceChange: -0.00002000
+lastPrice: 0.00039800
+prevClosePrice: 0.00041800
+volume: 196655.54000000
+count: 911
+----------------------------------
+Symbol: null
+priceChange: -0.01760000
+lastPrice: 0.49490000
+prevClosePrice: 0.51270000
+volume: 436355.04000000
+count: 3428
+----------------------------------
+Symbol: null
+priceChange: -0.01450000
+lastPrice: 0.49520000
+prevClosePrice: 0.51240000
+volume: 2492719.94000000
+count: 6206
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000034
+prevClosePrice: 0.00000038
+volume: 26085023.00000000
+count: 1638
+----------------------------------
+Symbol: null
+priceChange: -0.00034000
+lastPrice: 0.01398000
+prevClosePrice: 0.01431000
+volume: 26120556.00000000
+count: 3889
+----------------------------------
+Symbol: null
+priceChange: 0.02195000
+lastPrice: 0.16400000
+prevClosePrice: 0.14321000
+volume: 28005.20000000
+count: 1822
+----------------------------------
+Symbol: null
+priceChange: 0.00000400
+lastPrice: 0.00016847
+prevClosePrice: 0.00016439
+volume: 384597.60000000
+count: 15739
+----------------------------------
+Symbol: null
+priceChange: 0.67820000
+lastPrice: 6.94370000
+prevClosePrice: 6.26510000
+volume: 70388.45000000
+count: 2235
+----------------------------------
+Symbol: null
+priceChange: 0.70260000
+lastPrice: 6.96250000
+prevClosePrice: 6.26000000
+volume: 1503181.57000000
+count: 35798
+----------------------------------
+Symbol: null
+priceChange: -0.00000630
+lastPrice: 0.00027630
+prevClosePrice: 0.00028260
+volume: 537570.00000000
+count: 3861
+----------------------------------
+Symbol: null
+priceChange: -0.00030000
+lastPrice: 0.34540000
+prevClosePrice: 0.34640000
+volume: 1438599.25000000
+count: 5457
+----------------------------------
+Symbol: null
+priceChange: -0.04800000
+lastPrice: 14.90000000
+prevClosePrice: 14.95400000
+volume: 48755.56300000
+count: 2717
+----------------------------------
+Symbol: null
+priceChange: -0.00000020
+lastPrice: 0.00000113
+prevClosePrice: 0.00000132
+volume: 42970238.00000000
+count: 6968
+----------------------------------
+Symbol: null
+priceChange: -0.00374000
+lastPrice: 0.04700000
+prevClosePrice: 0.05056000
+volume: 17808485.10000000
+count: 3054
+----------------------------------
+Symbol: null
+priceChange: -0.00333000
+lastPrice: 0.04702000
+prevClosePrice: 0.05029000
+volume: 177613704.20000000
+count: 35513
+----------------------------------
+Symbol: null
+priceChange: 7.78000000
+lastPrice: 42.56000000
+prevClosePrice: 34.84000000
+volume: 83949.70000000
+count: 5361
+----------------------------------
+Symbol: null
+priceChange: 0.07000000
+lastPrice: 5.45500000
+prevClosePrice: 5.39000000
+volume: 1045491.72000000
+count: 2539
+----------------------------------
+Symbol: null
+priceChange: -0.02930000
+lastPrice: 0.91060000
+prevClosePrice: 0.93990000
+volume: 650154.11000000
+count: 6046
+----------------------------------
+Symbol: null
+priceChange: -0.00082000
+lastPrice: 0.07971000
+prevClosePrice: 0.08054000
+volume: 2021651.60000000
+count: 1109
+----------------------------------
+Symbol: null
+priceChange: -0.02260000
+lastPrice: 0.23340000
+prevClosePrice: 0.25580000
+volume: 55393093.09000000
+count: 47276
+----------------------------------
+Symbol: null
+priceChange: -0.00005700
+lastPrice: 0.00020130
+prevClosePrice: 0.00026280
+volume: 1030117.00000000
+count: 2448
+----------------------------------
+Symbol: null
+priceChange: -0.06010000
+lastPrice: 0.25450000
+prevClosePrice: 0.31780000
+volume: 1622601.17000000
+count: 1982
+----------------------------------
+Symbol: null
+priceChange: -7.47400000
+lastPrice: 21.32600000
+prevClosePrice: 28.89000000
+volume: 109109.03000000
+count: 8353
+----------------------------------
+Symbol: null
+priceChange: -0.09100000
+lastPrice: 0.51900000
+prevClosePrice: 0.60700000
+volume: 2352982.75000000
+count: 4369
+----------------------------------
+Symbol: null
+priceChange: 0.00342000
+lastPrice: 0.06242000
+prevClosePrice: 0.05926000
+volume: 3144.10000000
+count: 184
+----------------------------------
+Symbol: null
+priceChange: 0.03630000
+lastPrice: 2.66020000
+prevClosePrice: 2.63870000
+volume: 22510.44000000
+count: 1428
+----------------------------------
+Symbol: null
+priceChange: -0.07300000
+lastPrice: 1.73400000
+prevClosePrice: 1.81500000
+volume: 1446410.34000000
+count: 4398
+----------------------------------
+Symbol: null
+priceChange: -7.13000000
+lastPrice: 154.08000000
+prevClosePrice: 161.21000000
+volume: 2728209.60000000
+count: 9511
+----------------------------------
+Symbol: null
+priceChange: -0.00000035
+lastPrice: 0.00000271
+prevClosePrice: 0.00000305
+volume: 11716099.00000000
+count: 4277
+----------------------------------
+Symbol: null
+priceChange: -0.00560000
+lastPrice: 0.11088000
+prevClosePrice: 0.11460000
+volume: 1845908.70000000
+count: 843
+----------------------------------
+Symbol: null
+priceChange: -0.00465000
+lastPrice: 0.11167000
+prevClosePrice: 0.11612000
+volume: 42633704.10000000
+count: 23306
+----------------------------------
+Symbol: null
+priceChange: -4.70000000
+lastPrice: 363.11000000
+prevClosePrice: 367.81000000
+volume: 3799.68499000
+count: 4614
+----------------------------------
+Symbol: null
+priceChange: 1133.39000000
+lastPrice: 28365.97000000
+prevClosePrice: 27237.04000000
+volume: 93.06780700
+count: 9982
+----------------------------------
+Symbol: null
+priceChange: -122.28
+lastPrice: 1028.00
+prevClosePrice: 1122.52
+volume: 304099.00000000
+count: 206
+----------------------------------
+Symbol: null
+priceChange: -0.00000176
+lastPrice: 0.00002409
+prevClosePrice: 0.00002588
+volume: 97552.00000000
+count: 891
+----------------------------------
+Symbol: null
+priceChange: -0.00002660
+lastPrice: 0.00079250
+prevClosePrice: 0.00081910
+volume: 15946.00000000
+count: 208
+----------------------------------
+Symbol: null
+priceChange: 0.00750000
+lastPrice: 0.99030000
+prevClosePrice: 0.98010000
+volume: 235096.43000000
+count: 2077
+----------------------------------
+Symbol: null
+priceChange: -0.09470000
+lastPrice: 0.35000000
+prevClosePrice: 0.43690000
+volume: 1315.27990000
+count: 4189
+----------------------------------
+Symbol: null
+priceChange: -98.52000000
+lastPrice: 437.36000000
+prevClosePrice: 535.00000000
+volume: 6024.55768000
+count: 23756
+----------------------------------
+Symbol: null
+priceChange: -0.00000048
+lastPrice: 0.00000300
+prevClosePrice: 0.00000347
+volume: 6708966.00000000
+count: 5573
+----------------------------------
+Symbol: null
+priceChange: -0.00000970
+lastPrice: 0.00009930
+prevClosePrice: 0.00010680
+volume: 2141553.00000000
+count: 2270
+----------------------------------
+Symbol: null
+priceChange: 0.00000330
+lastPrice: 0.00042950
+prevClosePrice: 0.00042740
+volume: 85677.00000000
+count: 385
+----------------------------------
+Symbol: null
+priceChange: 0.00240000
+lastPrice: 0.53040000
+prevClosePrice: 0.52910000
+volume: 407489.79000000
+count: 1016
+----------------------------------
+Symbol: null
+priceChange: -0.63300000
+lastPrice: 14.01300000
+prevClosePrice: 14.59600000
+volume: 243260.09000000
+count: 9131
+----------------------------------
+Symbol: null
+priceChange: -0.22600000
+lastPrice: 0.20400000
+prevClosePrice: 0.42800000
+volume: 12699126.79000000
+count: 4837
+----------------------------------
+Symbol: null
+priceChange: -5.69400000
+lastPrice: 26.91200000
+prevClosePrice: 32.66500000
+volume: 578816.77000000
+count: 26021
+----------------------------------
+Symbol: null
+priceChange: -0.04700000
+lastPrice: 0.28400000
+prevClosePrice: 0.33100000
+volume: 72840448.43000000
+count: 31603
+----------------------------------
+Symbol: null
+priceChange: -4.56000000
+lastPrice: 85.25000000
+prevClosePrice: 89.07000000
+volume: 9560.53101000
+count: 1311
+----------------------------------
+Symbol: null
+priceChange: -179.00000000
+lastPrice: 7771.00000000
+prevClosePrice: 7950.00000000
+volume: 3910.70729000
+count: 411
+----------------------------------
+Symbol: null
+priceChange: 347.20000000
+lastPrice: 12468.80000000
+prevClosePrice: 12066.60000000
+volume: 1337.32043000
+count: 2487
+----------------------------------
+Symbol: null
+priceChange: -0.01130000
+lastPrice: 0.23200000
+prevClosePrice: 0.24350000
+volume: 11537838.00000000
+count: 3239
+----------------------------------
+Symbol: null
+priceChange: -0.02087000
+lastPrice: 0.24769000
+prevClosePrice: 0.26857000
+volume: 28096868.60000000
+count: 22292
+----------------------------------
+Symbol: null
+priceChange: -0.00001570
+lastPrice: 0.00011150
+prevClosePrice: 0.00012740
+volume: 262501.00000000
+count: 627
+----------------------------------
+Symbol: null
+priceChange: -0.01580000
+lastPrice: 0.14080000
+prevClosePrice: 0.15600000
+volume: 1115532.98000000
+count: 1700
+----------------------------------
+Symbol: null
+priceChange: -0.00000224
+lastPrice: 0.00000828
+prevClosePrice: 0.00001053
+volume: 26119829.00000000
+count: 29824
+----------------------------------
+Symbol: null
+priceChange: -0.00005208
+lastPrice: 0.00027382
+prevClosePrice: 0.00032590
+volume: 3048870.00000000
+count: 3916
+----------------------------------
+Symbol: null
+priceChange: -0.05671000
+lastPrice: 0.34278000
+prevClosePrice: 0.39957000
+volume: 166260938.70000000
+count: 164119
+----------------------------------
+Symbol: null
+priceChange: 0.00000160
+lastPrice: 0.00025170
+prevClosePrice: 0.00025010
+volume: 33368.81000000
+count: 4284
+----------------------------------
+Symbol: null
+priceChange: 1.14400000
+lastPrice: 10.66200000
+prevClosePrice: 9.67500000
+volume: 11274.68400000
+count: 1483
+----------------------------------
+Symbol: null
+priceChange: 0.95000000
+lastPrice: 10.45000000
+prevClosePrice: 9.50000000
+volume: 93424.83000000
+count: 8614
+----------------------------------
+Symbol: null
+priceChange: 0.00000330
+lastPrice: 0.00025180
+prevClosePrice: 0.00024920
+volume: 43487.73000000
+count: 4754
+----------------------------------
+Symbol: null
+priceChange: 0.97000000
+lastPrice: 10.43700000
+prevClosePrice: 9.36200000
+volume: 10494.33500000
+count: 1064
+----------------------------------
+Symbol: null
+priceChange: 1.01100000
+lastPrice: 10.40800000
+prevClosePrice: 9.36000000
+volume: 138874.75900000
+count: 10261
+----------------------------------
+Symbol: null
+priceChange: -19.00
+lastPrice: 23629.00
+prevClosePrice: 23622.00
+volume: 19810.79000000
+count: 45
+----------------------------------
+Symbol: null
+priceChange: -20.00
+lastPrice: 23650.00
+prevClosePrice: 23680.00
+volume: 93234.45000000
+count: 223
+----------------------------------
+Symbol: null
+priceChange: -0.00000890
+lastPrice: 0.00003194
+prevClosePrice: 0.00004087
+volume: 5259277.30000000
+count: 23681
+----------------------------------
+Symbol: null
+priceChange: -0.23370000
+lastPrice: 1.31610000
+prevClosePrice: 1.55190000
+volume: 27092115.62000000
+count: 133588
+----------------------------------
+Symbol: null
+priceChange: -0.00000003
+lastPrice: 0.00000023
+prevClosePrice: 0.00000026
+volume: 168345369.00000000
+count: 4310
+----------------------------------
+Symbol: null
+priceChange: -0.00043500
+lastPrice: 0.00943000
+prevClosePrice: 0.00990000
+volume: 383646389.00000000
+count: 19987
+----------------------------------
+Symbol: null
+priceChange: -0.00001580
+lastPrice: 0.00008660
+prevClosePrice: 0.00010610
+volume: 64475.56000000
+count: 2924
+----------------------------------
+Symbol: null
+priceChange: -0.31000000
+lastPrice: 3.56100000
+prevClosePrice: 3.87100000
+volume: 241132.37800000
+count: 6552
+----------------------------------
+Symbol: null
+priceChange: -0.00001500
+lastPrice: 0.00015420
+prevClosePrice: 0.00017100
+volume: 43982.47000000
+count: 2968
+----------------------------------
+Symbol: null
+priceChange: -0.11200000
+lastPrice: 6.37000000
+prevClosePrice: 6.48200000
+volume: 182493.14000000
+count: 8991
+----------------------------------
+Symbol: null
+priceChange: -0.00001220
+lastPrice: 0.00009620
+prevClosePrice: 0.00010970
+volume: 45860.78000000
+count: 2934
+----------------------------------
+Symbol: null
+priceChange: -0.20600000
+lastPrice: 3.95100000
+prevClosePrice: 4.15700000
+volume: 173699.05000000
+count: 6080
+----------------------------------
+Symbol: null
+priceChange: -0.00000421
+lastPrice: 0.00005244
+prevClosePrice: 0.00005652
+volume: 257545.60000000
+count: 3661
+----------------------------------
+Symbol: null
+priceChange: 0.00420000
+lastPrice: 2.15690000
+prevClosePrice: 2.15500000
+volume: 1538665.30000000
+count: 8093
+----------------------------------
+Symbol: null
+priceChange: -0.00000496
+lastPrice: 0.00000433
+prevClosePrice: 0.00000951
+volume: 21690905.00000000
+count: 21067
+----------------------------------
+Symbol: null
+priceChange: -0.17360000
+lastPrice: 0.17690000
+prevClosePrice: 0.35050000
+volume: 57393520.59000000
+count: 45830
+----------------------------------
+Symbol: null
+priceChange: 0.01280000
+lastPrice: 0.14650000
+prevClosePrice: 0.00000000
+volume: 465404.00000000
+count: 125
+----------------------------------
+Symbol: null
+priceChange: 0.26500000
+lastPrice: 2.27500000
+prevClosePrice: 0.00000000
+volume: 119579.68000000
+count: 262
+----------------------------------
+Symbol: null
+priceChange: 0.79000000
+lastPrice: 11.60000000
+prevClosePrice: 0.00000000
+volume: 2934.54800000
+count: 169
+----------------------------------
+Symbol: null
+priceChange: 0.02120000
+lastPrice: 0.28000000
+prevClosePrice: 0.00000000
+volume: 125292.37000000
+count: 306
+----------------------------------
