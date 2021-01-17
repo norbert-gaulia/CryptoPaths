@@ -42,9 +42,7 @@ public class Trades implements Serializable {
         this.baseAsset = (String)baseAsset;
     }
     
-    public void setQuote(Object quoteAsset) {
-        this.quoteAsset = (String) quoteAsset;
-    }
+    public void setQuote(Object quoteAsset) { this.quoteAsset = (String) quoteAsset; }
     
     public void setLastPrice(Object lastPrice) {
        this.lastPrice = (String) lastPrice;

@@ -39,6 +39,7 @@ public class GraphIO {
                 trade = new Trades();
                 trade.setBase(baseAsset);
                 trade.setQuote(quoteAsset);
+                trade.setSymbol(baseAsset+""+quoteAsset);
                 if (exchangeInfo.getSymbols().get(i).getStatus().equals(SymbolStatus.TRADING))
                     graph.addEdge(baseAsset, quoteAsset, exchangeInfo.getSymbols().get(i).getSymbol(), trade);
             }

@@ -12,7 +12,9 @@ import static com.binance.api.client.domain.account.NewOrder.limitBuy;
 import java.util.List;
 
 public class Exchange {
- private final static BinanceApiClientFactory factory = BinanceApiClientFactory.newInstance();
+ private final static BinanceApiClientFactory factory = BinanceApiClientFactory.newInstance(
+         "AZCES3ywkryZfiRQ5HRAGp4JqsdoBxeBMqfu0U3oQHDsRj3nLuUAv0qL0MyGc9FU",
+         "a0IbpuUV1wzifgO16poUTqL5HenJBqZUgKqsAzTnNtYiXIG64YWH9FEF3EAfJH0q");
  private final static BinanceApiRestClient client = factory.newRestClient();
 
  public static void trade(List<Path> pathList, double directPrice) {
