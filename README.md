@@ -8,7 +8,7 @@ The eventual plan is to introduce a feature that allows the user to trade using 
 
 Running the program:
 
-javac -cp .;binance-java-api-master.jar;JSON-java-master.jar PathFinder.java
+javac -cp .;binance-java-api-master.jar App.java
 
-java -cp .;binance-java-api-master.jar;JSON-java-master.jar PathFinder
+java -cp .;binance-java-api-master.jar App
  
